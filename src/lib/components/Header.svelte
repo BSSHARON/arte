@@ -2,7 +2,7 @@
 	import { page } from '$app/state';
     import { cart } from '$lib/stores/cart.svelte.js';
 	import { favorites } from '$lib/stores/favorites.svelte';
-    let menuOpen = false;
+    let menuOpen = $state(false);
 
 	function toggleMenu() {
 		menuOpen = !menuOpen;
@@ -25,7 +25,7 @@
 					</a>
 					<!-- ***** Logo End ***** -->
 					<!-- ***** Menu Start ***** -->
-					<ul class="nav">
+					<ul class="nav" style:display={menuOpen ? 'block' : 'none'}>
 						<li class="scroll-to-section"><a href="/" class:active={page.url.pathname === '/'}>דף הבית</a></li>
 						<li class="scroll-to-section"><a href="/about" class:active={page.url.pathname === '/about'}>אודות</a></li>
 						<li class="scroll-to-section"><a href="/oilpaintings" class:active={page.url.pathname === '/oilpaintings'}>ציורי שמן</a></li>
@@ -50,7 +50,7 @@
 						</li>
 						<li class="scroll-to-section"><a href="/baton03" class:active={page.url.pathname === '/baton03'}>נרות, מבשמים ואווירה</a></li>
 					</ul>        
-					<a class='menu-trigger'>
+					<a class='menu-trigger' onclick={toggleMenu} >
 						<span>Menu</span>
 					</a>
 					<!-- ***** Menu End ***** -->
