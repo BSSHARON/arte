@@ -7,7 +7,7 @@
   console.log(cart.cart)
 </script>
 
-<div class="cart-page ">
+<div class="cart-page " dir="rtl">
     <h1>סל הקניות</h1>
     {#if cart.cart.length > 0}
         <div class="cart-items">
@@ -28,7 +28,8 @@
 
 <style>
     .cart-page {
-        margin-top: 100px;
+        text-align: center;
+        margin-top: 140px;
         max-width: 1200px;
         padding: 20px;
     }

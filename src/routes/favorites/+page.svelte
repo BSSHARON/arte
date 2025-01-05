@@ -31,10 +31,11 @@
 
 <style>
 	.favorites-page {
-		margin-top: 100px;
-		max-width: 1200px;
-		padding: 20px;
-	}
+		text-align: center;
+        margin-top: 140px;
+        max-width: 1200px;
+        padding: 20px;
+    }
 
 	.product-list {
 		display: grid;
