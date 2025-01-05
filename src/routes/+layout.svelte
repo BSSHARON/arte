@@ -1,5 +1,4 @@
 <script>
-	import { fade, fly } from 'svelte/transition';
 	import '../app.css';
 	let { children } = $props();
     import Header from '$lib/components/Header.svelte';
