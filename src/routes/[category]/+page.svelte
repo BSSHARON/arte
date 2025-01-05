@@ -63,7 +63,7 @@
           <div class="item">
             <div class="thumb">
               <div class="hover-content">
-                <ul>
+                <ul dir="rtl">	
                   <li><a href={`/${page.params.category}/${item.id}`}><i class="fa fa-eye"></i></a></li>
                   <li><a  onclick={() => addToFavorites(item)}><i class="fa fa-star"></i></a></li>
                   <li><a  onclick={() => addToCart(item)}><i class="fa fa-shopping-cart"></i></a></li>
