@@ -5,6 +5,7 @@
 	import Footer from '$lib/components/Footer.svelte';
 	import { onMount } from 'svelte';
 	import { cart } from '$lib/stores/cart.svelte';
+	import { favorites } from '$lib/stores/favorites.svelte';
 	onMount(() => {
 if (localStorage.getItem('cart')) {
 	console.log(localStorage.getItem('cart'));

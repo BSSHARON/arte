@@ -2,7 +2,7 @@
   import { products } from '$lib/data/products';
   import { page } from '$app/state';
   import { cart, addToCart, removeFromCart } from '$lib/stores/cart.svelte.js';
-  import { favorites } from '$lib/stores/favorites.svelte.js';
+  import { favorites, addToFavorites, removeFromFavorites } from '$lib/stores/favorites.svelte.js';
 	import { fly, fade } from 'svelte/transition';
 
   let categoryData = $state({});
@@ -18,12 +18,6 @@
       items = currentCategory.items;
     }
   });
-
- function addToFavorites(item) {
-    if (!(favorites.favorites.includes(item.id))) {
-      favorites.favorites.push(item.id);
-    }
-  }
 
 
 </script>
@@ -64,9 +58,9 @@
             <div class="thumb">
               <div class="hover-content">
                 <ul dir="rtl">	
-                  <li><a href={`/${page.params.category}/${item.id}`}><i class="fa fa-eye"></i></a></li>
-                  <li><a  onclick={() => addToFavorites(item)}><i class="fa fa-star"></i></a></li>
-                  <li><a  onclick={() => addToCart(item)}><i class="fa fa-shopping-cart"></i></a></li>
+                  <li><a href={`/${page.params.category}/${item.id}`}><i  class="fa fa-eye "></i></a></li>
+                  <li><a  onclick={() => favorites.favorites.map(i => i.id).includes(item.id) ? removeFromFavorites(item) : addToFavorites(item)}><i class:active={favorites.favorites.map(i => i.id).includes(item.id)} class="fa fa-star"></i></a></li>
+                  <li><a  onclick={() => cart.cart.map(i => i.id).includes(item.id) ? removeFromCart(item) : addToCart(item)}><i class:active={cart.cart.map(i => i.id).includes(item.id)} class="fa fa-shopping-cart"></i></a></li>
                 </ul>
               </div>
               <img src={item.images[0].src} alt={item.images[0].alt}>
@@ -110,3 +104,8 @@
     </div>
   </section>
   {/key}
+<style>
+  .active{
+    color: #f1c40f;
+  }
+</style>

@@ -1,13 +1,13 @@
-<footer>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-3">
-                <div class="first-item">
-                    <div class="logo">
+<footer dir="rtl">
+    <div class="container"  dir="rtl">
+        <div class="row"  dir="rtl">
+            <div class="col-lg-3"  dir="rtl">
+                <div class="first-item"  dir="rtl">
+                    <div class="logo"  dir="rtl">
                         <img src="/images/white-logo.png" alt="hexashop ecommerce templatemo">
                     </div>
-                    <ul>
-                        <li><a href="#">איסוף הזמנות מראשון לציון - בתיאום מראש</a></li>
+                    <ul  dir="rtl">
+                        <li  dir="rtl"><a href="#">איסוף הזמנות מראשון לציון - בתיאום מראש</a></li>
                         <li><a href="https://wa.me/972502374217">דברו איתנו בווטסאפ</a></li>
                         <li><a href="tel:+9720502374217">050-2374217</a></li>
                     </ul>

@@ -9,6 +9,7 @@
 	 * @type {string | any[]}
 	 */
 	let favoriteProducts = $derived.by(() => {
+		console.log(favorites.favorites);
 		return allItems.filter((product) => favorites.favorites.includes(product.id));
 	});
 </script>

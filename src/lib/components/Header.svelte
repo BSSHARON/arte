@@ -7,15 +7,25 @@
 	function toggleMenu() {
 		menuOpen = !menuOpen;
 	}
+	let subMenu1open = $state(false);
+	let subMenu2open = $state(false);
+	function toggleSubMenu1  (){
+		subMenu1open = !subMenu1open;	
+	}
+	function toggleSubMenu2  (){
+		subMenu2open = !subMenu2open;	
+	}
 	$effect(() => {
 		if(navigating.to && menuOpen) {
 			menuOpen = false;
 		}
 		})
- 
+ let scrollY = $state(0)
 </script>
+<svelte:window bind:scrollY/>
  <!-- ***** Header Area Start ***** -->
- <header class="header-area header-sticky">
+ <header class="header-area header-sticky " class:background-header={scrollY > 100}>
+	 
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
@@ -31,18 +41,20 @@
 						<li class="scroll-to-section"><a href="/about" class:active={page.url.pathname === '/about'}>אודות</a></li>
 						<li class="scroll-to-section"><a href="/oilpaintings" class:active={page.url.pathname === '/oilpaintings'}>ציורי שמן</a></li>
 						<li class="scroll-to-section"><a href="/digitalart" class:active={page.url.pathname === '/digitalart'}>אומנות דיגיטלית</a></li>
-						<li class="submenu">
+						<li class="submenu" onclick={toggleSubMenu1}>
 							<a href="javascript:;">מארזים - בטון</a>
-							<ul>
+							
+							<ul class:active={subMenu1open}>
 								<li><a href="/">Lovely White</a></li>
 								<li><a href="/">Minimal Moods</a></li>
 								<li><a href="/">Neutral Vibes</a></li>
 								<li><a href="/">Timeless Concrete</a></li>
 							</ul>
+							
 						</li>
-						<li class="submenu">
+						<li class="submenu" onclick={toggleSubMenu2} >
 							<a >בטון - עבודת יד</a>
-							<ul>
+							<ul class:active={subMenu2open}>
 								<li><a href="/baton01" class:active={page.url.pathname === '/baton01'}>אקססוריז לעיצוב הבית</a></li>
 								<li><a href="/baton02" class:active={page.url.pathname === '/baton02'}>קערות בטון מעוצבות  </a></li>
 								<li><a href="/baton03" class:active={page.url.pathname === '/baton03'}>פמוטי בטון </a></li>
