@@ -3,14 +3,15 @@
     import { cart } from '$lib/stores/cart.svelte.js';
 	import { favorites } from '$lib/stores/favorites.svelte';
     let menuOpen = $state(false);
-
+	import { navigating } from '$app/state';
 	function toggleMenu() {
 		menuOpen = !menuOpen;
 	}
-
-  $effect(() => {
-	console.log(favorites.favorites,cart.cart, favorites.favorites.length);
-  });
+	$effect(() => {
+		if(navigating.to && menuOpen) {
+			menuOpen = false;
+		}
+		})
  
 </script>
  <!-- ***** Header Area Start ***** -->
@@ -18,14 +19,14 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
-				<nav class="main-nav">
+				<nav class="main-nav" >
 					<!-- ***** Logo Start ***** -->
 					<a href="/" class="logo">
 						<img src="/images/logo.png">
 					</a>
 					<!-- ***** Logo End ***** -->
 					<!-- ***** Menu Start ***** -->
-					<ul class="nav" style:display={menuOpen ? 'block' : 'none'}>
+					<ul class="nav" style:display={menuOpen ? 'block' : 'none'} >
 						<li class="scroll-to-section"><a href="/" class:active={page.url.pathname === '/'}>דף הבית</a></li>
 						<li class="scroll-to-section"><a href="/about" class:active={page.url.pathname === '/about'}>אודות</a></li>
 						<li class="scroll-to-section"><a href="/oilpaintings" class:active={page.url.pathname === '/oilpaintings'}>ציורי שמן</a></li>

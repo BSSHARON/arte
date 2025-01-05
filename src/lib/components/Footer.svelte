@@ -40,7 +40,8 @@
                 <div class="under-footer">
                     <p>Copyright © 2024 ARTE B SHARON. 
                     
-                    <br>ARTE <a href="#" target="_parent" title="free css templates">050-2374217</a></p>
+                    <br>ARTE <a href="#" target="_parent" title="free css templates">050-2374217</a>
+                    <br><a href="mailto:arte.bsharon@gmail.com">arte.bsharon@gmail.com</a></p>
                     <ul>
                         <li><a href="https://www.facebook.com/profile.php?id=61557695587039"><i class="fa fa-facebook"></i></a></li>
                         <li><a href="https://www.instagram.com/arte.bsharon/"><i class="fa fa-instagram"></i></a></li>
