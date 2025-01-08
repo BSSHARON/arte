@@ -328,7 +328,7 @@ export const products = [
                 "name": "שלישית פמוטי בטון - קו נקי",
                 "price": 70,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    {"src":"/images/‏‏pamotim03.jpg", "alt":"","only": true },
                     { "src": "/images/pamotim0301.jpg", "alt": "" },
                     { "src": "/images/pamotim0302.jpg", "alt": "" }
                 ],
