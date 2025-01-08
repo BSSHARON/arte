@@ -11,6 +11,7 @@ export const products = [
                 "name": "זוג פסלוני בטון דקורטיבי",
                 "price": 70,
                 "images": [
+                     {"src":"/images/Accessoriesbaton00003.jpg", "alt":"","only": true },
                     { "src": "/images/Accessoriesbaton001.jpg", "alt": "" },
                     { "src": "/images/Accessoriesbaton002.jpg", "alt": "" }
                 ],
