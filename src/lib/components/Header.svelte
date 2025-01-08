@@ -62,25 +62,24 @@
 							</ul>
 						</li>
 						<li class="scroll-to-section"><a href="/baton03" class:active={page.url.pathname === '/baton03'}>נרות, מבשמים ואווירה</a></li>
-					</ul>        
+							<li class="scroll-to-section">
+							  <a href="/favorites">
+								<i class="fa fa-heart"></i>
+								<span>{favorites.favorites ? Object.keys(favorites.favorites).length : 0}</span>
+							  </a>
+							</li>
+							<li class="scroll-to-section">
+							  <a href="/cart">
+								<i class="fa fa-shopping-cart"></i>
+								<span>{cart.cart ? cart.cart.length : 0}</span>
+							  </a>
+							</li>
+						  </ul>
 					<a class='menu-trigger' onclick={toggleMenu} >
 						<span>Menu</span>
 					</a>
 					<!-- ***** Menu End ***** -->
-          <ul class="nav">
-            <li class="scroll-to-section">
-              <a href="/favorites">
-                <i class="fa fa-heart"></i>
-                <span>{favorites.favorites ? Object.keys(favorites.favorites).length : 0}</span>
-              </a>
-            </li>
-            <li class="scroll-to-section">
-              <a href="/cart">
-                <i class="fa fa-shopping-cart"></i>
-                <span>{cart.cart ? cart.cart.length : 0}</span>
-              </a>
-            </li>
-          </ul>
+     
 				</nav>
 			</div>
 		</div>
