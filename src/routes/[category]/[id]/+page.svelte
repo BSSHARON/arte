@@ -26,7 +26,9 @@
                 <div class="col-lg-8">
                 <div class="left-images">
                     {#each item.images as img}
+                    {#if img.only !== true}
                     <img src="{img.src}" alt="{img.alt}">
+                    {/if}
                     {/each}
                 </div>
             </div>
