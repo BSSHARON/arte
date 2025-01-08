@@ -678,12 +678,12 @@ export const products = [
     },
         {
         "id": "250",
-        "category": "digita88",
+        "category": "baton05",
         "header": " דיגיטלית",
         "sub": "תמונות | ציורים | אומנות דיגיטלית",
         "items": [
             {
-                "category": "digita88",
+                "category": "baton05",
                 "id": "251",
                 "name": "ARTA-01",
                 "price": "00 ₪",
@@ -694,7 +694,7 @@ export const products = [
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
             },
             {
-                "category": "digitalart",
+                "category": "baton05",
                 "id": "252",
                 "name": "ARTA-02",
                 "price": "00 ₪",
@@ -705,7 +705,7 @@ export const products = [
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
             },
             {
-                "category": "digitalart",
+                "category": "baton05",
                 "id": "253",
                 "name": "ARTA-03",
                 "price": "00 ₪",
@@ -716,7 +716,7 @@ export const products = [
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
             },
             {
-                "category": "digitalart",
+                "category": "baton05",
                 "id": "154",
                 "name": "ARTA-04",
                 "price": "00 ₪",
@@ -727,7 +727,7 @@ export const products = [
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
             },
             {
-                "category": "digitalart",
+                "category": "baton05",
                 "id": "155",
                 "name": "ARTA-05",
                 "price": "00 ₪",
@@ -738,7 +738,7 @@ export const products = [
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
             },
             {
-                "category": "digitalart",
+                "category": "baton05",
                 "id": "156",
                 "name": "ARTA-06",
                 "price": "00 ₪",
@@ -749,7 +749,7 @@ export const products = [
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
             },
             {
-                "category": "digitalart",
+                "category": "baton05",
                 "id": "157",
                 "name": "ARTA-07",
                 "price": "00 ₪",
@@ -760,7 +760,7 @@ export const products = [
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
             },
             {
-                "category": "digitalart",
+                "category": "baton05",
                 "id": "158",
                 "name": "ARTA-08",
                 "price": "00 ₪",
@@ -771,7 +771,7 @@ export const products = [
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
             },
             {
-                "category": "digitalart",
+                "category": "baton05",
                 "id": "159",
                 "name": "ARTA-09",
                 "price": "00 ₪",
@@ -783,6 +783,114 @@ export const products = [
             }
         ]
     },
+    {
+        "id": "250",
+        "category": "baton05",
+        "header": " דיגיטלית",
+        "sub": "תמונות | ציורים | אומנות דיגיטלית",
+        "items": [
+            {
+                "category": "baton05",
+                "id": "251",
+                "name": "ARTA-01",
+                "price": "00 ₪",
+                "images": [
+                    { "src": "/images/digital01.jpg", "alt": "" }
+                ],
+                "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+            },
+            {
+                "category": "baton05",
+                "id": "252",
+                "name": "ARTA-02",
+                "price": "00 ₪",
+                "images": [
+                    { "src": "/images/digital02.jpg", "alt": "" }
+                ],
+                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+            },
+            {
+                "category": "baton05",
+                "id": "253",
+                "name": "ARTA-03",
+                "price": "00 ₪",
+                "images": [
+                    { "src": "/images/digital03.jpg", "alt": "" }
+                ],
+                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+            },
+            {
+                "category": "baton05",
+                "id": "154",
+                "name": "ARTA-04",
+                "price": "00 ₪",
+                "images": [
+                    { "src": "/images/digital04.jpg", "alt": "" }
+                ],
+                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+            },
+            {
+                "category": "baton05",
+                "id": "155",
+                "name": "ARTA-05",
+                "price": "00 ₪",
+                "images": [
+                    { "src": "/images/digital05.jpg", "alt": "" }
+                ],
+                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+            },
+            {
+                "category": "baton05",
+                "id": "156",
+                "name": "ARTA-06",
+                "price": "00 ₪",
+                "images": [
+                    { "src": "/images/digital06.jpg", "alt": "" }
+                ],
+                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+            },
+            {
+                "category": "baton05",
+                "id": "157",
+                "name": "ARTA-07",
+                "price": "00 ₪",
+                "images": [
+                    { "src": "/images/digital07.jpg", "alt": "" }
+                ],
+                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+            },
+            {
+                "category": "baton05",
+                "id": "158",
+                "name": "ARTA-08",
+                "price": "00 ₪",
+                "images": [
+                    { "src": "/images/digital08.jpg", "alt": "" }
+                ],
+                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+            },
+            {
+                "category": "baton05",
+                "id": "159",
+                "name": "ARTA-09",
+                "price": "00 ₪",
+                "images": [
+                    { "src": "/images/digital09.jpg", "alt": "" }
+                ],
+                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+            }
+        ]
+    },
+
 ];
 
 
