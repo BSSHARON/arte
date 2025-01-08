@@ -151,7 +151,7 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - ויטה",
                 "price": 60,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    {"src":"/images/kaarabaton02.jpg", "alt":"","only": true },
                     { "src": "/images/kaara0201.jpg", "alt": "" },
                     { "src": "/images/kaara0202.jpg", "alt": "" }
                 ],
@@ -164,7 +164,7 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - פירנצה",
                 "price": 70,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    {"src":"/images/kaarabaton03.jpg", "alt":"","only": true },
                     { "src": "/images/kaara0301.jpg", "alt": "" },
                     { "src": "/images/kaara0302.jpg", "alt": "" }
                 ],
@@ -177,7 +177,7 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - תבור",
                 "price": 70,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    {"src":"/images/kaarabaton04.jpg", "alt":"","only": true },
                     { "src": "/images/kaara0401.jpg", "alt": "" },
                     { "src": "/images/kaara0402.jpg", "alt": "" }
                 ],
@@ -190,7 +190,7 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - שקד",
                 "price": 40,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    {"src":"/images/kaarabaton05.jpg", "alt":"","only": true },
                     { "src": "/images/kaara0501.jpg", "alt": "" },
                     { "src": "/images/kaara0502.jpg", "alt": "" }
                 ],
@@ -203,7 +203,7 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - פקאן",
                 "price": 40,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    {"src":"/images/kaarabaton06.jpg", "alt":"","only": true },
                     { "src": "/images/kaara0601.jpg", "alt": "" },
                     { "src": "/images/kaara0602.jpg", "alt": "" }
                 ],
@@ -216,7 +216,7 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - מיני נורדי",
                 "price": 40,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    {"src":"/images/kaarabaton07.jpg", "alt":"","only": true },
                     { "src": "/images/kaara0701.jpg", "alt": "" },
                     { "src": "/images/kaara0702.jpg", "alt": "" }
                 ],
@@ -229,7 +229,7 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - בר",
                 "price": 40,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    {"src":"/images/kaarabaton08.jpg", "alt":"","only": true },
                     { "src": "/images/kaara00801.jpg", "alt": "" },
                     { "src": "/images/kaara00802.jpg", "alt": "" }
                 ],
@@ -242,7 +242,7 @@ export const products = [
                 "name": "קערת בטון דקורטיבית",
                 "price": 40,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    {"src":"/images/kaarabaton09.jpg", "alt":"","only": true },
                     { "src": "/images/kaara0901.jpg", "alt": "" },
                     { "src": "/images/kaara0901.jpg", "alt": "" }
                 ],
@@ -302,7 +302,7 @@ export const products = [
                 "name": "זוג פמוטי בטון בצורת כדור",
                 "price": 70,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    {"src":"/images/‏‏pamotim01.jpg", "alt":"","only": true },
                     { "src": "/images/‏‏pamotim001.jpg", "alt": "" },
                     { "src": "/images/‏‏pamotim002.jpg", "alt": "" }
                 ],
@@ -315,7 +315,7 @@ export const products = [
                 "name": "זוג פמוטי בטון - לב",
                 "price": 70,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    {"src":"/images/‏‏pamotim02.jpg", "alt":"","only": true },
                     { "src": "/images/‏‏pamotim0201.jpg", "alt": "" },
                     { "src": "/images/‏‏pamotim0202.jpg", "alt": "" }
                 ],
@@ -427,7 +427,7 @@ export const products = [
                 "name": "אגרטל בטון דקורטיבית - סתיו",
                 "price": 70,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    {"src":"/images/agratebaton01.jpg", "alt":"","only": true },
                     { "src": "/images/agratel0101.jpg", "alt": "" },
                     { "src": "/images/agratel0102.jpg", "alt": "" }
                 ],
@@ -440,7 +440,7 @@ export const products = [
                 "name": "אגרטל בטון דקורטיבי - יובל",
                 "price": 70,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    {"src":"/images/agratebaton02.jpg", "alt":"","only": true },
                     { "src": "/images/agratel0201.jpg", "alt": "" },
                     { "src": "/images/agratel0202.jpg", "alt": "" }
                 ],
@@ -453,7 +453,7 @@ export const products = [
                 "name": "אגרטל בטון דקורטיבי - תאיר",
                 "price": 70,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    {"src":"/images/agratebaton03.jpg", "alt":"","only": true },
                     { "src": "/images/agratel0301.jpg", "alt": "" },
                     { "src": "/images/agratel0302.jpg", "alt": "" }
                 ],
@@ -466,7 +466,7 @@ export const products = [
                 "name": "אגרטל בטון דקורטיבי - הוד",
                 "price": 70,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    {"src":"/images/agratebaton04.jpg", "alt":"","only": true },
                     { "src": "/images/agratel0401.jpg", "alt": "" },
                     { "src": "/images/agratel0402.jpg", "alt": "" }
                 ],
@@ -479,7 +479,7 @@ export const products = [
                 "name": "אגרטל בטון דקורטיבי - הוד",
                 "price": 50,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    {"src":"/images/agratebaton05.jpg", "alt":"","only": true },
                     { "src": "/images/agratel0501.jpg", "alt": "" },
                     { "src": "/images/agratel0502.jpg", "alt": "" }
                 ],
@@ -492,7 +492,7 @@ export const products = [
                 "name": "אגרטל בטון דקורטיבי - בטוניק",
                 "price": 40,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    {"src":"/images/agratebaton06.jpg", "alt":"","only": true },
                     { "src": "/images/agratel0701.jpg", "alt": "" },
                     { "src": "/images/agratel0702.jpg", "alt": "" }
                 ],
@@ -505,7 +505,7 @@ export const products = [
                 "name": "אגרטל בטון דקורטיבי - לומינה",
                 "price": 40,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    {"src":"/images/agratebaton07.jpg", "alt":"","only": true },
                     { "src": "/images/agratel0801.jpg", "alt": "" },
                     { "src": "/images/agratel0802.jpg", "alt": "" }
                 ],
@@ -518,13 +518,27 @@ export const products = [
                 "name": "אגרטל בטון דקורטיבי - צורן",
                 "price": 50,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    {"src":"/images/agratebaton08.jpg", "alt":"","only": true },
+                    { "src": "/images/agratel0901.jpg", "alt": "" },
+                    { "src": "/images/agratel0902.jpg", "alt": "" }
+                ],
+                "description": "אגרטל בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתי - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
+                 "quote": "גודל האגרטל:\\nקוטר חיצוני 7 ס”מ\\nגובה 10 ס”מ"
+            },
+            {
+                "category": "baton04",
+                "id": "285",
+                "name": "אגרטל בטון דקורטיבי - צורן",
+                "price": 50,
+                "images": [
+                    {"src":"/images/agratebaton08.jpg", "alt":"","only": true },
                     { "src": "/images/agratel0901.jpg", "alt": "" },
                     { "src": "/images/agratel0902.jpg", "alt": "" }
                 ],
                 "description": "אגרטל בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתי - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
                  "quote": "גודל האגרטל:\\nקוטר חיצוני 7 ס”מ\\nגובה 10 ס”מ"
             }
+
         ]
     },
     {
