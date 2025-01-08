@@ -23,22 +23,10 @@
 </script>
 {#key page.params.category}
 
-<div class="page-heading" id="top"  in:fly="{{ y: 200, duration: 2000 }}" out:fly="{{ duration: 2000, y: 200 }}">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="inner-content">
-          <h2></h2>
-          <span></span>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- ***** Main Banner Area End ***** -->
+
 
 <!-- ***** Products Area Starts ***** -->
-<section class="section" id="products"  in:fly="{{ y: 200, duration: 2000 }}" out:fly="{{ duration: 2000, y: 200 }}" >
+<section class="section" style="margin-top: 100px;"  id="products"  in:fly="{{ y: 200, duration: 2000 }}" out:fly="{{ duration: 2000, y: 200 }}" >
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
