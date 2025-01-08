@@ -48,6 +48,7 @@
 								<li><a href="/">Lovely White</a></li>
 								<li><a href="/">Minimal Moods</a></li>
 								<li><a href="/">Neutral Vibes</a></li>
+								<li class="scroll-to-section"><a href="/baton03" class:active={page.url.pathname === '/baton03'}>נרות, מבשמים ואווירה</a></li>
 								<li><a href="/">Timeless Concrete</a></li>
 							</ul>
 							
@@ -61,7 +62,6 @@
 								<li><a href="/baton04" class:active={page.url.pathname === '/baton04'}>אגרטלים מבטון</a></li>
 							</ul>
 						</li>
-						<li class="scroll-to-section"><a href="/baton03" class:active={page.url.pathname === '/baton03'}>נרות, מבשמים ואווירה</a></li>
 							<li class="scroll-to-section">
 							  <a href="/favorites">
 								<i class="fa fa-heart"></i>
