@@ -7,7 +7,7 @@
 
 </script>
 
-    <section class="section" id="product">
+    <section style="margin-top: 100px;" class="section" id="product">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
@@ -46,7 +46,7 @@
                                     <h4>עלות : {item.price} ₪</h4>
     
                                     {#if item && cart.cart && cart.cart.find(p => p.id === item.id)}
-                                    <button onclick={() => removeFromCart(item)}>הסר מהסל</button>
+                                    <button class="active" onclick={() => removeFromCart(item)}>הסר מהסל</button> 
                                 {:else if item}
                                     <button onclick={() => addToCart(item)}>הוסף לסל</button>
                                 {/if}</div>
@@ -72,5 +72,9 @@
         button:hover {
     color: #fff;
     background-color: #2a2a2a;
+}
+.active{
+    border-color: #f1c40f;
+
 }
      </style>
