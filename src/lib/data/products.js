@@ -11,7 +11,6 @@ export const products = [
                 "name": "זוג פסלוני בטון דקורטיבי",
                 "price": 70,
                 "images": [
-                     {"src":"/images/Accessoriesbaton01.jpg", "alt":"","only": true },
                     { "src": "/images/Accessoriesbaton001.jpg", "alt": "" },
                     { "src": "/images/Accessoriesbaton002.jpg", "alt": "" }
                 ],
@@ -24,7 +23,6 @@ export const products = [
                 "name": "פסלון זוג בטון דקורטיבי",
                 "price": 70,
                 "images": [
-                    {"src":"/images/Accessoriesbaton00001.jpg", "alt":"","only": true },
                     { "src": "/images/Accessoriesbaton0001.jpg", "alt": "" },
                     { "src": "/images/Accessoriesbaton0002.jpg", "alt": "" }
                 ],
@@ -37,7 +35,6 @@ export const products = [
                 "name": "כפות ידיים בטון",
                 "price": 60,
                 "images": [
-                    {"src":"/images/Accessoriesbaton00003.jpg", "alt":"","only": true },
                     { "src": "/images/Accessoriesbaton0000031.jpg", "alt": "" },
                     { "src": "/images/Accessoriesbaton0000032.jpg", "alt": "" }
                 ],
@@ -50,7 +47,6 @@ export const products = [
                 "name": "פסלון פיל בטון דקורטיבי",
                 "price": 50,
                 "images": [
-                    {"src":"/images/Accessoriesbaton00004.jpg", "alt":"","only": true },
                     { "src": "/images/Accessoriesbaton0000041.jpg", "alt": "" },
                     { "src": "/images/Accessoriesbaton0000042.jpg", "alt": "" }
                 ],
@@ -63,7 +59,6 @@ export const products = [
                 "name": "פסלון פיל בטון",
                 "price": 50,
                 "images": [
-                    {"src":"/images/Accessoriesbaton000005.jpg", "alt":"","only": true },
                     { "src": "/images/Accessoriesbaton0501.jpg", "alt": "" },
                     { "src": "/images/Accessoriesbaton0502.jpg", "alt": "" }
                 ],
@@ -76,54 +71,23 @@ export const products = [
                 "name": "חצי פנים אישה - בטון",
                 "price": 60,
                 "images": [
-                    {"src":"/images/Accessoriesbaton00007.jpg", "alt":"","only": true },
                     { "src": "/images/Accessoriesbaton00000701.jpg", "alt": "" },
                     { "src": "/images/Accessoriesbaton00000701.jpg", "alt": "" }
                 ],
                 "description": "בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
                 "quote": "גודל :\\nקוטר חיצוני 10/7 ס”מ\\nגובה 8 ס”מ"
             },
-            {
+             {
                 "category": "baton01",
-                "id": "106",
-                "name": "חצי פנים אישה - בטון",
-                "price": 60,
+                "id": "107",
+                "name": "ידיים מחזיקות לב בטון",
+                "price": 45,
                 "images": [
-                    {"src":"/images/Accessoriesbaton00003.jpg", "alt":"","only": true },
-                    { "src": "/images/Accessoriesbaton00000701.jpg", "alt": "" },
-                    { "src": "/images/Accessoriesbaton00000701.jpg", "alt": "" }
+                    { "src": "/images/‏‏Accessoriesbaton009.jpg", "alt": "" }
                 ],
-                "description": "בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                "quote": "גודל :\\nקוטר חיצוני 10/7 ס”מ\\nגובה 8 ס”מ"
-            },
-            {
-                "category": "baton01",
-                "id": "106",
-                "name": "חצי פנים אישה - בטון",
-                "price": 60,
-                "images": [
-                    {"src":"/images/Accessoriesbaton00003.jpg", "alt":"","only": true },
-                    { "src": "/images/Accessoriesbaton00000701.jpg", "alt": "" },
-                    { "src": "/images/Accessoriesbaton00000701.jpg", "alt": "" }
-                ],
-                "description": "בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                "quote": "גודל :\\nקוטר חיצוני 10/7 ס”מ\\nגובה 8 ס”מ"
-            },
-            {
-                "category": "baton01",
-                "id": "106",
-                "name": "חצי פנים אישה - בטון",
-                "price": 60,
-                "images": [
-                    {"src":"/images/Accessoriesbaton00003.jpg", "alt":"","only": true },
-                    { "src": "/images/Accessoriesbaton00000701.jpg", "alt": "" },
-                    { "src": "/images/Accessoriesbaton00000701.jpg", "alt": "" }
-                ],
-                "description": "בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                "quote": "גודל :\\nקוטר חיצוני 10/7 ס”מ\\nגובה 8 ס”מ"
-            },
-
-
+                "description": "ידיים מחזיקות לב בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
+                "quote": "גודל :\\nקוטר חיצוני 10 ס”מ\\nגובה 8 ס”מ"
+            }
         ]
     },
     {
@@ -138,7 +102,6 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - נורדי",
                 "price": 65,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
                     { "src": "/images/kaara0101.jpg", "alt": "" },
                     { "src": "/images/kaara0102.jpg", "alt": "" }
                 ],
@@ -151,7 +114,6 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - ויטה",
                 "price": 60,
                 "images": [
-                    {"src":"/images/kaarabaton02.jpg", "alt":"","only": true },
                     { "src": "/images/kaara0201.jpg", "alt": "" },
                     { "src": "/images/kaara0202.jpg", "alt": "" }
                 ],
@@ -164,7 +126,6 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - פירנצה",
                 "price": 70,
                 "images": [
-                    {"src":"/images/kaarabaton03.jpg", "alt":"","only": true },
                     { "src": "/images/kaara0301.jpg", "alt": "" },
                     { "src": "/images/kaara0302.jpg", "alt": "" }
                 ],
@@ -177,7 +138,6 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - תבור",
                 "price": 70,
                 "images": [
-                    {"src":"/images/kaarabaton04.jpg", "alt":"","only": true },
                     { "src": "/images/kaara0401.jpg", "alt": "" },
                     { "src": "/images/kaara0402.jpg", "alt": "" }
                 ],
@@ -190,7 +150,6 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - שקד",
                 "price": 40,
                 "images": [
-                    {"src":"/images/kaarabaton05.jpg", "alt":"","only": true },
                     { "src": "/images/kaara0501.jpg", "alt": "" },
                     { "src": "/images/kaara0502.jpg", "alt": "" }
                 ],
@@ -203,7 +162,6 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - פקאן",
                 "price": 40,
                 "images": [
-                    {"src":"/images/kaarabaton06.jpg", "alt":"","only": true },
                     { "src": "/images/kaara0601.jpg", "alt": "" },
                     { "src": "/images/kaara0602.jpg", "alt": "" }
                 ],
@@ -216,7 +174,6 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - מיני נורדי",
                 "price": 40,
                 "images": [
-                    {"src":"/images/kaarabaton07.jpg", "alt":"","only": true },
                     { "src": "/images/kaara0701.jpg", "alt": "" },
                     { "src": "/images/kaara0702.jpg", "alt": "" }
                 ],
@@ -229,7 +186,6 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - בר",
                 "price": 40,
                 "images": [
-                    {"src":"/images/kaarabaton08.jpg", "alt":"","only": true },
                     { "src": "/images/kaara00801.jpg", "alt": "" },
                     { "src": "/images/kaara00802.jpg", "alt": "" }
                 ],
@@ -242,7 +198,6 @@ export const products = [
                 "name": "קערת בטון דקורטיבית",
                 "price": 40,
                 "images": [
-                    {"src":"/images/kaarabaton09.jpg", "alt":"","only": true },
                     { "src": "/images/kaara0901.jpg", "alt": "" },
                     { "src": "/images/kaara0901.jpg", "alt": "" }
                 ],
@@ -255,7 +210,6 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - נורדי",
                 "price": 65,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
                     { "src": "/images/kaara0101.jpg", "alt": "" },
                     { "src": "/images/kaara0102.jpg", "alt": "" }
                 ],
@@ -268,7 +222,6 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - ויטה",
                 "price": 60,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
                     { "src": "/images/kaara0201.jpg", "alt": "" },
                     { "src": "/images/kaara0202.jpg", "alt": "" }
                 ],
@@ -281,7 +234,6 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - פירנצה",
                 "price": 70,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
                     { "src": "/images/kaara0301.jpg", "alt": "" },
                     { "src": "/images/kaara0302.jpg", "alt": "" }
                 ],
@@ -302,7 +254,6 @@ export const products = [
                 "name": "זוג פמוטי בטון בצורת כדור",
                 "price": 70,
                 "images": [
-                    {"src":"/images/‏‏pamotim01.jpg", "alt":"","only": true },
                     { "src": "/images/‏‏pamotim001.jpg", "alt": "" },
                     { "src": "/images/‏‏pamotim002.jpg", "alt": "" }
                 ],
@@ -315,7 +266,6 @@ export const products = [
                 "name": "זוג פמוטי בטון - לב",
                 "price": 70,
                 "images": [
-                    {"src":"/images/‏‏pamotim02.jpg", "alt":"","only": true },
                     { "src": "/images/‏‏pamotim0201.jpg", "alt": "" },
                     { "src": "/images/‏‏pamotim0202.jpg", "alt": "" }
                 ],
@@ -328,7 +278,6 @@ export const products = [
                 "name": "שלישית פמוטי בטון - קו נקי",
                 "price": 70,
                 "images": [
-                    {"src":"/images/‏‏pamotim03.jpg", "alt":"","only": true },
                     { "src": "/images/pamotim0301.jpg", "alt": "" },
                     { "src": "/images/pamotim0302.jpg", "alt": "" }
                 ],
@@ -341,7 +290,6 @@ export const products = [
                 "name": "זוג פמוטי בטון - הוד",
                 "price": 50,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
                     { "src": "/images/pamotim04.jpg", "alt": "" },
                     { "src": "/images/pamotim04.jpg", "alt": "" }
                 ],
@@ -354,7 +302,6 @@ export const products = [
                 "name": "שלישית פמוטי בטון - לובטון",
                 "price": 70,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
                     { "src": "/images/pamotim05.jpg", "alt": "" },
                     { "src": "/images/pamotim05.jpg", "alt": "" }
                 ],
@@ -367,7 +314,6 @@ export const products = [
                 "name": "זוג פמוטים מבטון נר עומד",
                 "price": 60,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
                     { "src": "/images/pamotim0051.jpg", "alt": "" },
                     { "src": "/images/pamotim0052.jpg", "alt": "" }
                 ],
@@ -380,7 +326,6 @@ export const products = [
                 "name": "פמוט בצורת לב בטון",
                 "price": 45,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
                     { "src": "/images/pamotim00071.jpg", "alt": "" },
                     { "src": "/images/pamotim00072.jpg", "alt": "" }
                 ],
@@ -393,7 +338,6 @@ export const products = [
                 "name": "אגרטל בטון דקורטיבי - לומינה",
                 "price": 40,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
                     { "src": "images/agratebaton08.jpg", "alt": "" },
                     { "src": "/images/pamotim00072.jpg", "alt": "" }
                 ],
@@ -406,7 +350,6 @@ export const products = [
                 "name": "אגרטל בטון דקורטיבי - צורן",
                 "price": 60,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
                     { "src": "/images/agratebaton09.jpg", "alt": "" },
                     { "src": "/images/pamotim00072.jpg", "alt": "" }
                 ],
@@ -427,7 +370,6 @@ export const products = [
                 "name": "אגרטל בטון דקורטיבית - סתיו",
                 "price": 70,
                 "images": [
-                    {"src":"/images/agratebaton01.jpg", "alt":"","only": true },
                     { "src": "/images/agratel0101.jpg", "alt": "" },
                     { "src": "/images/agratel0102.jpg", "alt": "" }
                 ],
@@ -440,7 +382,6 @@ export const products = [
                 "name": "אגרטל בטון דקורטיבי - יובל",
                 "price": 70,
                 "images": [
-                    {"src":"/images/agratebaton02.jpg", "alt":"","only": true },
                     { "src": "/images/agratel0201.jpg", "alt": "" },
                     { "src": "/images/agratel0202.jpg", "alt": "" }
                 ],
@@ -453,7 +394,6 @@ export const products = [
                 "name": "אגרטל בטון דקורטיבי - תאיר",
                 "price": 70,
                 "images": [
-                    {"src":"/images/agratebaton03.jpg", "alt":"","only": true },
                     { "src": "/images/agratel0301.jpg", "alt": "" },
                     { "src": "/images/agratel0302.jpg", "alt": "" }
                 ],
@@ -466,7 +406,6 @@ export const products = [
                 "name": "אגרטל בטון דקורטיבי - הוד",
                 "price": 70,
                 "images": [
-                    {"src":"/images/agratebaton04.jpg", "alt":"","only": true },
                     { "src": "/images/agratel0401.jpg", "alt": "" },
                     { "src": "/images/agratel0402.jpg", "alt": "" }
                 ],
@@ -479,7 +418,6 @@ export const products = [
                 "name": "אגרטל בטון דקורטיבי - הוד",
                 "price": 50,
                 "images": [
-                    {"src":"/images/agratebaton05.jpg", "alt":"","only": true },
                     { "src": "/images/agratel0501.jpg", "alt": "" },
                     { "src": "/images/agratel0502.jpg", "alt": "" }
                 ],
@@ -492,7 +430,6 @@ export const products = [
                 "name": "אגרטל בטון דקורטיבי - בטוניק",
                 "price": 40,
                 "images": [
-                    {"src":"/images/agratebaton06.jpg", "alt":"","only": true },
                     { "src": "/images/agratel0701.jpg", "alt": "" },
                     { "src": "/images/agratel0702.jpg", "alt": "" }
                 ],
@@ -505,7 +442,6 @@ export const products = [
                 "name": "אגרטל בטון דקורטיבי - לומינה",
                 "price": 40,
                 "images": [
-                    {"src":"/images/agratebaton07.jpg", "alt":"","only": true },
                     { "src": "/images/agratel0801.jpg", "alt": "" },
                     { "src": "/images/agratel0802.jpg", "alt": "" }
                 ],
@@ -518,27 +454,12 @@ export const products = [
                 "name": "אגרטל בטון דקורטיבי - צורן",
                 "price": 50,
                 "images": [
-                    {"src":"/images/agratebaton08.jpg", "alt":"","only": true },
-                    { "src": "/images/agratel0901.jpg", "alt": "" },
-                    { "src": "/images/agratel0902.jpg", "alt": "" }
-                ],
-                "description": "אגרטל בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתי - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                 "quote": "גודל האגרטל:\\nקוטר חיצוני 7 ס”מ\\nגובה 10 ס”מ"
-            },
-            {
-                "category": "baton04",
-                "id": "285",
-                "name": "אגרטל בטון דקורטיבי - צורן",
-                "price": 50,
-                "images": [
-                    {"src":"/images/agratebaton08.jpg", "alt":"","only": true },
                     { "src": "/images/agratel0901.jpg", "alt": "" },
                     { "src": "/images/agratel0902.jpg", "alt": "" }
                 ],
                 "description": "אגרטל בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתי - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
                  "quote": "גודל האגרטל:\\nקוטר חיצוני 7 ס”מ\\nגובה 10 ס”מ"
             }
-
         ]
     },
     {
@@ -658,7 +579,7 @@ export const products = [
                 "category": "digitalart",
                 "id": "151",
                 "name": "ARTA-01",
-                "price": "00 ₪",
+                "price": 0,
                 "images": [
                     { "src": "/images/digital01.jpg", "alt": "" }
                 ],
@@ -669,7 +590,7 @@ export const products = [
                 "category": "digitalart",
                 "id": "152",
                 "name": "ARTA-02",
-                "price": "00 ₪",
+                "price": 0,
                 "images": [
                     { "src": "/images/digital02.jpg", "alt": "" }
                 ],
@@ -680,7 +601,7 @@ export const products = [
                 "category": "digitalart",
                 "id": "153",
                 "name": "ARTA-03",
-                "price": "00 ₪",
+                "price":0,
                 "images": [
                     { "src": "/images/digital03.jpg", "alt": "" }
                 ],
@@ -691,7 +612,7 @@ export const products = [
                 "category": "digitalart",
                 "id": "154",
                 "name": "ARTA-04",
-                "price": "00 ₪",
+                "price":0,
                 "images": [
                     { "src": "/images/digital04.jpg", "alt": "" }
                 ],
@@ -702,7 +623,7 @@ export const products = [
                 "category": "digitalart",
                 "id": "155",
                 "name": "ARTA-05",
-                "price": "00 ₪",
+                "price":0,
                 "images": [
                     { "src": "/images/digital05.jpg", "alt": "" }
                 ],
@@ -713,7 +634,7 @@ export const products = [
                 "category": "digitalart",
                 "id": "156",
                 "name": "ARTA-06",
-                "price": "00 ₪",
+                "price":0,
                 "images": [
                     { "src": "/images/digital06.jpg", "alt": "" }
                 ],
@@ -724,7 +645,7 @@ export const products = [
                 "category": "digitalart",
                 "id": "157",
                 "name": "ARTA-07",
-                "price": "00 ₪",
+                "price":0,
                 "images": [
                     { "src": "/images/digital07.jpg", "alt": "" }
                 ],
@@ -735,7 +656,7 @@ export const products = [
                 "category": "digitalart",
                 "id": "158",
                 "name": "ARTA-08",
-                "price": "00 ₪",
+                "price":0,
                 "images": [
                     { "src": "/images/digital08.jpg", "alt": "" }
                 ],
@@ -746,62 +667,26 @@ export const products = [
                 "category": "digitalart",
                 "id": "159",
                 "name": "ARTA-09",
-                "price": "00 ₪",
-                "images": [
-                    { "src": "/images/digital09.jpg", "alt": "" }
-                ],
-                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
-            },
-            {
-                "category": "digitalart",
-                "id": "260",
-                "name": "ARTA-09",
-                "price": "00 ₪",
-                "images": [
-                    { "src": "/images/digital09.jpg", "alt": "" }
-                ],
-                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
-            },
-            {
-                "category": "digitalart",
-                "id": "261",
-                "name": "ARTA-09",
-                "price": "00 ₪",
-                "images": [
-                    { "src": "/images/digital09.jpg", "alt": "" }
-                ],
-                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
-            },
-            {
-                "category": "digitalart",
-                "id": "262",
-                "name": "ARTA-09",
-                "price": "00 ₪",
+                "price":0,
                 "images": [
                     { "src": "/images/digital09.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
             }
-
-
-
         ]
     },
         {
         "id": "250",
-        "category": "baton05",
+        "category": "digita88",
         "header": " דיגיטלית",
         "sub": "תמונות | ציורים | אומנות דיגיטלית",
         "items": [
             {
-                "category": "baton05",
+                "category": "digita88",
                 "id": "251",
                 "name": "ARTA-01",
-                "price": "00 ₪",
+                "price":0,
                 "images": [
                     { "src": "/images/digital01.jpg", "alt": "" }
                 ],
@@ -809,10 +694,10 @@ export const products = [
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
             },
             {
-                "category": "baton05",
+                "category": "digitalart",
                 "id": "252",
                 "name": "ARTA-02",
-                "price": "00 ₪",
+                "price":0,
                 "images": [
                     { "src": "/images/digital02.jpg", "alt": "" }
                 ],
@@ -820,10 +705,10 @@ export const products = [
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
             },
             {
-                "category": "baton05",
+                "category": "digitalart",
                 "id": "253",
                 "name": "ARTA-03",
-                "price": "00 ₪",
+                "price":0,
                 "images": [
                     { "src": "/images/digital03.jpg", "alt": "" }
                 ],
@@ -831,10 +716,10 @@ export const products = [
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
             },
             {
-                "category": "baton05",
+                "category": "digitalart",
                 "id": "154",
                 "name": "ARTA-04",
-                "price": "00 ₪",
+                "price":0,
                 "images": [
                     { "src": "/images/digital04.jpg", "alt": "" }
                 ],
@@ -842,10 +727,10 @@ export const products = [
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
             },
             {
-                "category": "baton05",
+                "category": "digitalart",
                 "id": "155",
                 "name": "ARTA-05",
-                "price": "00 ₪",
+                "price":0,
                 "images": [
                     { "src": "/images/digital05.jpg", "alt": "" }
                 ],
@@ -853,10 +738,10 @@ export const products = [
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
             },
             {
-                "category": "baton05",
+                "category": "digitalart",
                 "id": "156",
                 "name": "ARTA-06",
-                "price": "00 ₪",
+                "price":0,
                 "images": [
                     { "src": "/images/digital06.jpg", "alt": "" }
                 ],
@@ -864,10 +749,10 @@ export const products = [
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
             },
             {
-                "category": "baton05",
+                "category": "digitalart",
                 "id": "157",
                 "name": "ARTA-07",
-                "price": "00 ₪",
+                "price":0,
                 "images": [
                     { "src": "/images/digital07.jpg", "alt": "" }
                 ],
@@ -875,10 +760,10 @@ export const products = [
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
             },
             {
-                "category": "baton05",
+                "category": "digitalart",
                 "id": "158",
                 "name": "ARTA-08",
-                "price": "00 ₪",
+                "price":0,
                 "images": [
                     { "src": "/images/digital08.jpg", "alt": "" }
                 ],
@@ -886,10 +771,10 @@ export const products = [
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
             },
             {
-                "category": "baton05",
+                "category": "digitalart",
                 "id": "159",
                 "name": "ARTA-09",
-                "price": "00 ₪",
+                "price":0,
                 "images": [
                     { "src": "/images/digital09.jpg", "alt": "" }
                 ],
@@ -898,114 +783,6 @@ export const products = [
             }
         ]
     },
-    {
-        "id": "250",
-        "category": "baton05",
-        "header": " דיגיטלית",
-        "sub": "תמונות | ציורים | אומנות דיגיטלית",
-        "items": [
-            {
-                "category": "baton05",
-                "id": "251",
-                "name": "ARTA-01",
-                "price": "00 ₪",
-                "images": [
-                    { "src": "/images/digital01.jpg", "alt": "" }
-                ],
-                "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
-            },
-            {
-                "category": "baton05",
-                "id": "252",
-                "name": "ARTA-02",
-                "price": "00 ₪",
-                "images": [
-                    { "src": "/images/digital02.jpg", "alt": "" }
-                ],
-                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
-            },
-            {
-                "category": "baton05",
-                "id": "253",
-                "name": "ARTA-03",
-                "price": "00 ₪",
-                "images": [
-                    { "src": "/images/digital03.jpg", "alt": "" }
-                ],
-                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
-            },
-            {
-                "category": "baton05",
-                "id": "154",
-                "name": "ARTA-04",
-                "price": "00 ₪",
-                "images": [
-                    { "src": "/images/digital04.jpg", "alt": "" }
-                ],
-                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
-            },
-            {
-                "category": "baton05",
-                "id": "155",
-                "name": "ARTA-05",
-                "price": "00 ₪",
-                "images": [
-                    { "src": "/images/digital05.jpg", "alt": "" }
-                ],
-                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
-            },
-            {
-                "category": "baton05",
-                "id": "156",
-                "name": "ARTA-06",
-                "price": "00 ₪",
-                "images": [
-                    { "src": "/images/digital06.jpg", "alt": "" }
-                ],
-                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
-            },
-            {
-                "category": "baton05",
-                "id": "157",
-                "name": "ARTA-07",
-                "price": "00 ₪",
-                "images": [
-                    { "src": "/images/digital07.jpg", "alt": "" }
-                ],
-                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
-            },
-            {
-                "category": "baton05",
-                "id": "158",
-                "name": "ARTA-08",
-                "price": "00 ₪",
-                "images": [
-                    { "src": "/images/digital08.jpg", "alt": "" }
-                ],
-                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
-            },
-            {
-                "category": "baton05",
-                "id": "159",
-                "name": "ARTA-09",
-                "price": "00 ₪",
-                "images": [
-                    { "src": "/images/digital09.jpg", "alt": "" }
-                ],
-                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
-            }
-        ]
-    },
-
 ];
 
 
