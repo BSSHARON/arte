@@ -29,7 +29,7 @@
                                             <h4>קצת עליי</h4>
                                             <p>יצירתיות מדבקת, העבר אותה הלאה.</p>
                                             <div class="main-border-button">
-                                                <a href="about.html">קרא עוד</a>
+                                                <a href="/about">קרא עוד</a>
                                             </div>
                                         </div>
                                     </div>
@@ -49,7 +49,7 @@
                                             <h4>בטון</h4>
                                             <p>כלים ויצירות מבטון איכותי לעיצוב הבית</p>
                                             <div class="main-border-button">
-                                                <a href="baton02.html">קרא עוד</a>
+                                                <a href="/baton02">קרא עוד</a>
                                             </div>
                                         </div>
                                     </div>
@@ -69,7 +69,7 @@
                                             <h4>אומנות דיגיטלית</h4>
                                             <p>אומנות דיגיטלית יחודית - תמונות וציורים</p>
                                             <div class="main-border-button">
-                                                <a href="digitalart.html">קרא עוד</a>
+                                                <a href="/digitalart">קרא עוד</a>
                                             </div>
                                         </div>
                                     </div>
@@ -89,7 +89,7 @@
                                             <h4>ציור בצבעי שמן על בד קנבס,</h4>
                                             <p>מלא צבע והרמוניה, עם משיכות צבע , טקסטורה גסה.</p>
                                             <div class="main-border-button">
-                                                <a href="oilpaintings.html">קרא עוד</a>
+                                                <a href="/oilpaintings">קרא עוד</a>
                                             </div>
                                         </div>
                                     </div>
