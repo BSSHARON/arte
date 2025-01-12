@@ -8,7 +8,7 @@ async function sendMail(name = "",phone = ""){
   const transporter = nodemailer.createTransport({
     service: 'gmail',
 auth: {
-  user: "office0528844911@gmail.com",
+  user: "arte.bsharon@gmail.com",
   pass: import.meta.env.VITE_PASSWORD
 }
   });
@@ -22,8 +22,8 @@ auth: {
   });
 
   const options = {
-    from:"office0528844911@gmail.com",
-    to: 'office0528844911@gmail.com',
+    from:"arte.bsharon@gmail.com",
+    to: 'arte.bsharon@gmail.com',
     subject: 'פניה חדשה',
     html: emailHtml
   };
