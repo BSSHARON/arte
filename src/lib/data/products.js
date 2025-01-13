@@ -1,3 +1,38 @@
+/**
+ * @typedef {Object} ProductImage
+ * @property {string} src
+ * @property {string} alt
+ * @property {boolean} [only]
+ */
+
+/**
+ * @typedef {Object} ProductSize
+ * @property {string} name
+ * @property {number} quantity
+ */
+
+/**
+ * @typedef {Object} ProductItem
+ * @property {string} category
+ * @property {string} id
+ * @property {string} name
+ * @property {number} price
+ * @property {ProductImage[]} images
+ * @property {string} description
+ * @property {string} quote
+ * @property {(string[] | ProductSize[])} sizes
+ */
+
+/**
+ * @typedef {Object} ProductCategory
+ * @property {string} id
+ * @property {string} category
+ * @property {string} header
+ * @property {string} sub
+ * @property {ProductItem[]} items
+ */
+
+/** @type {ProductCategory[]} */
 export const products = [
     {
         "id": "100",
@@ -11,12 +46,13 @@ export const products = [
                 "name": "זוג פסלוני בטון דקורטיבי",
                 "price": 70,
                 "images": [
-                     {"src":"/images/Accessoriesbaton01.jpg", "alt":"","only": true },
+                    { "src": "/images/Accessoriesbaton01.jpg", "alt": "", "only": true },
                     { "src": "/images/Accessoriesbaton001.jpg", "alt": "" },
                     { "src": "/images/Accessoriesbaton002.jpg", "alt": "" }
                 ],
                 "description": `זוג פסלוני בטון בעבודת יד.\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).`,
-                "quote": `גודל הפסלונים: קוטר חיצוני 5 ס”מ גובה 9.5 ס”מ`
+                "quote": `גודל הפסלונים: קוטר חיצוני 5 ס”מ גובה 9.5 ס”מ`,
+                "sizes": []
             },
             {
                 "category": "baton01",
@@ -24,12 +60,13 @@ export const products = [
                 "name": "פסלון זוג בטון דקורטיבי",
                 "price": 70,
                 "images": [
-                    {"src":"/images/Accessoriesbaton00001.jpg", "alt":"","only": true },
+                    { "src": "/images/Accessoriesbaton00001.jpg", "alt": "", "only": true },
                     { "src": "/images/Accessoriesbaton0001.jpg", "alt": "" },
                     { "src": "/images/Accessoriesbaton0002.jpg", "alt": "" }
                 ],
                 "description": "פסלון זוג בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                "quote": "גודל פסלון זוג:\\nקוטר חיצוני 9.5 ס”מ\\nגובה 9.8 ס”מ"
+                "quote": "גודל פסלון זוג:\\nקוטר חיצוני 9.5 ס”מ\\nגובה 9.8 ס”מ",
+                "sizes": []
             },
             {
                 "category": "baton01",
@@ -37,12 +74,13 @@ export const products = [
                 "name": "כפות ידיים בטון",
                 "price": 60,
                 "images": [
-                    {"src":"/images/Accessoriesbaton00003.jpg", "alt":"","only": true },
+                    { "src": "/images/Accessoriesbaton00003.jpg", "alt": "", "only": true },
                     { "src": "/images/Accessoriesbaton0000031.jpg", "alt": "" },
                     { "src": "/images/Accessoriesbaton0000032.jpg", "alt": "" }
                 ],
                 "description": "כפות ידיים בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                "quote": "גודל כפות ידיים :\\nקוטר חיצוני 15/14 ס”מ\\nגובה 5 ס”מ"
+                "quote": "גודל כפות ידיים :\\nקוטר חיצוני 15/14 ס”מ\\nגובה 5 ס”מ",
+                "sizes": []
             },
             {
                 "category": "baton01",
@@ -50,12 +88,13 @@ export const products = [
                 "name": "פסלון פיל בטון דקורטיבי",
                 "price": 50,
                 "images": [
-                    {"src":"/images/Accessoriesbaton00004.jpg", "alt":"","only": true },
+                    { "src": "/images/Accessoriesbaton00004.jpg", "alt": "", "only": true },
                     { "src": "/images/Accessoriesbaton0000041.jpg", "alt": "" },
                     { "src": "/images/Accessoriesbaton0000042.jpg", "alt": "" }
                 ],
-                 "description": "פסלונ בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד) מגיע ללא צמח, תוספת סוקולנט 30 ₪.",
-                "quote": "גודל הפסלון:\\nקוטר חיצוני 5 ס”מ\\nגובה 9.5 ס”מ"
+                "description": "פסלונ בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד) מגיע ללא צמח, תוספת סוקולנט 30 ₪.",
+                "quote": "גודל הפסלון:\\nקוטר חיצוני 5 ס”מ\\nגובה 9.5 ס”מ",
+                "sizes": []
             },
             {
                 "category": "baton01",
@@ -63,12 +102,13 @@ export const products = [
                 "name": "פסלון פיל בטון",
                 "price": 50,
                 "images": [
-                    {"src":"/images/Accessoriesbaton000005.jpg", "alt":"","only": true },
+                    { "src": "/images/Accessoriesbaton000005.jpg", "alt": "", "only": true },
                     { "src": "/images/Accessoriesbaton0501.jpg", "alt": "" },
                     { "src": "/images/Accessoriesbaton0502.jpg", "alt": "" }
                 ],
                 "description": "פסלון בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד) מגיע ללא צמח, תוספת סוקולנט 30 ₪..",
-                "quote": "פסלון :\\nקוטר חיצוני 10/11 ס”מ\\nגובה 9 ס”מ"
+                "quote": "פסלון :\\nקוטר חיצוני 10/11 ס”מ\\nגובה 9 ס”מ",
+                "sizes": []
             },
             {
                 "category": "baton01",
@@ -76,12 +116,13 @@ export const products = [
                 "name": "חצי פנים אישה - בטון",
                 "price": 60,
                 "images": [
-                    {"src":"/images/Accessoriesbaton00007.jpg", "alt":"","only": true },
+                    { "src": "/images/Accessoriesbaton00007.jpg", "alt": "", "only": true },
                     { "src": "/images/Accessoriesbaton00000701.jpg", "alt": "" },
                     { "src": "/images/Accessoriesbaton00000701.jpg", "alt": "" }
                 ],
                 "description": "בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                "quote": "גודל :\\nקוטר חיצוני 10/7 ס”מ\\nגובה 8 ס”מ"
+                "quote": "גודל :\\nקוטר חיצוני 10/7 ס”מ\\nגובה 8 ס”מ",
+                "sizes": []
             },
             {
                 "category": "baton01",
@@ -89,12 +130,13 @@ export const products = [
                 "name": "חצי פנים אישה - בטון",
                 "price": 60,
                 "images": [
-                    {"src":"/images/Accessoriesbaton00003.jpg", "alt":"","only": true },
+                    { "src": "/images/Accessoriesbaton00003.jpg", "alt": "", "only": true },
                     { "src": "/images/Accessoriesbaton00000701.jpg", "alt": "" },
                     { "src": "/images/Accessoriesbaton00000701.jpg", "alt": "" }
                 ],
                 "description": "בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                "quote": "גודל :\\nקוטר חיצוני 10/7 ס”מ\\nגובה 8 ס”מ"
+                "quote": "גודל :\\nקוטר חיצוני 10/7 ס”מ\\nגובה 8 ס”מ",
+                "sizes": []
             },
             {
                 "category": "baton01",
@@ -102,12 +144,13 @@ export const products = [
                 "name": "חצי פנים אישה - בטון",
                 "price": 60,
                 "images": [
-                    {"src":"/images/Accessoriesbaton00003.jpg", "alt":"","only": true },
+                    { "src": "/images/Accessoriesbaton00003.jpg", "alt": "", "only": true },
                     { "src": "/images/Accessoriesbaton00000701.jpg", "alt": "" },
                     { "src": "/images/Accessoriesbaton00000701.jpg", "alt": "" }
                 ],
                 "description": "בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                "quote": "גודל :\\nקוטר חיצוני 10/7 ס”מ\\nגובה 8 ס”מ"
+                "quote": "גודל :\\nקוטר חיצוני 10/7 ס”מ\\nגובה 8 ס”מ",
+                "sizes": []
             },
             {
                 "category": "baton01",
@@ -115,14 +158,14 @@ export const products = [
                 "name": "חצי פנים אישה - בטון",
                 "price": 60,
                 "images": [
-                    {"src":"/images/Accessoriesbaton00003.jpg", "alt":"","only": true },
+                    { "src": "/images/Accessoriesbaton00003.jpg", "alt": "", "only": true },
                     { "src": "/images/Accessoriesbaton00000701.jpg", "alt": "" },
                     { "src": "/images/Accessoriesbaton00000701.jpg", "alt": "" }
                 ],
                 "description": "בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                "quote": "גודל :\\nקוטר חיצוני 10/7 ס”מ\\nגובה 8 ס”מ"
+                "quote": "גודל :\\nקוטר חיצוני 10/7 ס”מ\\nגובה 8 ס”מ",
+                "sizes": []
             },
-
 
         ]
     },
@@ -138,12 +181,13 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - נורדי",
                 "price": 65,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    { "src": "/images/kaarabaton01.jpg", "alt": "", "only": true },
                     { "src": "/images/kaara0101.jpg", "alt": "" },
                     { "src": "/images/kaara0102.jpg", "alt": "" }
                 ],
                 "description": `קערת בטון בעבודת יד.\nמאפיינים: עשויה בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).`,
-                "quote": `גודל הקערה: קוטר חיצוני 14.5 ס”מ קוטר פנימי 13.5 ס”מ גובה 6 ס”מ`
+                "quote": `גודל הקערה: קוטר חיצוני 14.5 ס”מ קוטר פנימי 13.5 ס”מ גובה 6 ס”מ`,
+                "sizes": []
             },
             {
                 "category": "baton02",
@@ -151,12 +195,13 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - ויטה",
                 "price": 60,
                 "images": [
-                    {"src":"/images/kaarabaton02.jpg", "alt":"","only": true },
+                    { "src": "/images/kaarabaton02.jpg", "alt": "", "only": true },
                     { "src": "/images/kaara0201.jpg", "alt": "" },
                     { "src": "/images/kaara0202.jpg", "alt": "" }
                 ],
                 "description": `קערת בטון בעבודת יד.\nמאפיינים: עשויה בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).`,
-                "quote": `גודל הקערה: קוטר חיצוני 18 ס”מ קוטר פנימי 17 ס”מ גובה 6 ס”מ`
+                "quote": `גודל הקערה: קוטר חיצוני 18 ס”מ קוטר פנימי 17 ס”מ גובה 6 ס”מ`,
+                "sizes": []
             },
             {
                 "category": "baton02",
@@ -164,12 +209,13 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - פירנצה",
                 "price": 70,
                 "images": [
-                    {"src":"/images/kaarabaton03.jpg", "alt":"","only": true },
+                    { "src": "/images/kaarabaton03.jpg", "alt": "", "only": true },
                     { "src": "/images/kaara0301.jpg", "alt": "" },
                     { "src": "/images/kaara0302.jpg", "alt": "" }
                 ],
                 "description": `קערת בטון בעבודת יד.\nמאפיינים: עשויה בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).`,
-                "quote": `גודל הקערה: קוטר חיצוני 25 ס”מ קוטר פנימי 23.5 ס”מ גובה 9 ס”מ`
+                "quote": `גודל הקערה: קוטר חיצוני 25 ס”מ קוטר פנימי 23.5 ס”מ גובה 9 ס”מ`,
+                "sizes": []
             },
             {
                 "category": "baton02",
@@ -177,12 +223,13 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - תבור",
                 "price": 70,
                 "images": [
-                    {"src":"/images/kaarabaton04.jpg", "alt":"","only": true },
+                    { "src": "/images/kaarabaton04.jpg", "alt": "", "only": true },
                     { "src": "/images/kaara0401.jpg", "alt": "" },
                     { "src": "/images/kaara0402.jpg", "alt": "" }
                 ],
                 "description": `קערת בטון בעבודת יד.\nמאפיינים: עשויה בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).`,
-                "quote": `גודל הקערה: קוטר חיצוני 19.5 ס”מ קוטר פנימי 19 ס”מ גובה 6 ס”מ`
+                "quote": `גודל הקערה: קוטר חיצוני 19.5 ס”מ קוטר פנימי 19 ס”מ גובה 6 ס”מ`,
+                "sizes": []
             },
             {
                 "category": "baton02",
@@ -190,12 +237,13 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - שקד",
                 "price": 40,
                 "images": [
-                    {"src":"/images/kaarabaton05.jpg", "alt":"","only": true },
+                    { "src": "/images/kaarabaton05.jpg", "alt": "", "only": true },
                     { "src": "/images/kaara0501.jpg", "alt": "" },
                     { "src": "/images/kaara0502.jpg", "alt": "" }
                 ],
                 "description": `קערת בטון בעבודת יד.\nמאפיינים: עשויה בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).`,
-                "quote": `גודל הקערה: קוטר חיצוני 15 ס”מ קוטר פנימי 14.5 ס”מ גובה 4.5 ס”מ`
+                "quote": `גודל הקערה: קוטר חיצוני 15 ס”מ קוטר פנימי 14.5 ס”מ גובה 4.5 ס”מ`,
+                "sizes": []
             },
             {
                 "category": "baton02",
@@ -203,12 +251,13 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - פקאן",
                 "price": 40,
                 "images": [
-                    {"src":"/images/kaarabaton06.jpg", "alt":"","only": true },
+                    { "src": "/images/kaarabaton06.jpg", "alt": "", "only": true },
                     { "src": "/images/kaara0601.jpg", "alt": "" },
                     { "src": "/images/kaara0602.jpg", "alt": "" }
                 ],
                 "description": `קערת בטון בעבודת יד.\nמאפיינים: עשויה בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).`,
-                "quote": `גודל הקערה: קוטר חיצוני 13 ס”מ גובה 4 ס”מ`
+                "quote": `גודל הקערה: קוטר חיצוני 13 ס”מ גובה 4 ס”מ`,
+                "sizes": []
             },
             {
                 "category": "baton02",
@@ -216,12 +265,13 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - מיני נורדי",
                 "price": 40,
                 "images": [
-                    {"src":"/images/kaarabaton07.jpg", "alt":"","only": true },
+                    { "src": "/images/kaarabaton07.jpg", "alt": "", "only": true },
                     { "src": "/images/kaara0701.jpg", "alt": "" },
                     { "src": "/images/kaara0702.jpg", "alt": "" }
                 ],
                 "description": `קערת בטון בעבודת יד.\nמאפיינים: עשויה בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).`,
-                "quote": `גודל הקערה: קוטר חיצוני 14.5 ס”מ גובה 4.5 ס”מ`
+                "quote": `גודל הקערה: קוטר חיצוני 14.5 ס”מ גובה 4.5 ס”מ`,
+                "sizes": []
             },
             {
                 "category": "baton02",
@@ -229,25 +279,27 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - בר",
                 "price": 40,
                 "images": [
-                    {"src":"/images/kaarabaton08.jpg", "alt":"","only": true },
+                    { "src": "/images/kaarabaton08.jpg", "alt": "", "only": true },
                     { "src": "/images/kaara00801.jpg", "alt": "" },
                     { "src": "/images/kaara00802.jpg", "alt": "" }
                 ],
                 "description": `קערת בטון בעבודת יד.\nמאפיינים: עשויה בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).`,
-                "quote": `גודל הקערה: קוטר חיצוני 17/10 ס”מ גובה 4 ס”מ`
+                "quote": `גודל הקערה: קוטר חיצוני 17/10 ס”מ גובה 4 ס”מ`,
+                "sizes": []
             },
-             {
+            {
                 "category": "baton02",
                 "id": "117",
                 "name": "קערת בטון דקורטיבית",
                 "price": 40,
                 "images": [
-                    {"src":"/images/kaarabaton09.jpg", "alt":"","only": true },
+                    { "src": "/images/kaarabaton09.jpg", "alt": "", "only": true },
                     { "src": "/images/kaara0901.jpg", "alt": "" },
                     { "src": "/images/kaara0901.jpg", "alt": "" }
                 ],
                 "description": `קערת בטון בעבודת יד.\nמאפיינים: עשויה בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).`,
-                "quote": `גודל הקערה: קוטר חיצוני 9 ס”מ גובה 6.5 ס”מ`
+                "quote": `גודל הקערה: קוטר חיצוני 9 ס”מ גובה 6.5 ס”מ`,
+                "sizes": []
             },
             {
                 "category": "baton02",
@@ -255,38 +307,41 @@ export const products = [
                 "name": "קערת בטון דקורטיבית - נורדי",
                 "price": 65,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    { "src": "/images/kaarabaton01.jpg", "alt": "", "only": true },
                     { "src": "/images/kaara0101.jpg", "alt": "" },
                     { "src": "/images/kaara0102.jpg", "alt": "" }
                 ],
                 "description": `קערת בטון בעבודת יד.\nמאפיינים: עשויה בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).`,
-                "quote": `גודל הקערה: קוטר חיצוני 14.5 ס”מ\nקוטר פנימי 13.5 ס”מ\nגובה 6 ס”מ`
+                "quote": `גודל הקערה: קוטר חיצוני 14.5 ס”מ\nקוטר פנימי 13.5 ס”מ\nגובה 6 ס”מ`,
+                "sizes": []
             },
-             {
+            {
                 "category": "baton02",
                 "id": "119",
                 "name": "קערת בטון דקורטיבית - ויטה",
                 "price": 60,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    { "src": "/images/kaarabaton01.jpg", "alt": "", "only": true },
                     { "src": "/images/kaara0201.jpg", "alt": "" },
                     { "src": "/images/kaara0202.jpg", "alt": "" }
                 ],
                 "description": `קערת בטון בעבודת יד.\nמאפיינים: עשויה בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).`,
-                "quote": `גודל הקערה: קוטר חיצוני 18 ס”מ\nקוטר פנימי 17 ס”מ\nגובה 6 ס”מ`
+                "quote": `גודל הקערה: קוטר חיצוני 18 ס”מ\nקוטר פנימי 17 ס”מ\nגובה 6 ס”מ`,
+                "sizes": []
             },
-             {
+            {
                 "category": "baton02",
                 "id": "120",
                 "name": "קערת בטון דקורטיבית - פירנצה",
                 "price": 70,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    { "src": "/images/kaarabaton01.jpg", "alt": "", "only": true },
                     { "src": "/images/kaara0301.jpg", "alt": "" },
                     { "src": "/images/kaara0302.jpg", "alt": "" }
                 ],
                 "description": `קערת בטון בעבודת יד.\nמאפיינים: עשויה בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).`,
-                "quote": `גודל הקערה: קוטר חיצוני 25 ס”מ\nקוטר פנימי 23.5 ס”מ\nגובה 9 ס”מ`
+                "quote": `גודל הקערה: קוטר חיצוני 25 ס”מ\nקוטר פנימי 23.5 ס”מ\nגובה 9 ס”מ`,
+                "sizes": []
             }
         ]
     },
@@ -302,12 +357,13 @@ export const products = [
                 "name": "זוג פמוטי בטון בצורת כדור",
                 "price": 70,
                 "images": [
-                    {"src":"/images/‏‏pamotim01.jpg", "alt":"","only": true },
+                    { "src": "/images/‏‏pamotim01.jpg", "alt": "", "only": true },
                     { "src": "/images/‏‏pamotim001.jpg", "alt": "" },
                     { "src": "/images/‏‏pamotim002.jpg", "alt": "" }
                 ],
                 "description": `זוג פמוטים בטון בעבודת יד.\nמאפיינים: עשוי בטון עמיד ואיכותי - צבעים ניטרליים.\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).`,
-                "quote": `גודל זוג פמוטים: קוטר חיצוני 8 ס”מ גובה 7 ס”מ`
+                "quote": `גודל זוג פמוטים: קוטר חיצוני 8 ס”מ גובה 7 ס”מ`,
+                "sizes": []
             },
             {
                 "category": "baton03",
@@ -315,12 +371,13 @@ export const products = [
                 "name": "זוג פמוטי בטון - לב",
                 "price": 70,
                 "images": [
-                    {"src":"/images/‏‏pamotim02.jpg", "alt":"","only": true },
+                    { "src": "/images/‏‏pamotim02.jpg", "alt": "", "only": true },
                     { "src": "/images/‏‏pamotim0201.jpg", "alt": "" },
                     { "src": "/images/‏‏pamotim0202.jpg", "alt": "" }
                 ],
                 "description": `זוג פמוטים בטון בעבודת יד.\nמאפיינים: עשוי בטון עמיד ואיכותי - צבעים ניטרליים.\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).`,
-                "quote": `גודל זוג פמוטים: קוטר חיצוני 5 ס”מ גובה קטן 10 גדול 12 ס”מ`
+                "quote": `גודל זוג פמוטים: קוטר חיצוני 5 ס”מ גובה קטן 10 גדול 12 ס”מ`,
+                "sizes": []
             },
             {
                 "category": "baton03",
@@ -328,12 +385,13 @@ export const products = [
                 "name": "שלישית פמוטי בטון - קו נקי",
                 "price": 70,
                 "images": [
-                    {"src":"/images/‏‏pamotim03.jpg", "alt":"","only": true },
+                    { "src": "/images/‏‏pamotim03.jpg", "alt": "", "only": true },
                     { "src": "/images/pamotim0301.jpg", "alt": "" },
                     { "src": "/images/pamotim0302.jpg", "alt": "" }
                 ],
                 "description": `שלישית פמוטים בטון בעבודת יד.\nמאפיינים: עשוי בטון עמיד ואיכותי - צבעים ניטרליים.\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).`,
-                "quote": `גודל  פמוטים: קוטר חיצוני 5 ס”מ גובה קטן 4 בנוני 6 גדול 7.5 ס”מ`
+                "quote": `גודל  פמוטים: קוטר חיצוני 5 ס”מ גובה קטן 4 בנוני 6 גדול 7.5 ס”מ`,
+                "sizes": []
             },
             {
                 "category": "baton03",
@@ -341,25 +399,27 @@ export const products = [
                 "name": "זוג פמוטי בטון - הוד",
                 "price": 50,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    { "src": "/images/kaarabaton01.jpg", "alt": "", "only": true },
                     { "src": "/images/pamotim04.jpg", "alt": "" },
                     { "src": "/images/pamotim04.jpg", "alt": "" }
                 ],
                 "description": `זוג פמוטים בטון בעבודת יד.\nמאפיינים: עשוי בטון עמיד ואיכותי - צבעים ניטרליים.\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).`,
-                "quote": `גודל זוג פמוטים: קוטר חיצוני 5 ס”מ גובה 8 ס”מ`
+                "quote": `גודל זוג פמוטים: קוטר חיצוני 5 ס”מ גובה 8 ס”מ`,
+                "sizes": []
             },
-             {
+            {
                 "category": "baton03",
                 "id": "126",
                 "name": "שלישית פמוטי בטון - לובטון",
                 "price": 70,
                 "images": [
-                    {"src":"/images/kaarabaton01.jpg", "alt":"","only": true },
+                    { "src": "/images/kaarabaton01.jpg", "alt": "", "only": true },
                     { "src": "/images/pamotim05.jpg", "alt": "" },
                     { "src": "/images/pamotim05.jpg", "alt": "" }
                 ],
-                 description: `שלישית פמוטים נר עומד בטון בעבודת יד.\nמאפיינים: עשוי בטון עמיד ואיכותי - צבעים ניטרליים.\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).`,
-                 "quote": `גודל זוג פמוטים: קוטר חיצוני 4.5 ס”מ גובה 8/6/4 ס”מ`
+                "description": `שלישית פמוטים נר עומד בטון בעבודת יד.\nמאפיינים: עשוי בטון עמיד ואיכותי - צבעים ניטרליים.\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).`,
+                "quote": `גודל זוג פמוטים: קוטר חיצוני 4.5 ס”מ גובה 8/6/4 ס”מ`,
+                "sizes": []
             },
              {
                 "category": "baton03",
@@ -372,7 +432,8 @@ export const products = [
                     { "src": "/images/pamotim0052.jpg", "alt": "" }
                 ],
                 "description": "זוג פמוטים נר עומד בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                "quote": "גודל זוג פמוטים:\\nקוטר חיצוני 9/4 ס”מ\\nגובה 9 ס”מ"
+                "quote": "גודל זוג פמוטים:\\nקוטר חיצוני 9/4 ס”מ\\nגובה 9 ס”מ",
+                "sizes": []
             },
              {
                 "category": "baton03",
@@ -385,7 +446,8 @@ export const products = [
                     { "src": "/images/pamotim00072.jpg", "alt": "" }
                 ],
                 "description": "פמוט בצורת לב בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                "quote": "גודל פמוט בצורת לב:\\nקוטר חיצוני 10/9 ס”מ\\nגובה 4 ס”מ"
+                "quote": "גודל פמוט בצורת לב:\\nקוטר חיצוני 10/9 ס”מ\\nגובה 4 ס”מ",
+                "sizes": []
             },
              {
                 "category": "baton03",
@@ -398,7 +460,8 @@ export const products = [
                     { "src": "/images/pamotim00072.jpg", "alt": "" }
                 ],
                 "description": "פמוט בצורת לב בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                "quote": "גודל פמוט בצורת לב:\\nקוטר חיצוני 10/9 ס”מ\\nגובה 4 ס”מ"
+                "quote": "גודל פמוט בצורת לב:\\nקוטר חיצוני 10/9 ס”מ\\nגובה 4 ס”מ",
+                "sizes": []
             },
              {
                 "category": "baton03",
@@ -411,7 +474,8 @@ export const products = [
                     { "src": "/images/pamotim00072.jpg", "alt": "" }
                 ],
                 "description": "פמוט בצורת לב בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                "quote": "גודל פמוט בצורת לב:\\nקוטר חיצוני 10/9 ס”מ\\nגובה 4 ס”מ"
+                "quote": "גודל פמוט בצורת לב:\\nקוטר חיצוני 10/9 ס”מ\\nגובה 4 ס”מ",
+                "sizes": []
             }
         ]
     },
@@ -432,7 +496,8 @@ export const products = [
                     { "src": "/images/agratel0102.jpg", "alt": "" }
                 ],
                 "description": "אגרטל בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתי - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                "quote": "גודל האגרטל:\\nקוטר חיצוני 7.5 ס”מ\\nגובה 17.5 ס”מ"
+                "quote": "גודל האגרטל:\\nקוטר חיצוני 7.5 ס”מ\\nגובה 17.5 ס”מ",
+                "sizes": []
             },
              {
                 "category": "baton04",
@@ -445,7 +510,8 @@ export const products = [
                     { "src": "/images/agratel0202.jpg", "alt": "" }
                 ],
                 "description": "אגרטל בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתי - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                "quote": "גודל האגרטל:\\nקוטר חיצוני 10 ס”מ\\nגובה 14 ס”מ"
+                "quote": "גודל האגרטל:\\nקוטר חיצוני 10 ס”מ\\nגובה 14 ס”מ",
+                "sizes": []
             },
              {
                 "category": "baton04",
@@ -458,7 +524,8 @@ export const products = [
                     { "src": "/images/agratel0302.jpg", "alt": "" }
                 ],
                 "description": "אגרטל בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתי - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                 "quote": "גודל האגרטל:\\nקוטר חיצוני 16.5 ס”מ\\nגובה 13 ס”מ"
+                 "quote": "גודל האגרטל:\\nקוטר חיצוני 16.5 ס”מ\\nגובה 13 ס”מ",
+                 "sizes": []
             },
             {
                 "category": "baton04",
@@ -471,7 +538,8 @@ export const products = [
                     { "src": "/images/agratel0402.jpg", "alt": "" }
                 ],
                 "description": "אגרטל בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתי - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                 "quote": "גודל האגרטל:\\nקוטר חיצוני 7 ס”מ\\nגובה 14 ס”מ"
+                 "quote": "גודל האגרטל:\\nקוטר חיצוני 7 ס”מ\\nגובה 14 ס”מ",
+                 "sizes": []
             },
             {
                 "category": "baton04",
@@ -484,7 +552,8 @@ export const products = [
                     { "src": "/images/agratel0502.jpg", "alt": "" }
                 ],
                 "description": "אגרטל בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתי - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                 "quote": "גודל האגרטל:\\nקוטר חיצוני 4.5 ס”מ\\nגובה 15 ס”מ"
+                 "quote": "גודל האגרטל:\\nקוטר חיצוני 4.5 ס”מ\\nגובה 15 ס”מ",
+                    "sizes": []
             },
             {
                 "category": "baton04",
@@ -497,7 +566,8 @@ export const products = [
                     { "src": "/images/agratel0702.jpg", "alt": "" }
                 ],
                 "description": "אגרטל בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתי - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                 "quote": "גודל האגרטל:\\nקוטר חיצוני 6 ס”מ\\nגובה 10.5 ס”מ"
+                 "quote": "גודל האגרטל:\\nקוטר חיצוני 6 ס”מ\\nגובה 10.5 ס”מ",
+                 "sizes": []
             },
             {
                 "category": "baton04",
@@ -510,7 +580,8 @@ export const products = [
                     { "src": "/images/agratel0802.jpg", "alt": "" }
                 ],
                 "description": "אגרטל בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתי - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                 "quote": "גודל האגרטל:\\nקוטר חיצוני 5 ס”מ\\nגובה 8 ס”מ"
+                 "quote": "גודל האגרטל:\\nקוטר חיצוני 5 ס”מ\\nגובה 8 ס”מ",
+                 "sizes": []
             },
              {
                 "category": "baton04",
@@ -523,7 +594,8 @@ export const products = [
                     { "src": "/images/agratel0902.jpg", "alt": "" }
                 ],
                 "description": "אגרטל בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתי - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                 "quote": "גודל האגרטל:\\nקוטר חיצוני 7 ס”מ\\nגובה 10 ס”מ"
+                 "quote": "גודל האגרטל:\\nקוטר חיצוני 7 ס”מ\\nגובה 10 ס”מ",
+                 "sizes": []
             },
             {
                 "category": "baton04",
@@ -536,7 +608,8 @@ export const products = [
                     { "src": "/images/agratel0902.jpg", "alt": "" }
                 ],
                 "description": "אגרטל בטון בעבודת יד.\\nמאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתי - צבעים ניטרליים.\\nניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                 "quote": "גודל האגרטל:\\nקוטר חיצוני 7 ס”מ\\nגובה 10 ס”מ"
+                 "quote": "גודל האגרטל:\\nקוטר חיצוני 7 ס”מ\\nגובה 10 ס”מ",
+                 "sizes": []
             }
 
         ]
@@ -556,7 +629,8 @@ export const products = [
                     { "src": "/images/oilpaintings02.jpg", "alt": "" },
                 ],
                 "description": ``,
-                "quote":``
+                "quote":``,
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
             },
             {
                 "category": "oilpaintings",
@@ -567,7 +641,8 @@ export const products = [
                     { "src": "/images/oilpaintings02.jpg", "alt": "" },
                 ],
                 "description": ``,
-                "quote":``
+                "quote":``,
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
             },
             {
                 "category": "oilpaintings",
@@ -578,7 +653,8 @@ export const products = [
                     { "src": "/images/oilpaintings03.jpg", "alt": "" },
                 ],
                 "description": ``,
-                "quote":``
+                "quote":``,
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
             },
             {
                 "category": "oilpaintings",
@@ -589,7 +665,8 @@ export const products = [
                     { "src": "/images/oilpaintings05.jpg", "alt": "" },
                 ],
                 "description": ``,
-                "quote":``
+                "quote":``,
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
             },
             {
                 "category": "oilpaintings",
@@ -600,7 +677,8 @@ export const products = [
                     { "src": "/images/oilpaintings05.jpg", "alt": "" },
                 ],
                 "description": ``,
-                "quote":``
+                "quote":``,
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
             },
             {
                 "category": "oilpaintings",
@@ -611,7 +689,8 @@ export const products = [
                     { "src": "/images/oilpaintings06.jpg", "alt": "" },
                 ],
                 "description": ``,
-                "quote":``
+                "quote":``,
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
             },
             {
                 "category": "oilpaintings",
@@ -622,7 +701,8 @@ export const products = [
                     { "src": "/images/oilpaintings02.jpg", "alt": "" },
                 ],
                 "description": ``,
-                "quote":``
+                "quote":``,
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
             },
             {
                 "category": "oilpaintings",
@@ -633,7 +713,8 @@ export const products = [
                     { "src": "/images/oilpaintings02.jpg", "alt": "" },
                 ],
                 "description": ``,
-                "quote":``
+                "quote":``,
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
             },
             {
                 "category": "oilpaintings",
@@ -644,7 +725,8 @@ export const products = [
                     { "src": "/images/oilpaintings09.jpg", "alt": "" },
                 ],
                 "description": ``,
-                "quote":``
+                "quote":``,
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
             },
         ]
     },
@@ -663,7 +745,8 @@ export const products = [
                     { "src": "/images/digital01.jpg", "alt": "" }
                 ],
                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
             },
             {
                 "category": "digitalart",
@@ -674,7 +757,8 @@ export const products = [
                     { "src": "/images/digital02.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
             },
             {
                 "category": "digitalart",
@@ -685,7 +769,8 @@ export const products = [
                     { "src": "/images/digital03.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
             },
             {
                 "category": "digitalart",
@@ -696,7 +781,8 @@ export const products = [
                     { "src": "/images/digital04.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
             },
             {
                 "category": "digitalart",
@@ -707,7 +793,8 @@ export const products = [
                     { "src": "/images/digital05.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
             },
             {
                 "category": "digitalart",
@@ -718,7 +805,8 @@ export const products = [
                     { "src": "/images/digital06.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
             },
             {
                 "category": "digitalart",
@@ -729,7 +817,8 @@ export const products = [
                     { "src": "/images/digital07.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
             },
             {
                 "category": "digitalart",
@@ -740,7 +829,8 @@ export const products = [
                     { "src": "/images/digital08.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
             },
             {
                 "category": "digitalart",
@@ -751,7 +841,8 @@ export const products = [
                     { "src": "/images/digital09.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
             },
             {
                 "category": "digitalart",
@@ -762,7 +853,8 @@ export const products = [
                     { "src": "/images/digital09.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
             },
             {
                 "category": "digitalart",
@@ -773,7 +865,8 @@ export const products = [
                     { "src": "/images/digital09.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
             },
             {
                 "category": "digitalart",
@@ -784,7 +877,8 @@ export const products = [
                     { "src": "/images/digital09.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}],
             }
 
 
@@ -806,7 +900,8 @@ export const products = [
                     { "src": "/images/digital01.jpg", "alt": "" }
                 ],
                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": []
             },
             {
                 "category": "baton05",
@@ -817,7 +912,8 @@ export const products = [
                     { "src": "/images/digital02.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": []
             },
             {
                 "category": "baton05",
@@ -828,7 +924,8 @@ export const products = [
                     { "src": "/images/digital03.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": []
             },
             {
                 "category": "baton05",
@@ -839,7 +936,8 @@ export const products = [
                     { "src": "/images/digital04.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": []
             },
             {
                 "category": "baton05",
@@ -850,7 +948,8 @@ export const products = [
                     { "src": "/images/digital05.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": []
             },
             {
                 "category": "baton05",
@@ -861,7 +960,8 @@ export const products = [
                     { "src": "/images/digital06.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": []
             },
             {
                 "category": "baton05",
@@ -872,7 +972,8 @@ export const products = [
                     { "src": "/images/digital07.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": []
             },
             {
                 "category": "baton05",
@@ -883,7 +984,8 @@ export const products = [
                     { "src": "/images/digital08.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": []
             },
             {
                 "category": "baton05",
@@ -894,7 +996,8 @@ export const products = [
                     { "src": "/images/digital09.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": []
             }
         ]
     },
@@ -913,7 +1016,8 @@ export const products = [
                     { "src": "/images/digital01.jpg", "alt": "" }
                 ],
                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": []
             },
             {
                 "category": "baton05",
@@ -924,7 +1028,8 @@ export const products = [
                     { "src": "/images/digital02.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": []
             },
             {
                 "category": "baton05",
@@ -935,7 +1040,8 @@ export const products = [
                     { "src": "/images/digital03.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": []
             },
             {
                 "category": "baton05",
@@ -946,7 +1052,8 @@ export const products = [
                     { "src": "/images/digital04.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": []
             },
             {
                 "category": "baton05",
@@ -957,7 +1064,8 @@ export const products = [
                     { "src": "/images/digital05.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": []
             },
             {
                 "category": "baton05",
@@ -968,7 +1076,8 @@ export const products = [
                     { "src": "/images/digital06.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": []
             },
             {
                 "category": "baton05",
@@ -979,7 +1088,8 @@ export const products = [
                     { "src": "/images/digital07.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": []
             },
             {
                 "category": "baton05",
@@ -990,7 +1100,8 @@ export const products = [
                     { "src": "/images/digital08.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": []
             },
             {
                 "category": "baton05",
@@ -1001,7 +1112,8 @@ export const products = [
                     { "src": "/images/digital09.jpg", "alt": "" }
                 ],
                  "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית"
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": []
             }
         ]
     },
