@@ -9,14 +9,14 @@
         zip:"",
         })
     </script>
-    <main style="margin-top: 100px;" dir="rtl">
-        <div class="container px-4 px-lg-5">
+    <main dir="rtl">
+        <div class="container our px-4 px-lg-5" >
         <div class="py-5 text-center">
             <img class="d-block mx-auto mb-4" src="/images/logo.png" alt="" width="195" height="59">
             <h2> סיום רכישה</h2>
         </div>
 
-        <div class="row " dir="rtl">
+        <div class="row g-3"dir="rtl">
       <!-- <div class="col-md-5 col-lg-4 order-md-last">
         <h4 class="d-flex justify-content-between align-items-center mb-3">
           <span class="text-body-secondary">עגלת הקניות</span>
@@ -170,3 +170,11 @@
       </div>
     </div>
   </main>
+  <style>
+    .our{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+  </style>

@@ -8,19 +8,16 @@
 	/**
 	 * @type {string | any[]}
 	 */
-	let favoriteProducts = $derived.by(() => {
-		console.log(favorites.favorites);
-		return allItems.filter((product) => favorites.favorites.includes(product.id));
-	});
+
 </script>
 
 <div class="favorites-page">
 	<h1>המועדפים שלי</h1>
-	{#if favoriteProducts.length > 0}
+	{#if favorites.favorites.length > 0}
 		<div class="product-list">
-			{#each favoriteProducts as product}
+			{#each favorites.favorites as product}
 				<a href="/{product.category}/{product.id}" class="product-card">
-					<img src={product.images[0].src} alt={product.name} />
+					<img class="w-50" src={product.images[0].src} alt={product.name} />
 					<p>{product.name}</p>
 				</a>
 			{/each}
