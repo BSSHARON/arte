@@ -7,6 +7,7 @@ async function sendMail(name = "",phone = ""){
 
   const transporter = nodemailer.createTransport({
     service: 'gmail',
+    secure: true,
 auth: {
   user: "arte.bsharon@gmail.com",
   pass: import.meta.env.VITE_PASSWORD
