@@ -14,8 +14,10 @@
 				if(item.id === product.id) {
 					if(product.quantity > 1 ) {
 							product.quantity -= 1
+							localStorage.setItem('cart', JSON.stringify(cart.cart));
 					} else {
 							cart.cart = cart.cart.filter((cartItem) => cartItem != product)
+							localStorage.setItem('cart', JSON.stringify(cart.cart));
 					}
 					return;
 				}
@@ -26,6 +28,7 @@
 			for(let item of cart.cart) {
 							if(item.id === product.id) {
 								product.quantity += 1
+								localStorage.setItem('cart', JSON.stringify(cart.cart));
 								return;
 							}
 					}
