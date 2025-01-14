@@ -7,7 +7,6 @@ async function sendMail(name = "",phone = ""){
 
   const transporter = nodemailer.createTransport({
     service: 'gmail',
-    secure: true,
 auth: {
   user: "arte.bsharon@gmail.com",
   pass: import.meta.env.VITE_PASSWORD
@@ -32,11 +31,11 @@ auth: {
   transporter.sendMail(options);
   transporter.verify(function(err, success) {
   if (err) {
-    console.log(err)
+    console.log("connection error",err)
     return 'error';
 } 
 else {
-  console.log(success)
+  console.log("אחלה",success)
     return 'OK';
 }
 });}
