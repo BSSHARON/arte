@@ -4,10 +4,10 @@ import nodemailer from 'nodemailer';
 import { asClassComponent } from 'svelte/legacy';
 
 async function sendMail(name = "",phone = ""){
-
+console.log(import.meta.env.VITE_PASSWORD)
   const transporter = nodemailer.createTransport({
     service: 'gmail',
-auth: {
+    auth: {
   user: "arte.bsharon@gmail.com",
   pass: import.meta.env.VITE_PASSWORD
 }
