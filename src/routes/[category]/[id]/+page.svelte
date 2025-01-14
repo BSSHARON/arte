@@ -35,7 +35,7 @@
     let sizeIndex = $state(0)
 </script>
 
-    <section style="margin-top: 100px;" class="section" id="product">
+    <section style="margin-top: 120px;" class="section" id="product">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
