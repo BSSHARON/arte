@@ -45,7 +45,7 @@
 							<a href="javascript:;">מארזים - בטון</a>
 							
 							<ul class:active={subMenu1open}>
-								<li><a href="/">Lovely White</a></li>
+								<li><a href="/baton05" class:active={page.url.pathname === '/baton05'}>קערות בטון מעוצבות  </a></li>
 								<li><a href="/">Minimal Moods</a></li>
 								<li><a href="/">Neutral Vibes</a></li>
 								<li class="scroll-to-section"><a href="/baton03" class:active={page.url.pathname === '/baton03'}>נרות, מבשמים ואווירה</a></li>
