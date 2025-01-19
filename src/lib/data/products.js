@@ -628,9 +628,9 @@ export const products = [
                 "images": [
                     { "src": "/images/oilpaintings02.jpg", "alt": "" },
                 ],
-                "description": ``,
-                "quote":``,
-                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
+                "description": `הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.`,
+                "quote":`ניתן להזמין בגדלים שונים. הדפסה או זכוכית`,
+                "sizes": []
             },
             {
                 "category": "oilpaintings",
@@ -640,9 +640,9 @@ export const products = [
                 "images": [
                     { "src": "/images/oilpaintings02.jpg", "alt": "" },
                 ],
-                "description": ``,
-                "quote":``,
-                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
+                "description": `הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.`,
+                "quote":`ניתן להזמין בגדלים שונים. הדפסה או זכוכית`,
+                "sizes": []
             },
             {
                 "category": "oilpaintings",
@@ -664,9 +664,9 @@ export const products = [
                 "images": [
                     { "src": "/images/oilpaintings05.jpg", "alt": "" },
                 ],
-                "description": ``,
-                "quote":``,
-                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
+                "description": `הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.`,
+                "quote":`ניתן להזמין בגדלים שונים. הדפסה או זכוכית`,
+                "sizes": []
             },
             {
                 "category": "oilpaintings",
@@ -676,9 +676,9 @@ export const products = [
                 "images": [
                     { "src": "/images/oilpaintings05.jpg", "alt": "" },
                 ],
-                "description": ``,
-                "quote":``,
-                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
+                "description": `הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.`,
+                "quote":`ניתן להזמין בגדלים שונים. הדפסה או זכוכית`,
+                "sizes": []
             },
             {
                 "category": "oilpaintings",
@@ -688,9 +688,9 @@ export const products = [
                 "images": [
                     { "src": "/images/oilpaintings06.jpg", "alt": "" },
                 ],
-                "description": ``,
-                "quote":``,
-                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
+                "description": `הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.`,
+                "quote":`ניתן להזמין בגדלים שונים. הדפסה או זכוכית`,
+                "sizes": []
             },
             {
                 "category": "oilpaintings",
@@ -700,9 +700,9 @@ export const products = [
                 "images": [
                     { "src": "/images/oilpaintings02.jpg", "alt": "" },
                 ],
-                "description": ``,
-                "quote":``,
-                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
+                "description": `הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.`,
+                "quote":`ניתן להזמין בגדלים שונים. הדפסה או זכוכית`,
+                "sizes": []
             },
             {
                 "category": "oilpaintings",
@@ -712,9 +712,9 @@ export const products = [
                 "images": [
                     { "src": "/images/oilpaintings02.jpg", "alt": "" },
                 ],
-                "description": ``,
-                "quote":``,
-                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
+                "description": `הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.`,
+                "quote":`ניתן להזמין בגדלים שונים. הדפסה או זכוכית`,
+                "sizes": []
             },
             {
                 "category": "oilpaintings",
@@ -724,9 +724,9 @@ export const products = [
                 "images": [
                     { "src": "/images/oilpaintings09.jpg", "alt": "" },
                 ],
-                "description": ``,
-                "quote":``,
-                "sizes": [{"name":"60x20","quantity":0}, {"name":"90x30","quantity":0}, {"name":"120x40","quantity":0}]
+                "description": `הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.`,
+                "quote":`ניתן להזמין בגדלים שונים. הדפסה או זכוכית`,
+                "sizes": []
             },
         ]
     },
