@@ -1,8 +1,5 @@
 /**
- * @typedef {Object} cart
- * @property {Array<product>} cart - Array of products in the cart
- * 
- * @typedef {Object} product
+ * @typedef {Object} CartItem
  * @property {string|number} id - Unique identifier of the product
  * @property {string} [name] - Name of the product
  * @property {number} [price] - Price of the product
@@ -10,30 +7,70 @@
  * @property {string} [image] - URL of the product image
  * @property {number} [quantity] - Quantity of the product
  * @property {any} [any] - Any other product properties
- * 
  */
-export const cart = $state({cart/** @type {cart[]} **/: []});
+
+/**
+ * @typedef {object} CartState
+ * @property {CartItem[]} cart
+ */
+export const cart = $state(/** @type {CartState} */{ cart: [] });
 
 /**
  * Adds a product to the cart and updates the local storage.
  *
- * @param {product} product - The product to be added to the cart.
+ * @param {CartItem} product - The product to be added to the cart.
+ * @param {number} [quantity=1] - The quantity to add (optional, default is 1).
  */
-
-export function addToCart(product) {
-    if (cart.cart.find(p => p.id === product.id)) {
-        return;
+export function addToCart(product, quantity = 1, sizeIndex = 0) {
+    const existingProduct = cart.cart.find(p => p.id === product.id);
+    if (existingProduct) {
+        existingProduct.quantity = (existingProduct.quantity || 0) + quantity;
+    } else {
+        cart.cart = [...cart.cart, { ...product, quantity}];
+        if (product.sizes && product.sizes.length > 0) {
+            cart.cart[cart.cart.length - 1].sizes[sizeIndex].quantity += quantity;
+        }
     }
-    cart.cart = [...cart.cart, product];
     localStorage.setItem('cart', JSON.stringify(cart.cart));
 }
 
 /**
+ * Updates the quantity of a product in the cart.
+ *
+ * @param {CartItem} product - The product to update.
+ * @param {number} quantity - The new quantity.
+ */
+export function updateQuantity(product, quantity) {
+    const existingProduct = cart.cart.find(p => p.id === product.id);
+    if (existingProduct) {
+        existingProduct.quantity = Math.max(1, quantity);
+    }
+    localStorage.setItem('cart', JSON.stringify(cart.cart));
+}
+export function updateSizeQuantity(product, quantity, size) {
+    const existingProduct = cart.cart.find(p => p.id === product.id);
+    if (existingProduct) {
+        existingProduct.sizes[size] = Math.max(1, quantity);
+    }
+    localStorage.setItem('cart', JSON.stringify(cart.cart));
+}
+/**
  * Removes a product from the cart and updates the local storage.
  *
- * @param {product} product - The product to be removed from the cart.
+ * @param {CartItem} product - The product to be removed from the cart.
+ * @param {number} [quantity] - The quantity to remove (optional). If not provided, the item is removed entirely.
  */
-export function removeFromCart(product) {
-    cart.cart = cart.cart.filter(p => p.id !== product.id);
+export function removeFromCart(product, quantity) {
+    if (quantity === undefined) {
+        cart.cart = cart.cart.filter(p => p.id !== product.id);
+    } else {
+        const existingProduct = cart.cart.find(p => p.id === product.id);
+        if (existingProduct) {
+            existingProduct.quantity -= quantity;
+            if (existingProduct.quantity <= 0) {
+                cart.cart = cart.cart.filter(p => p.id !== product.id);
+            }
+        }
+    }
     localStorage.setItem('cart', JSON.stringify(cart.cart));
 }

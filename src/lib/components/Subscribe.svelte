@@ -1,4 +1,33 @@
-    <div class="subscribe">
+   <script>
+    let phone = $state('') , name = $state('')
+    async function sendToMail(){
+  if(phone && name){
+    a = true
+    let data = {name,phone}
+    await fetch('api/email',{
+  method: 'POST', 
+  headers: {
+    'Content-Type': 'application/json',
+  },
+  body: JSON.stringify(data),
+})
+  .then((response) => response)
+  .then((data) => {
+    console.log('Success:', data);
+    a= false
+  })
+  .catch((error) => {
+    console.error('Error:', error);
+    alert('error')
+  })
+  }else {
+    alert('כדאי למלא שם וטלפון ולנסות שוב')
+  }
+}
+let a = $state(false)
+   </script>
+   
+   <div class="subscribe">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
@@ -8,21 +37,25 @@
                     </div>
                     <form id="subscribe" action="" method="get">
                         <div class="row">
+                          {#if !a}
+
                           <div class="col-lg-5">
                             <fieldset>
-                              <input name="name" type="text" id="name" placeholder="שם מלא">
+                              <input bind:value={name} name="name" type="text" id="name" placeholder="שם מלא">
                             </fieldset>
                           </div>
                           <div class="col-lg-5">
                             <fieldset>
-                              <input name="email" type="text" id="email" pattern="[^ @]*@[^ @]*" placeholder="מספר טלפון לחזרה">
+                              <input bind:value={phone} name="phone" type="text" id="phone" placeholder="מספר טלפון לחזרה">
                             </fieldset>
                           </div>
                           <div class="col-lg-2">
                             <fieldset>
-                              <button type="submit" id="form-submit" class="main-dark-button"><i class="fa fa-paper-plane"></i></button>
+                              <button onclick={sendToMail} type="submit" id="form-submit" class="main-dark-button"><i class="fa fa-paper-plane"></i></button>
                             </fieldset>
                           </div>
+                          {/if}
+
                         </div>
                     </form>
                 </div>
