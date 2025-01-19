@@ -37,6 +37,7 @@
 		"@tailwindcss/typography": "^0.5.15",
 		"bootstrap": "^5.0.2",
 		"nodemailer": "^6.9.16",
+		"svelte-tel-input": "^3.5.2",
 		"svelty-email": "^0.0.11"
 	}
 }
