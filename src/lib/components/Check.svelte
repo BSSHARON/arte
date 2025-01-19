@@ -1,4 +1,6 @@
 <script>
+	import Phonefild from "./ui/Phonefild.svelte";
+
     let client = $state({
         name:"",
         lastName:"",
@@ -7,7 +9,85 @@
         country:"",
         state:"",
         zip:"",
+        phone:""
         })
+        let loading = $state(false);
+        let {amount = 0} = $props();
+//	"raw": "{\r\n    \"request\": {\r\n  
+//       \"Invoice4UUserApiKey\": \"\",\r\n   
+//      \"Type\": \"1\",\r\n    
+//     \"CreditCardCompanyType\": \"1\",\r\n    
+//     \"FullName\": \"Client Name\",\r\n   
+//      \"Phone\": \"0500000000\",\r\n  
+//       \"Email\": \"test@test.com\",\r\n 
+//        \"Sum\": \"1\",\r\n  
+//       \"Description\": \"Invoice4U Clearing\",\r\n     
+//    \"PaymentsNum\": \"1\",\r\n       
+//  \"Currency\": \"ILS\",\r\n  
+//       \"OrderIdClientUsage\": \"order id if needed\",\r\n  
+//       \"IsDocCreate\": \"true\",\r\n     
+//    \"DocHeadline\": \"Document headline\",\r\n    
+//     \"Comments\": \"Document comments\",\r\n    
+//     \"IsManualDocCreationsWithParams\": \"false\",\r\n   
+//      \"DocItemQuantity\": \"1|1\",\r\n   
+//      \"DocItemPrice\": \"10|10\",\r\n     
+//    \"DocItemTaxRate\": \"17|17\",\r\n     
+//    \"IsItemsBase64Encoded\": \"false\",\r\n    
+//     \"DocItemName\": \"first item|second item\",\r\n  
+//       \"IsGeneralClient\": \"true\",\r\n    
+//     \"IsAutoCreateCustomer\": \"true\",\r\n     
+//    \"CallBackUrl\": \"https://webhook.site/123153\",\r\n     
+//    \"ReturnUrl\": \"https://www.invoice4u.co.il/\",\r\n    
+//     \"AddToken\": \"false\",\r\n    
+//     \"AddTokenAndCharge\": \"false\",\r\n    
+//     \"ChargeWithToken\": \"false\",\r\n  
+//       \"Refund\": \"false\",\r\n   
+//      \"IsStandingOrderClearance\" : \"false\",\r\n     
+//    \"StandingOrderDuration\" : \"0\"\r\n    }\r\n}"
+
+  async function handlePayment() {
+  
+    if(amount <= 0) {
+        alert('אי אפשר לשלם על סכום שלילי או אפס');
+        return;
+    }
+    if(loading) return;
+    loading = true;
+      const paymentData = {
+        FullName: client.name + " " + client.lastName,
+        Phone: client.phone,
+        Email: client.email,
+        Sum: amount,
+      };
+      let t
+      try {
+        const response = await fetch
+    ('/api/slika', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(paymentData)
+    })
+    const result = await response.json();
+            
+            if (result.Errors) {
+                throw new Error(result.Errors);
+            }
+            console.log('Payment response:', result); // Debug log
+
+            const paymentId = result.d.OpenInfo.find(info => info.Key === 'PaymentId')?.Value;
+            
+            // Store payment ID if needed
+            localStorage.setItem('lastPaymentId', paymentId);
+            
+            // Redirect to payment page
+            window.location.href = result.d.ClearingRedirectUrl;
+            
+        } catch (error) {
+            alert('Payment failed: ' + error?.message);
+        }
+  }
     </script>
     <main dir="rtl">
         <div class="container our px-4 px-lg-5" >
@@ -110,8 +190,9 @@
             </div>
 
             <div class="col-md-3">
+
               <label for="zip" class="form-label">מיקוד</label>
-              <input type="text" class="form-control" id="zip" placeholder="" required="">
+              <input type="text" class="form-control" id="zip" placeholder="" required>
               <div class="invalid-feedback">
                 נדרש מיקוד.
               </div>
@@ -119,53 +200,14 @@
           </div>
 
           <hr class="my-4">
-
+            <Phonefild selectedCountry="IL" lebel={{"he":"מספר טלפון"}}  bind:value={ client.phone}  />
           <div class="form-check">
             <input type="checkbox" class="form-check-input" id="save-info">
             <label class="form-check-label" for="save-info">שמור את המידע הזה לפעם הבאה</label>
           </div>
 
-          <hr class="my-4">
 
-            <h4 class="mb-3">פרטי כרטיס אשראי</h4>
-          <div class="row gy-3">
-            <div class="col-md-6">
-              <label for="cc-name" class="form-label">השם על הכרטיס</label>
-              <input type="text" class="form-control" id="cc-name" placeholder="" required="">
-              <small class="text-body-secondary">שם מלא כפי שמוצג על הכרטיס</small>
-              <div class="invalid-feedback">
-                נדרש שם על הכרטיס
-              </div>
-            </div>
-
-            <div class="col-md-6">
-              <label for="cc-number" class="form-label">מספר כרטיס</label>
-              <input type="text" class="form-control" id="cc-number" placeholder="" required="">
-              <div class="invalid-feedback">
-                נדרש מספר כרטיס אשראי
-              </div>
-            </div>
-
-            <div class="col-md-3">
-              <label for="cc-expiration" class="form-label">תוקף</label>
-              <input type="text" class="form-control" id="cc-expiration" placeholder="" required="">
-              <div class="invalid-feedback">
-                נדרש תאריך תפוגה
-              </div>
-            </div>
-
-            <div class="col-md-3">
-              <label for="cc-cvv" class="form-label">CVV</label>
-              <input type="text" class="form-control" id="cc-cvv" placeholder="" required="">
-              <div class="invalid-feedback">
-                נדרש קוד אימות
-              </div>
-            </div>
-          </div>
-
-          <hr class="my-4">
-
-          <button class="w-100 btn btn-primary btn-lg" type="submit">לתשלום</button>
+          <button class="w-100 btn btn-primary btn-lg" type="submit" onclick={handlePayment}>{#if loading} ... {:else} לתשלום {/if}</button>
         </form>
       </div>
     </div>

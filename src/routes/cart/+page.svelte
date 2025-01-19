@@ -65,7 +65,7 @@
     {#if check == false}
 <button class="w-100 btn btn-primary btn-lg" onclick={()=>check = true} >ביצוע הזמנה</button>
     {:else}
-    <Check />
+    <Check amount={total}/>
     {/if}
 </div>
 
