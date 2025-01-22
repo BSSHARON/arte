@@ -42,7 +42,7 @@
 						<li class="scroll-to-section"><a href="/oilpaintings" class:active={page.url.pathname === '/oilpaintings'}>ציורי שמן</a></li>
 						<li class="scroll-to-section"><a href="/digitalart" class:active={page.url.pathname === '/digitalart'}>אומנות דיגיטלית</a></li>
 						<li class="submenu" onclick={toggleSubMenu1}>
-							<a href="javascript:;">מארזים - בטון</a>
+							<a href="javascript:;">תמונות להדפסה</a>
 							
 							<ul class:active={subMenu1open}>
 								<li><a href="/baton05" class:active={page.url.pathname === '/baton05'}>קערות בטון מעוצבות  </a></li>
@@ -56,6 +56,7 @@
 						<li class="submenu" onclick={toggleSubMenu2} >
 							<a >בטון - עבודת יד</a>
 							<ul class:active={subMenu2open}>
+								<li><a href="/baton01" class:active={page.url.pathname === '/baton01'}> מארזים בטון </a></li>
 								<li><a href="/baton01" class:active={page.url.pathname === '/baton01'}>אקססוריז לעיצוב הבית</a></li>
 								<li><a href="/baton02" class:active={page.url.pathname === '/baton02'}>קערות בטון מעוצבות  </a></li>
 								<li><a href="/baton03" class:active={page.url.pathname === '/baton03'}>פמוטי בטון </a></li>
