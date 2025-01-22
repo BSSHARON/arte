@@ -61,7 +61,7 @@
 		<h4>סך הכל:  ₪{total}</h4>
 	</div>
 </div>
-<div >
+<div style="max-width: 90%; margin: 0 auto;">
     {#if check == false}
 <button class="w-100 btn btn-primary btn-lg" onclick={()=>check = true} >ביצוע הזמנה</button>
     {:else}

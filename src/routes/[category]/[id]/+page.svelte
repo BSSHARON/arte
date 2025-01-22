@@ -33,6 +33,7 @@
         }
     }
     let sizeIndex = $state(0)
+    let kindIndex = $state(0)
 </script>
 
     <section style="margin-top: 120px;" class="section" id="product">
@@ -65,6 +66,10 @@
                             {#each item?.sizes as size, i}
                                 <button onclick={()=>sizeIndex = i} style="margin: 5px;" class:active={sizeIndex === i}>{size.name}</button>
                             {/each}
+                            <br>
+                            {#each item?.kind as kind, i}
+                            <button onclick={()=>kindIndex = i} style="margin: 5px;" class:active={kindIndex === i}>{kind.name}</button>
+                        {/each}
                         </div>
                         <div class="right-content">
                             <div class="quantity buttons_added">

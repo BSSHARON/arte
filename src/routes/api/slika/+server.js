@@ -19,7 +19,7 @@ export async function POST({ request, fetch }) {
           "FullName": invoiceData.FullName,
           "Phone": invoiceData.Phone,
           "Email": invoiceData.Email,
-          "Sum": "1",
+          "Sum": invoiceData.Sum,
           "Description": "Invoice4U Clearing",
           "PaymentsNum": "1",
           "Currency": "ILS",
@@ -37,12 +37,6 @@ export async function POST({ request, fetch }) {
         // "IsAutoCreateCustomer": "true",
          // "CallBackUrl": "https://webhook.site/123153",
           "ReturnUrl": "https://www.arte-bs.com/thanks",
-          "AddToken": "false",
-          "AddTokenAndCharge": "false",
-          "ChargeWithToken": "false",
-          "Refund": "false",
-          "IsStandingOrderClearance" : "false",
-          "StandingOrderDuration" : "0"
         }
       })
     });
