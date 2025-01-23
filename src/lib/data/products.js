@@ -861,7 +861,7 @@ export const products = [
                 "name": "ARTA-06",
                 "price": 0,
                 "images": [
-                    { "src": "/images/digital06.jpg", "alt": "" }
+                    { "src": "/images/ARTA-06.jpg", "alt": "" }
                 ],
                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
@@ -1034,7 +1034,7 @@ export const products = [
                 "name": "ARTA-06",
                 "price": 0,
                 "images": [
-                    { "src": "/images/digital06.jpg", "alt": "" }
+                    { "src": "/images/ARTA-06.jpg", "alt": "" }
                 ],
                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
