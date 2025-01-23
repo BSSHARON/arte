@@ -1016,11 +1016,11 @@ export const products = [
         "items": [
             {
                 "category": "digitalart",
-                "id": "151",
-                "name": "ARTA-01",
+                "id": "200",
+                "name": "PH01",
                 "price": 0,
                 "images": [
-                    { "src": "/images/digital01.jpg", "alt": "" }
+                    { "src": "/images/photos01/PH01.jpg", "alt": "" }
                 ],
                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
