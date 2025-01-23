@@ -44,7 +44,7 @@
                     {#if item?.images}
                         {#each item?.images as img}
                             {#if img?.only !== true}
-                                <img src="{img?.src}" alt="{img?.alt}">
+                                <img class="" src="{img?.src}" alt="{img?.alt}" style="object-fit: contain; width: 100%; height: auto;">
                             {/if}
                         {/each}
                     {/if}
