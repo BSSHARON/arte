@@ -1011,7 +1011,7 @@ export const products = [
         "category": "photos01",
         "header": "BLACK & GOLD",
         "sub": "גלריית תמונות למכירה ",
-        "image": "/images/digital01.jpg",
+        "image": "/images/photos/PH-06.jpg",
         "subjects": ["photos"],
         "items": [
             {
