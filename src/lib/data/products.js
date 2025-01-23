@@ -65,8 +65,8 @@ export const subjects = [
     },
     {
         "name": "photos",
-        "description": "כל העיצובים הדיגיטליים וצייורי השמן המדהימים  ",
-        "header":"אמנות"
+        "description": "תמונות להדפסה זכוכית | קנווס - בגדלים שונים",
+        "header":"אומנות להדפסה "
     }
 
 ]
@@ -1017,13 +1017,13 @@ export const products = [
             {
                 "category": "photos01",
                 "id": "200",
-                "name": "PH01",
-                "price": 0,
+                "name": "PH-01",
+                "price": 100,
                 "images": [
-                    { "src": "/images/photos/photos01/PH01.jpg", "alt": "" }
+                    { "src": "/images/photos/photos01/PH-01.jpg", "alt": "" }
                 ],
-                "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
-                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
                 "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
 
