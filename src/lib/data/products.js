@@ -1009,8 +1009,8 @@ export const products = [
     {
         "id": "199",
         "category": "photos01",
-        "header": "אומנות דיגיטלית",
-        "sub": "תמונות | ציורים | אומנות דיגיטלית",
+        "header": "BLACK & GOLD",
+        "sub": "גלריית תמונות למכירה ",
         "image": "/images/digital01.jpg",
         "subjects": ["photos"],
         "items": [
