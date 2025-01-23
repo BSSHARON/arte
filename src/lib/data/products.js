@@ -62,7 +62,13 @@ export const subjects = [
         "name": "art",
         "description": "כל העיצובים הדיגיטליים וצייורי השמן המדהימים  ",
         "header":"אמנות"
+    },
+    {
+        "name": "photos",
+        "description": "כל העיצובים הדיגיטליים וצייורי השמן המדהימים  ",
+        "header":"אמנות"
     }
+
 ]
 /** @type {ProductCategory[]} */
 export const products = [
@@ -827,6 +833,186 @@ export const products = [
         "sub": "תמונות | ציורים | אומנות דיגיטלית",
         "image": "/images/digital01.jpg",
         "subjects": ["art"],
+        "items": [
+            {
+                "category": "digitalart",
+                "id": "151",
+                "name": "ARTA-01",
+                "price": 0,
+                "images": [
+                    { "src": "/images/digital01.jpg", "alt": "" }
+                ],
+                "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
+
+            },
+            {
+                "category": "digitalart",
+                "id": "152",
+                "name": "ARTA-02",
+                "price": 0,
+                "images": [
+                    { "src": "/images/digital02.jpg", "alt": "" }
+                ],
+                "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
+                "kind": []
+
+            },
+            {
+                "category": "digitalart",
+                "id": "153",
+                "name": "ARTA-03",
+                "price": 0,
+                "images": [
+                    { "src": "/images/digital03.jpg", "alt": "" }
+                ],
+                "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
+                "kind": []
+
+            },
+            {
+                "category": "digitalart",
+                "id": "154",
+                "name": "ARTA-04",
+                "price": 0,
+                "images": [
+                    { "src": "/images/digital04.jpg", "alt": "" }
+                ],
+                "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
+                "kind": []
+
+            },
+            {
+                "category": "digitalart",
+                "id": "155",
+                "name": "ARTA-05",
+                "price": 0,
+                "images": [
+                    { "src": "/images/digital05.jpg", "alt": "" }
+                ],
+                "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
+                "kind": []
+
+            },
+            {
+                "category": "digitalart",
+                "id": "156",
+                "name": "ARTA-06",
+                "price": 0,
+                "images": [
+                    { "src": "/images/ARTA-06.jpg", "alt": "" }
+                ],
+                "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
+                "kind": []
+
+            },
+            {
+                "category": "digitalart",
+                "id": "157",
+                "name": "ARTA-07",
+                "price": 0,
+                "images": [
+                    { "src": "/images/digital07.jpg", "alt": "" }
+                ],
+                "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
+                "kind": []
+
+            },
+            {
+                "category": "digitalart",
+                "id": "158",
+                "name": "ARTA-08",
+                "price": 0,
+                "images": [
+                    { "src": "/images/digital08.jpg", "alt": "" }
+                ],
+                "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
+                "kind": []
+
+            },
+            {
+                "category": "digitalart",
+                "id": "159",
+                "name": "ARTA-09",
+                "price": 0,
+                "images": [
+                    { "src": "/images/digital09.jpg", "alt": "" }
+                ],
+                "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
+                "kind": []
+
+            },
+            {
+                "category": "digitalart",
+                "id": "260",
+                "name": "ARTA-09",
+                "price": 0,
+                "images": [
+                    { "src": "/images/digital09.jpg", "alt": "" }
+                ],
+                "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
+                "kind": []
+
+            },
+            {
+                "category": "digitalart",
+                "id": "261",
+                "name": "ARTA-09",
+                "price": 0,
+                "images": [
+                    { "src": "/images/digital09.jpg", "alt": "" }
+                ],
+                "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
+                "kind": []
+
+            },
+            {
+                "category": "digitalart",
+                "id": "262",
+                "name": "ARTA-09",
+                "price": 0,
+                "images": [
+                    { "src": "/images/digital09.jpg", "alt": "" }
+                ],
+                "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
+                "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
+                "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
+                "kind": []
+            }
+
+
+
+        ]
+    },
+    {
+        "id": "199",
+        "category": "photos01",
+        "header": "אומנות דיגיטלית",
+        "sub": "תמונות | ציורים | אומנות דיגיטלית",
+        "image": "/images/digital01.jpg",
+        "subjects": ["photos"],
         "items": [
             {
                 "category": "digitalart",

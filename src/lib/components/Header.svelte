@@ -42,17 +42,8 @@
 						<li class="scroll-to-section"><a href="/oilpaintings" class:active={page.url.pathname === '/oilpaintings'}>ציורי שמן</a></li>
 						<li class="scroll-to-section"><a href="/digitalart" class:active={page.url.pathname === '/digitalart'}>אומנות דיגיטלית</a></li>
 						<li class="submenu" onclick={toggleSubMenu1}>
-							<a href="javascript:;">תמונות להדפסה</a>
-							
-							<ul class:active={subMenu1open}>
-								<li><a href="/baton05" class:active={page.url.pathname === '/baton05'}>קערות בטון מעוצבות  </a></li>
-								<li><a href="/">Minimal Moods</a></li>
-								<li><a href="/">Neutral Vibes</a></li>
-								<li class="scroll-to-section"><a href="/baton03" class:active={page.url.pathname === '/baton03'}>נרות, מבשמים ואווירה</a></li>
-								<li><a href="/">Timeless Concrete</a></li>
-							</ul>
-							
-						</li>
+						<li class="scroll-to-section"><a href="/subject/photos" class:active={page.url.pathname === '//subject/photos'}>תמונות להדפסה</a></li>
+
 						<li class="submenu" onclick={toggleSubMenu2} >
 							<a >בטון - עבודת יד</a>
 							<ul class:active={subMenu2open}>
