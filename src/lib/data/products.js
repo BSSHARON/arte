@@ -1020,7 +1020,7 @@ export const products = [
                 "name": "PH01",
                 "price": 0,
                 "images": [
-                    { "src": "/photos01/PH01.jpg", "alt": "" }
+                    { "src": "/images/photos/photos01/PH01.jpg", "alt": "" }
                 ],
                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
