@@ -12,6 +12,12 @@
  */
 
 /**
+ * @typedef {Object} ProductKind
+ * @property {string} name
+ * @property {number} quantity
+ */
+
+/**
  * @typedef {Object} ProductItem
  * @property {string} category
  * @property {string} id
@@ -21,18 +27,43 @@
  * @property {string} description
  * @property {string} quote
  * @property {(string[] | ProductSize[])} sizes
- * @property {string[]} kind
+ * @property {(string[] | ProductKind[])} kind
  */
 
 /**
  * @typedef {Object} ProductCategory
  * @property {string} id
+ * @property {string} image
  * @property {string} category
  * @property {string} header
  * @property {string} sub
  * @property {ProductItem[]} items
+ * @property {string[]} subjects
  */
 
+
+
+/**
+ * Array of subject categories for art products
+ * @type {Array<{name: string, description: string, header: string}>}
+ * @constant
+ * @exports
+ * @property {string} name - The identifier/slug for the subject category
+ * @property {string} description - Detailed description of the subject category in Hebrew
+ * @property {string} header - Display title/header for the subject category in Hebrew
+ */
+export const subjects = [
+    {
+        "name": "baton",
+        "description": "כל העיצובים המדהימים שקשורים לבטון",
+        "header":"עיצובי בטון"
+    },
+    {
+        "name": "art",
+        "description": "כל העיצובים הדיגיטליים וצייורי השמן המדהימים  ",
+        "header":"אמנות"
+    }
+]
 /** @type {ProductCategory[]} */
 export const products = [
     {
@@ -40,6 +71,8 @@ export const products = [
         "category": "baton01",
         "header": "אקססוריז לעיצוב הבית",
         "sub": "מיוצר בעבודת יד - כחול לבן",
+        "image": "/images/Accessoriesbaton001.jpg",
+        "subjects": ["baton"],
         "items": [
             {
                 "category": "baton01",
@@ -184,6 +217,8 @@ export const products = [
         "category": "baton02",
         "header": "קערות בטון ",
         "sub": "מיוצר בעבודת יד - כחול לבן",
+        "image": "/images/kaarabaton01.jpg",
+        "subjects": ["baton"],
         "items": [
             {
                 "category": "baton02",
@@ -372,6 +407,8 @@ export const products = [
         "category": "baton03",
         "header": "פמוטי בטון",
         "sub": "מיוצר בעבודת יד - כחול לבן",
+        "image": "/images/‏‏pamotim01.jpg",
+        "subjects": ["baton"],
         "items": [
             {
                 "category": "baton03",
@@ -515,6 +552,8 @@ export const products = [
         "category": "baton04",
         "header": "אגרטלי בטון ",
         "sub": "מיוצר בעבודת יד - כחול לבן",
+        "image": "/images/agratebaton01.jpg",
+        "subjects": ["baton"],
         "items": [
             {
                 "category": "baton04",
@@ -658,7 +697,9 @@ export const products = [
         "id": "140",
         "category": "oilpaintings",
         "header": "ציורי שמן",
+        "image": "/images/oilpaintings02.jpg",
         "sub": "ציור בצבעי שמן על בד קנבס,",
+        "subjects": ["art"],
         "items": [
             {
                 "category": "oilpaintings",
@@ -784,6 +825,8 @@ export const products = [
         "category": "digitalart",
         "header": "אומנות דיגיטלית",
         "sub": "תמונות | ציורים | אומנות דיגיטלית",
+        "image": "/images/digital01.jpg",
+        "subjects": ["art"],
         "items": [
             {
                 "category": "digitalart",
@@ -962,6 +1005,8 @@ export const products = [
         "category": "baton05",
         "header": " דיגיטלית",
         "sub": "תמונות | ציורים | אומנות דיגיטלית",
+        "image": "/images/digital01.jpg",
+        "subjects": ["baton"],
         "items": [
             {
                 "category": "baton05",
@@ -1087,6 +1132,8 @@ export const products = [
         "category": "baton05",
         "header": " דיגיטלית",
         "sub": "תמונות | ציורים | אומנות דיגיטלית",
+        "image": "/images/digital01.jpg",
+        "subjects": ["baton"],
         "items": [
             {
                 "category": "baton05",
