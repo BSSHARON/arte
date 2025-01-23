@@ -1015,7 +1015,7 @@ export const products = [
         "subjects": ["photos"],
         "items": [
             {
-                "category": "digitalart",
+                "category": "photos01",
                 "id": "200",
                 "name": "PH01",
                 "price": 0,
@@ -1029,12 +1029,12 @@ export const products = [
 
             },
             {
-                "category": "digitalart",
-                "id": "152",
-                "name": "ARTA-02",
+                "category": "photos01",
+                "id": "201",
+                "name": "PH01 (1)-2",
                 "price": 0,
                 "images": [
-                    { "src": "/images/digital02.jpg", "alt": "" }
+                    { "src": "/images/photos/photos01/PH01 (1)-2.jpg", "alt": "" }
                 ],
                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
@@ -1043,12 +1043,12 @@ export const products = [
 
             },
             {
-                "category": "digitalart",
-                "id": "153",
-                "name": "ARTA-03",
+                "category": "photos01",
+                "id": "202",
+                "name": "PH01 (2)",
                 "price": 0,
                 "images": [
-                    { "src": "/images/digital03.jpg", "alt": "" }
+                    { "src": "/images/photos/photos01/PH01 (2).jpg", "alt": "" }
                 ],
                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
