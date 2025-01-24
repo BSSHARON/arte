@@ -1017,7 +1017,7 @@ export const products = [
             {
                 "category": "photos01",
                 "id": "1001",
-                "name": "PH-01",
+                "name": "PH-001",
                 "price": 100,
                 "images": [
                     { "src": "/images/photos/photos01/PH-01.jpg", "alt": "" }
@@ -1031,7 +1031,7 @@ export const products = [
             {
                 "category": "photos01",
                 "id": "1002",
-                "name": "PH01 (1)-2",
+                "name": "PH02",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos01/HP02.jpg", "alt": "" }
@@ -1059,7 +1059,7 @@ export const products = [
             {
                 "category": "photos01",
                 "id": "1004",
-                "name": "ARTA-04",
+                "name": "PH-04",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos01/PH-04.jpg", "alt": "" }
