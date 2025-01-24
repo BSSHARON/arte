@@ -1230,7 +1230,7 @@ export const products = [
                 "items": [
                     {
                         "category": "photos02",
-                        "id": "1001",
+                        "id": "2001",
                         "name": "PH-01",
                         "price": 100,
                         "images": [
@@ -1244,7 +1244,7 @@ export const products = [
                     },
                     {
                         "category": "photos02",
-                        "id": "2000",
+                        "id": "2002",
                         "name": "PH01 (1)-2",
                         "price": 0,
                         "images": [
@@ -1258,7 +1258,7 @@ export const products = [
                     },
                     {
                         "category": "photos02",
-                        "id": "1003",
+                        "id": "2003",
                         "name": "PH01 (2)",
                         "price": 0,
                         "images": [
@@ -1272,7 +1272,7 @@ export const products = [
                     },
                     {
                         "category": "photos02",
-                        "id": "1004",
+                        "id": "2004",
                         "name": "ARTA-04",
                         "price": 0,
                         "images": [
@@ -1286,7 +1286,7 @@ export const products = [
                     },
                     {
                         "category": "photos02",
-                        "id": "1005",
+                        "id": "2005",
                         "name": "ARTA-05",
                         "price": 0,
                         "images": [
@@ -1300,7 +1300,7 @@ export const products = [
                     },
                     {
                         "category": "photos02",
-                        "id": "1006",
+                        "id": "2006",
                         "name": "ARTA-06",
                         "price": 0,
                         "images": [
@@ -1314,7 +1314,7 @@ export const products = [
                     },
                     {
                         "category": "photos02",
-                        "id": "1007",
+                        "id": "2007",
                         "name": "ARTA-07",
                         "price": 0,
                         "images": [
@@ -1328,7 +1328,7 @@ export const products = [
                     },
                     {
                         "category": "photos02",
-                        "id": "1008",
+                        "id": "2008",
                         "name": "ARTA-08",
                         "price": 0,
                         "images": [
@@ -1342,7 +1342,7 @@ export const products = [
                     },
                     {
                         "category": "photos02",
-                        "id": "1009",
+                        "id": "2009",
                         "name": "ARTA-09",
                         "price": 0,
                         "images": [
@@ -1356,7 +1356,7 @@ export const products = [
                     },
                     {
                         "category": "photos02",
-                        "id": "1010",
+                        "id": "2010",
                         "name": "ARTA-09",
                         "price": 0,
                         "images": [
@@ -1370,7 +1370,7 @@ export const products = [
                     },
                     {
                         "category": "photos02",
-                        "id": "1011",
+                        "id": "2011",
                         "name": "ARTA-09",
                         "price": 0,
                         "images": [
@@ -1384,7 +1384,7 @@ export const products = [
                     },
                     {
                         "category": "photos02",
-                        "id": "1012",
+                        "id": "2012",
                         "name": "ARTA-09",
                         "price": 0,
                         "images": [
