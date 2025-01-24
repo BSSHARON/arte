@@ -1017,7 +1017,7 @@ export const products = [
             {
                 "category": "photos01",
                 "id": "1001",
-                "name": "PH-001",
+                "name": "Arte's photos -01",
                 "price": 100,
                 "images": [
                     { "src": "/images/photos/photos01/PH-01.jpg", "alt": "" }
@@ -1031,7 +1031,7 @@ export const products = [
             {
                 "category": "photos01",
                 "id": "1002",
-                "name": "PH02",
+                "name": "Arte's photos -02",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos01/PH-02.jpg", "alt": "" }
@@ -1039,13 +1039,13 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
 
             },
             {
                 "category": "photos01",
                 "id": "1003",
-                "name": "PH01 (2)",
+                "name": "Arte's photos -03",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos01/PH-03.jpg", "alt": "" }
@@ -1053,13 +1053,13 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
 
             },
             {
                 "category": "photos01",
                 "id": "1004",
-                "name": "PH-04",
+                "name": "Arte's photos -04",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos01/PH-04.jpg", "alt": "" }
@@ -1067,13 +1067,13 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
 
             },
             {
                 "category": "photos01",
                 "id": "1005",
-                "name": "ARTA-05",
+                "name": "Arte's photos -05",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos01/PH-05.jpg", "alt": "" }
@@ -1081,13 +1081,13 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
 
             },
             {
                 "category": "photos01",
                 "id": "1006",
-                "name": "ARTA-06",
+                "name": "Arte's photos -06",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos01/PH-06.jpg", "alt": "" }
@@ -1095,13 +1095,12 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
-
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
             },
             {
                 "category": "photos01",
                 "id": "1007",
-                "name": "ARTA-07",
+                "name": "Arte's photos -07",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos01/PH-07.jpg", "alt": "" }
@@ -1109,13 +1108,13 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
 
             },
             {
                 "category": "photos01",
                 "id": "1008",
-                "name": "ARTA-08",
+                "name": "Arte's photos -08",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos01/PH-08.jpg", "alt": "" }
@@ -1123,13 +1122,13 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
 
             },
             {
                 "category": "photos01",
                 "id": "1009",
-                "name": "ARTA-09",
+                "name": "Arte's photos -09",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos01/PH-09.jpg", "alt": "" }
@@ -1137,13 +1136,13 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
 
             },
             {
                 "category": "photos01",
                 "id": "1010",
-                "name": "ARTA-09",
+                "name": "Arte's photos -10",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos01/PH-10.jpg", "alt": "" }
@@ -1151,13 +1150,13 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
 
             },
             {
                 "category": "photos01",
                 "id": "1011",
-                "name": "ARTA-09",
+                "name": "Arte's photos -11",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos01/PH-11.jpg", "alt": "" }
@@ -1165,13 +1164,13 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
 
             },
             {
                 "category": "photos01",
                 "id": "1012",
-                "name": "ARTA-09",
+                "name": "Arte's photos -12",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos01/PH-12.jpg", "alt": "" }
@@ -1179,7 +1178,7 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
             }
         ]
     },
@@ -1662,7 +1661,7 @@ export const products = [
             {
                 "category": "photos02",
                 "id": "2001",
-                "name": "PH-01",
+                "name": "Arte's photos-01",
                 "price": 100,
                 "images": [
                     { "src": "/images/photos/photos02/PH-01.jpg", "alt": "" }
@@ -1676,35 +1675,35 @@ export const products = [
             {
                 "category": "photos02",
                 "id": "2002",
-                "name": "PH01 (1)-2",
+                "name": "Arte's photos-02",
                 "price": 0,
                 "images": [
-                    { "src": "/images/photos/photos02/HP02.jpg", "alt": "" }
+                    { "src": "/images/photos/photos02/PH-02.jpg", "alt": "" }
                 ],
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
 
             },
             {
                 "category": "photos02",
                 "id": "2003",
-                "name": "PH01 (2)",
+                "name": "Arte's photos-03",
                 "price": 0,
                 "images": [
-                    { "src": "/images/photos/photos02/PH03.jpg", "alt": "" }
+                    { "src": "/images/photos/photos02/PH-03.jpg", "alt": "" }
                 ],
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
 
             },
             {
                 "category": "photos02",
                 "id": "2004",
-                "name": "ARTA-04",
+                "name": "Arte's photos-04",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos02/PH-04.jpg", "alt": "" }
@@ -1712,13 +1711,13 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
 
             },
             {
                 "category": "photos02",
                 "id": "2005",
-                "name": "ARTA-05",
+                "name": "Arte's photos-05",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos02/PH-05.jpg", "alt": "" }
@@ -1726,13 +1725,13 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
 
             },
             {
                 "category": "photos02",
                 "id": "2006",
-                "name": "ARTA-06",
+                "name": "Arte's photos-06",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos02/PH-06.jpg", "alt": "" }
@@ -1740,13 +1739,13 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
 
             },
             {
                 "category": "photos02",
                 "id": "2007",
-                "name": "ARTA-07",
+                "name": "Arte's photos-07",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos02/PH-07.jpg", "alt": "" }
@@ -1754,13 +1753,13 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
 
             },
             {
                 "category": "photos02",
                 "id": "2008",
-                "name": "ARTA-08",
+                "name": "Arte's photos-08",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos02/PH-08.jpg", "alt": "" }
@@ -1768,13 +1767,13 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
 
             },
             {
                 "category": "photos02",
                 "id": "2009",
-                "name": "ARTA-09",
+                "name": "Arte's photos-09",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos02/PH-09.jpg", "alt": "" }
@@ -1782,13 +1781,13 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
 
             },
             {
                 "category": "photos02",
                 "id": "2010",
-                "name": "ARTA-09",
+                "name": "Arte's photos-10",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos02/PH-10.jpg", "alt": "" }
@@ -1796,13 +1795,13 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
 
             },
             {
                 "category": "photos02",
                 "id": "2011",
-                "name": "ARTA-09",
+                "name": "Arte's photos-11",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos02/PH-11.jpg", "alt": "" }
@@ -1810,13 +1809,13 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
 
             },
             {
                 "category": "photos02",
                 "id": "2012",
-                "name": "ARTA-09",
+                "name": "Arte's photos-12",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos02/PH-12.jpg", "alt": "" }
@@ -1824,7 +1823,7 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": []
+                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
             }
 
 ]
