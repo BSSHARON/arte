@@ -1057,7 +1057,7 @@ export const products = [
 
             },
             {
-                "category": "digitalart",
+                "category": "photos01",
                 "id": "1004",
                 "name": "ARTA-04",
                 "price": 0,
@@ -1071,7 +1071,7 @@ export const products = [
 
             },
             {
-                "category": "digitalart",
+                "category": "photos01",
                 "id": "1005",
                 "name": "ARTA-05",
                 "price": 0,
@@ -1085,7 +1085,7 @@ export const products = [
 
             },
             {
-                "category": "digitalart",
+                "category": "photos01",
                 "id": "1006",
                 "name": "ARTA-06",
                 "price": 0,
@@ -1099,7 +1099,7 @@ export const products = [
 
             },
             {
-                "category": "digitalart",
+                "category": "photos01",
                 "id": "1007",
                 "name": "ARTA-07",
                 "price": 0,
@@ -1113,7 +1113,7 @@ export const products = [
 
             },
             {
-                "category": "digitalart",
+                "category": "photos01",
                 "id": "1008",
                 "name": "ARTA-08",
                 "price": 0,
@@ -1127,7 +1127,7 @@ export const products = [
 
             },
             {
-                "category": "digitalart",
+                "category": "photos01",
                 "id": "1009",
                 "name": "ARTA-09",
                 "price": 0,
@@ -1141,7 +1141,7 @@ export const products = [
 
             },
             {
-                "category": "digitalart",
+                "category": "photos01",
                 "id": "1010",
                 "name": "ARTA-09",
                 "price": 0,
@@ -1155,7 +1155,7 @@ export const products = [
 
             },
             {
-                "category": "digitalart",
+                "category": "photos01",
                 "id": "1011",
                 "name": "ARTA-09",
                 "price": 0,
@@ -1169,7 +1169,7 @@ export const products = [
 
             },
             {
-                "category": "digitalart",
+                "category": "photos01",
                 "id": "1012",
                 "name": "ARTA-09",
                 "price": 0,
