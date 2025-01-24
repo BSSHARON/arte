@@ -1034,7 +1034,7 @@ export const products = [
                 "name": "PH02",
                 "price": 0,
                 "images": [
-                    { "src": "/images/photos/photos01/HP02.jpg", "alt": "" }
+                    { "src": "/images/photos/photos01/PH-02.jpg", "alt": "" }
                 ],
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
@@ -1048,7 +1048,7 @@ export const products = [
                 "name": "PH01 (2)",
                 "price": 0,
                 "images": [
-                    { "src": "/images/photos/photos01/PH03.jpg", "alt": "" }
+                    { "src": "/images/photos/photos01/PH-03.jpg", "alt": "" }
                 ],
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
