@@ -1223,7 +1223,7 @@ export const products = [
             {
                 "id": "2000",
                 "category": "photos02",
-                "header": "BLACK & GOLD",
+                "header": "AFRICAN",
                 "sub": "גלריית תמונות למכירה ",
                 "image": "/images/photos/photos02/PH-001.jpg",
                 "subjects": ["photos"],
