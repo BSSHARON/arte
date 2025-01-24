@@ -1221,20 +1221,20 @@ export const products = [
                 "kind": []
             },
             {
-                "id": "1000",
-                "category": "photos01",
+                "id": "2000",
+                "category": "photos02",
                 "header": "BLACK & GOLD",
                 "sub": "גלריית תמונות למכירה ",
-                "image": "/images/photos/photos01/PH-001.jpg",
+                "image": "/images/photos/photos02/PH-001.jpg",
                 "subjects": ["photos"],
                 "items": [
                     {
-                        "category": "photos01",
+                        "category": "photos02",
                         "id": "1001",
                         "name": "PH-01",
                         "price": 100,
                         "images": [
-                            { "src": "/images/photos/photos01/PH-01.jpg", "alt": "" }
+                            { "src": "/images/photos/photos02/PH-01.jpg", "alt": "" }
                         ],
                         "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                         "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
