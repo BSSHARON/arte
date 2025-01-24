@@ -15,13 +15,8 @@
  */
 export const cart = $state(/** @type {CartState} */{ cart: [] });
 
-/**
- * Adds a product to the cart and updates the local storage.
- *
- * @param {CartItem} product - The product to be added to the cart.
- * @param {number} [quantity=1] - The quantity to add (optional, default is 1).
- */
-export function addToCart(product, quantity = 1, sizeIndex = 0) {
+
+/*export function addToCart(product, quantity = 1, sizeIndex = 0) {
     const existingProduct = cart.cart.find(p => p.id === product.id);
     if (existingProduct) {
         existingProduct.quantity = (existingProduct.quantity || 0) + quantity;
@@ -32,8 +27,42 @@ export function addToCart(product, quantity = 1, sizeIndex = 0) {
         }
     }
     localStorage.setItem('cart', JSON.stringify(cart.cart));
+}*/
+/**
+ * Adds a product to the cart and updates the local storage.
+ *
+ * @param {CartItem} product - The product to be added to the cart.
+ * @param {number} [quantity=1] - The quantity to add (optional, default is 1).
+ * @param {number} [sizeIndex=0] - The index of the selected size (optional, default is 0).
+ */
+export function addToCart(product, quantity = 1, sizeIndex = 0) {
+    console.log(product, quantity, sizeIndex);
+    const existingProductIndex = cart.cart.findIndex((p) => p.id === product.id);
+  
+    if (existingProductIndex !== -1) {
+      // Product already exists in the cart
+      const existingProduct = cart.cart[existingProductIndex];
+      existingProduct.quantity = (existingProduct.quantity || 0) + quantity;
+  
+      // Update size quantity if applicable
+      if (existingProduct.sizes && existingProduct.sizes.length > sizeIndex) {
+        existingProduct.sizes[sizeIndex].quantity =
+          (existingProduct.sizes[sizeIndex].quantity || 0) + quantity;
+      }
+    } else {
+      // Product is new to the cart
+      const newProduct = { ...product, quantity };
+  
+      // Initialize size quantity if applicable
+      if (newProduct.sizes && newProduct.sizes.length > sizeIndex) {
+        newProduct.sizes[sizeIndex].quantity = quantity;
+      }
+  
+      cart.cart = [...cart.cart, newProduct];
+    }
+    localStorage.setItem('cart', JSON.stringify(cart.cart));
 }
-
+  
 /**
  * Updates the quantity of a product in the cart.
  *

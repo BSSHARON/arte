@@ -845,7 +845,7 @@ export const products = [
                 "description": "הפוך את הבית שלך לגלריה - תמונות דיגיטליות מעוצבות, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה או זכוכית",
                 "sizes": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, { "name": "120x40", "quantity": 0 }],
-                "kind": [{ "name": "60x20", "quantity": 0 }, { "name": "90x30", "quantity": 0 }, ]
+                "kind": [{ "name": "הדפסה", "quantity": 0 }, { "name": "זכוכית", "quantity": 0 }]
 
             },
             {
