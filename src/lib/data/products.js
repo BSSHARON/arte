@@ -564,7 +564,7 @@ export const products = [
         "category": "baton04",
         "header": "אגרטלי בטון ",
         "sub": "מיוצר בעבודת יד - כחול לבן",
-        "image": "/images/agratebaton01.jpg",
+        "image": "/images/agratebaton0001.jpg",
         "subjects": ["baton"],
         "items": [
             {
