@@ -60,8 +60,8 @@ export const subjects = [
     },
     {
         "name": "art",
-        "description": "כל העיצובים הדיגיטליים וצייורי השמן המדהימים  ",
-        "header":"אמנות"
+        "description": "תמונות להדפסה זכוכית | קנווס - בגדלים שונים",
+        "header":"אמנות דיגיטלית"
     },
     {
         "name": "photos",
