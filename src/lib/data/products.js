@@ -837,7 +837,7 @@ export const products = [
         "category": "digitalart",
         "header": "ARTISTIC- ",
         "sub": "גלריית תמונות למכירה ",
-        "image": "/images/photos/photos02/PH-001.jpg",
+        "image": "/images/photos/digital01/digital001.jpg",
         "subjects": ["art"],
         "items": [
             {
