@@ -4,28 +4,22 @@
       import { fly, fade } from 'svelte/transition';
 	import { onMount } from 'svelte';
   
-    let categoryData = $state({});
-    let items = $state([]);
-  
-    onMount(() => {
-    const currentCategory = products.filter(
+    let categoryData = $derived.by(() => {
+      return subjects.find(
+        (p) => p.name == page.params.subjects
+      )
+    });
+
+    let items = $derived.by(() => {
+      return products.filter(
       (p) => p.subjects.includes(page.params.subjects)
     );
-    console.log(currentCategory)
-    if (currentCategory) {
-      categoryData = subjects.find( 
-        (p) => p.name == page.params.subjects
-      );
-      items = currentCategory
-      console.log(items)
-    }
-  });
+    })
   
   
+ 
   </script>
   {#key page.params.category}
-  
-  
   
   <!-- ***** Products Area Starts ***** -->
   <section class="section" style="margin-top: 100px;"  id="products"  in:fly="{{ y: 200, duration: 2000 }}" out:fly="{{ duration: 2000, y: 200 }}" >
