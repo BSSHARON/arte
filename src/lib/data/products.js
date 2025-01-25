@@ -1188,7 +1188,7 @@ export const products = [
         "category": "photos03",
         "header": "LIONS",
         "sub": "גלריית תמונות למכירה ",
-        "image": "/images/photos/photos01/PH-001.jpg",
+        "image": "/images/photos/photos03/PH-001.jpg",
         "subjects": ["photos"],
         "items": [
             {
