@@ -55,7 +55,7 @@
 					-->
 						<li class="scroll-to-section"><a href="/subject/photos" class:active={page.url.pathname === '/subject/photos'}>תמונות להדפסה</a></li>
 
-						<li class="submenu" onclick={toggleSubMenu2} >
+						<!----<li class="submenu" onclick={toggleSubMenu2} >-->
 						<li class="scroll-to-section"><a href="/subject/baton" class:active={page.url.pathname === '/subject/baton'}>בטון עבודת יד </a></li>
 							<li class="scroll-to-section">
 							  <a href="/favorites">
