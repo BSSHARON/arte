@@ -1208,10 +1208,10 @@ export const products = [
             {
                 "category": "photos03",
                 "id": "3002",
-                "name": "Arte's photos-01",
+                "name": "Arte's photos-02",
                 "price": 0,
                 "images": [
-                    { "src": "/images/photos/photos02/PH-01.jpg", "alt": "" }
+                    { "src": "/images/photos/photos03/PH-02.jpg", "alt": "" }
                 ],
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
@@ -1222,10 +1222,10 @@ export const products = [
             {
                 "category": "photos03",
                 "id": "3003",
-                "name": "Arte's photos-01",
+                "name": "Arte's photos-03",
                 "price": 0,
                 "images": [
-                    { "src": "/images/photos/photos03/PH03.jpg", "alt": "" }
+                    { "src": "/images/photos/photos03/PH-03.jpg", "alt": "" }
                 ],
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
@@ -1236,7 +1236,7 @@ export const products = [
             {
                 "category": "photos03",
                 "id": "3004",
-                "name": "Arte's photos-01",
+                "name": "Arte's photos-04",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos03/PH-04.jpg", "alt": "" }
@@ -1250,7 +1250,7 @@ export const products = [
             {
                 "category": "photos03",
                 "id": "3005",
-                "name": "Arte's photos-01",
+                "name": "Arte's photos-05",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos03/PH-05.jpg", "alt": "" }
@@ -1264,7 +1264,7 @@ export const products = [
             {
                 "category": "photos03",
                 "id": "3006",
-                "name": "Arte's photos-01",
+                "name": "Arte's photos-06",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos03/PH-06.jpg", "alt": "" }
@@ -1278,7 +1278,7 @@ export const products = [
             {
                 "category": "photos03",
                 "id": "3007",
-                "name": "Arte's photos-01",
+                "name": "Arte's photos-07",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos03/PH-07.jpg", "alt": "" }
@@ -1292,9 +1292,10 @@ export const products = [
             {
                 "category": "photos03",
                 "id": "3008",
-                "name": "Arte's photos-01",
+                "name": "Arte's photos-08",
                 "price": 0,
                 "images": [
+                    { "src": "/images/photos/photos03/PH-008.jpg", "alt": "" },
                     { "src": "/images/photos/photos03/PH-08.jpg", "alt": "" }
                 ],
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
@@ -1306,9 +1307,10 @@ export const products = [
             {
                 "category": "photos03",
                 "id": "3009",
-                "name": "Arte's photos-01",
+                "name": "Arte's photos-09",
                 "price": 0,
                 "images": [
+                    { "src": "/images/photos/photos03/PH-009.jpg", "alt": "" },
                     { "src": "/images/photos/photos03/PH-09.jpg", "alt": "" }
                 ],
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
@@ -1320,7 +1322,7 @@ export const products = [
             {
                 "category": "photos03",
                 "id": "3010",
-                "name": "Arte's photos-01",
+                "name": "Arte's photos-10",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos03/PH-10.jpg", "alt": "" }
@@ -1334,9 +1336,10 @@ export const products = [
             {
                 "category": "photos03",
                 "id": "3011",
-                "name": "Arte's photos-01",
+                "name": "Arte's photos-11",
                 "price": 0,
                 "images": [
+                    { "src": "/images/photos/photos03/PH-011.jpg", "alt": "" },
                     { "src": "/images/photos/photos03/PH-11.jpg", "alt": "" }
                 ],
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
@@ -1348,7 +1351,7 @@ export const products = [
             {
                 "category": "photos03",
                 "id": "3012",
-                "name": "Arte's photos-01",
+                "name": "Arte's photos-12",
                 "price": 0,
                 "images": [
                     { "src": "/images/photos/photos03/PH-12.jpg", "alt": "" }
