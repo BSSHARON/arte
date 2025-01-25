@@ -66,12 +66,12 @@ export const subjects = [
     {
         "name": "photos",
         "description": "תמונות להדפסה זכוכית | קנווס - בגדלים שונים",
-        "header":"אומנות להדפסה "
+        "header":"אמנות להדפסה "
     },
     {
         "name": "oilpaintings",
         "description": "תמונות להדפסה זכוכית | קנווס - בגדלים שונים",
-        "header":"אומנות להדפסה "
+        "header":"אמנות להדפסה "
     }
 
 
