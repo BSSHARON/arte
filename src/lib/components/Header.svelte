@@ -40,7 +40,7 @@
 						<li class="scroll-to-section"><a href="/" class:active={page.url.pathname === '/'}>דף הבית</a></li>
 						<li class="scroll-to-section"><a href="/about" class:active={page.url.pathname === '/about'}>אודות</a></li>
 						<li class="scroll-to-section"><a href="/oilpaintings" class:active={page.url.pathname === '/oilpaintings'}>ציורי שמן</a></li>
-						<li class="scroll-to-section"><a href="/subject/art" class:active={page.url.pathname === '//subject/art'}>אמנות דיגיטלית </a></li>
+						<li class="scroll-to-section"><a href="/subject/art" class:active={page.url.pathname === '/subject/art'}>אמנות דיגיטלית </a></li>
 					<!---	אפשר להשתמש בזה אם תרצה עוד תפריט נפתח
 					<li class="submenu" onclick={toggleSubMenu1}>
 						<a >בטון - עבודת יד</a>
@@ -53,18 +53,10 @@
 							</ul>
 						</li>
 					-->
-						<li class="scroll-to-section"><a href="/subject/photos" class:active={page.url.pathname === '//subject/photos'}>תמונות להדפסה</a></li>
+						<li class="scroll-to-section"><a href="/subject/photos" class:active={page.url.pathname === '/subject/photos'}>תמונות להדפסה</a></li>
 
 						<li class="submenu" onclick={toggleSubMenu2} >
-							<a >בטון - עבודת יד</a>
-							<ul class:active={subMenu2open}>
-								<li><a href="/baton01" class:active={page.url.pathname === '/baton01'}> מארזים בטון </a></li>
-								<li><a href="/baton01" class:active={page.url.pathname === '/baton01'}>אקססוריז לעיצוב הבית</a></li>
-								<li><a href="/baton02" class:active={page.url.pathname === '/baton02'}>קערות בטון מעוצבות  </a></li>
-								<li><a href="/baton03" class:active={page.url.pathname === '/baton03'}>פמוטי בטון </a></li>
-								<li><a href="/baton04" class:active={page.url.pathname === '/baton04'}>אגרטלים מבטון</a></li>
-							</ul>
-						</li>
+						<li class="scroll-to-section"><a href="/subject/baton" class:active={page.url.pathname === '/subject/baton'}>בטון עבודת יד </a></li>
 							<li class="scroll-to-section">
 							  <a href="/favorites">
 								<i class="fa fa-heart"></i>
