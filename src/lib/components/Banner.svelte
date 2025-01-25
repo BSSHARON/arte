@@ -49,7 +49,7 @@
                                             <h4>בטון</h4>
                                             <p>כלים ויצירות מבטון איכותי לעיצוב הבית</p>
                                             <div class="main-border-button">
-                                                <a href="/baton02">קרא עוד</a>
+                                                <a href="/subject/baton">קרא עוד</a>
                                             </div>
                                         </div>
                                     </div>
@@ -69,7 +69,7 @@
                                             <h4>אומנות דיגיטלית</h4>
                                             <p>אומנות דיגיטלית יחודית - תמונות וציורים</p>
                                             <div class="main-border-button">
-                                                <a href="/digitalart">קרא עוד</a>
+                                                <a href="/subject/art">קרא עוד</a>
                                             </div>
                                         </div>
                                     </div>
