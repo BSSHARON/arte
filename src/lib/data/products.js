@@ -1034,8 +1034,8 @@ export const products = [
                 "name": "Arte's photos -02",
                 "price": 0,
                 "images": [
-                    { "src": "/images/photos/photos01/PH-002.jpg", "alt": "" },
-                    { "src": "/images/photos/photos01/PH-02.jpg", "alt": "" }
+                    { "src": "/images/photos/photos01/PH-002.jpg", "alt": "", "only": true },
+                    { "src": "/images/photos/photos01/PH-02.jpg", "alt": "" },
                 ],
                 "description": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
                 "quote": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
