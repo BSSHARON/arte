@@ -55,8 +55,8 @@
 export const subjects = [
     {
         "name": "baton",
-        "description": "כל העיצובים המדהימים שקשורים לבטון",
-        "header":"עיצובי בטון"
+        "description": "פריטי בטון לעיצוב הבית והגן - מיוצר בעבודת יד כחול לבן",
+        "header":" בטון בעבודת יד"
     },
     {
         "name": "art",
@@ -83,7 +83,7 @@ export const products = [
         "category": "baton01",
         "header": "אקססוריז לעיצוב הבית",
         "sub": "מיוצר בעבודת יד - כחול לבן",
-        "image": "/images/Accessoriesbaton001.jpg",
+        "image": "/images/Accessoriesbaton000000001.jpg",
         "subjects": ["baton"],
         "items": [
             {
@@ -229,7 +229,7 @@ export const products = [
         "category": "baton02",
         "header": "קערות בטון ",
         "sub": "מיוצר בעבודת יד - כחול לבן",
-        "image": "/images/kaarabaton01.jpg",
+        "image": "/images/kaarabaton001.jpg",
         "subjects": ["baton"],
         "items": [
             {
@@ -419,7 +419,7 @@ export const products = [
         "category": "baton03",
         "header": "פמוטי בטון",
         "sub": "מיוצר בעבודת יד - כחול לבן",
-        "image": "/images/‏‏pamotim01.jpg",
+        "image": "/images/‏‏pamotim00001.jpg",
         "subjects": ["baton"],
         "items": [
             {
@@ -837,7 +837,7 @@ export const products = [
         "category": "digitalart",
         "header": "ARTISTIC- ",
         "sub": "גלריית תמונות למכירה ",
-        "image": "/images/photos/digital01/digital001.jpg",
+        "image": "/images/digital/digital01/digital001.jpg",
         "subjects": ["art"],
         "items": [
             {
@@ -1013,7 +1013,7 @@ export const products = [
         "category": "digitalart01",
         "header": "ARTISTIC- ",
         "sub": "גלריית תמונות למכירה ",
-        "image": "/images/photos/photos02/PH-001.jpg",
+        "image": "/images/digital/digital02/digital001.jpg",
         "subjects": ["art"],
         "items": [
             {
@@ -1189,7 +1189,7 @@ export const products = [
         "category": "digitalart02",
         "header": "ARTISTIC- ",
         "sub": "גלריית תמונות למכירה ",
-        "image": "/images/photos/photos02/PH-001.jpg",
+        "image": "/images/digital/digital03/digital001.jpg",
         "subjects": ["art"],
         "items": [
             {
