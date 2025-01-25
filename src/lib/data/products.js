@@ -67,7 +67,13 @@ export const subjects = [
         "name": "photos",
         "description": "תמונות להדפסה זכוכית | קנווס - בגדלים שונים",
         "header":"אומנות להדפסה "
+    },
+    {
+        "name": "oilpaintings",
+        "description": "תמונות להדפסה זכוכית | קנווס - בגדלים שונים",
+        "header":"אומנות להדפסה "
     }
+
 
 ]
 /** @type {ProductCategory[]} */
@@ -705,7 +711,7 @@ export const products = [
         "header": "ציורי שמן",
         "image": "/images/oilpaintings02.jpg",
         "sub": "ציור בצבעי שמן על בד קנבס,",
-        "subjects": ["art"],
+        "subjects": ["oilpaintings"],
         "items": [
             {
                 "category": "oilpaintings",
