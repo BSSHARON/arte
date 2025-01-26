@@ -8,30 +8,31 @@
                     </div>
                     <ul  dir="rtl">
                         <li  dir="rtl"><a href="#">איסוף הזמנות מראשון לציון - בתיאום מראש</a></li>
-                        <li><a href="https://wa.me/972502374217">דברו איתנו בווטסאפ</a></li>
+                        <li><a href="https://wa.me/972502374217">דברו איתי בווטסאפ</a></li>
                         <li><a href="tel:+9720502374217">050-2374217</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-lg-3">
-                <h4>כלי בטון - עבודת יד</h4>
+                <h4> מפת נווט באתר</h4>
                 <ul>
-                    <li><a href="/digitalart">אומנות דיגיטלית</a></li>
+                    <li><a href="/subject/art">אומנות דיגיטלית</a></li>
                     <li><a href="/oilpaintings">ציורי שמן</a></li>
-                    <li><a href="/Karmic">כלי קרמיקה</a></li>
+                    <li><a href="/subject/baton">בטון - עבודת יד</a></li>
+                    <li><a href="/subject/photos"> תמונות להדפסה</a></li>
                 </ul>
             </div>
             <div class="col-lg-3">
-                <h4>מתנות לחג</h4>
+                <h4>מארזים ומתנות </h4>
                 <ul>
                     <li><a href="/me'arzim01">מארזים - בטון</a></li>
                     <li><a href="/Candles">נרות, מבשמים ואווירה</a></li>
+                    <li><a href="/Candles"> SALE</a></li>
                 </ul>
             </div>
             <div class="col-lg-3">
                 <h4>מידע נוסף</h4>
                 <ul>
-                    <li><a href="/holidays">מתנות לחגים</a></li>
                     <li><a href="/Questions">שאלות נפוצות</a></li>
                     <li><a href="/regulations">תקנון משלוחים</a></li>
                 </ul>
