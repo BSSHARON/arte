@@ -34,12 +34,34 @@
 					}
 	}
 
-	let total = $derived(cart.cart.reduce((sum, item) => sum + item.price * item.quantity, 0));
+	let total = $derived(cart.cart.reduce((sum, item) => sum + calculatePrice(item) * item.quantity, 0));
 
  function close(){
 	console.log("yy")
   check = false;
   cart.cart = [];
+}
+const calculatePrice = (item) => {
+    // בדוק אם יש גדלים זמינים
+    if (!item.sizes || item.sizes.length === 0) {
+        return item.price; // אם אין גדלים, החזר את המחיר הבסיסי
+    }
+
+    // חפש את הגודל הראשון עם כמות זמינה
+    for (let size of item.sizes) {
+        if (size.quantity > 0) {
+            // חפש את סוג ההדפסה הראשון עם כמות זמינה
+            for (let kind of item.kind) {
+                if (kind.quantity > 0) {
+                    const sizeIndex = item.sizes.indexOf(size);
+                    const kindIndex = item.kind.indexOf(kind);
+                    return size.price[sizeIndex]; // החזר את המחיר לפי אינדקס הגודל והסוג
+                }
+            }
+        }
+    }
+
+    return item.price; // אם כל הכמויות הן 0, החזר את המחיר הבסיסי
 }
 </script>
 <div class="cart-list" style="margin-top: 100px;">
@@ -54,7 +76,7 @@
 					<input type="number" step="1" min="1" max="" name="quantity" bind:value="{item.quantity}" title="Qty" class="input-text qty text" size="4" pattern="" inputmode="">
 					<input type="button" value="+" class="plus" onclick={() => plusItem(item)}>
 				</div>
-			<p>₪{item.price * item.quantity > 0 ? item.price * item.quantity : item.price}</p>
+			<p>₪{calculatePrice(item) * item.quantity}</p>
 		</div>
 	{/each}
 	<div dir="rtl" class="total">
