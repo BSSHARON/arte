@@ -15,13 +15,13 @@
         itemQuantity = Math.max(1, itemQuantity - 1,1);
     }
 
-    function handleAddToCart(item, itemQuantity = 1, sizeIndex = 0) {
+    function handleAddToCart(item, itemQuantity = 1, sizeIndex = 0, kindIndex = 0) {
         const existingItem = cart.cart.find(p => p.id === item.id);
         if (existingItem) {
             updateQuantity(item,  itemQuantity);
         } else {
             console.log(itemQuantity)
-            addToCart(item, itemQuantity, sizeIndex);
+            addToCart(item, itemQuantity, sizeIndex, kindIndex);
         }
     }
 
@@ -54,7 +54,7 @@
             <div class="col-lg-4">
                 <div class="right-content">
                     <h4>{item?.name}</h4>
-                    <span class="price"> {item?.price} ₪</span>
+                    <span class="price"> {(item?.sizes.length > 0 ? item?.sizes[sizeIndex]?.price[kindIndex] : item?.price)} ₪</span>
                     <ul class="stars">
                     </ul>
                     <span>{item?.description}</span>
@@ -99,7 +99,7 @@
 
                             <div class="total " style="margin-top: 10px;">
                                 <div class="main-border-button gray-background">
-                                    <h4>עלות : {item?.price * itemQuantity} ₪</h4>
+                                    <h4>עלות : {(item?.sizes.length > 0 ? item?.sizes[sizeIndex]?.price[kindIndex] : item?.price) * itemQuantity} ₪</h4>
                                     {#if item && cart.cart && cart.cart.find(p => p.id === item.id)}
                                         <button class="active" onclick={() => goto('/cart')}>להשלמת הרכישה</button>
                                     {:else if item}

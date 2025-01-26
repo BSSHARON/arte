@@ -4417,7 +4417,7 @@ export const products = [
                 "category": "photos01",
                 "id": "1002",
                 "name": "Arte's photos -02",
-                "price": 0,
+                "price": 10,
                 "images": [
                     {
                         "src": "/images/photos/photos01/PH-002.jpg",
@@ -4436,54 +4436,54 @@ export const products = [
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            10,
+                            20,
+                            30
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            40,
+                            50,
+                            60
                         ]
                     },
                     {
                         "name": "70x100",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            70,
+                            80,
+                            90
                         ]
                     },
                     {
                         "name": "100x150",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            100,
+                            110,
+                            120
                         ]
                     },
                     {
                         "name": "150x180",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            130,
+                            140,
+                            150
                         ]
                     },
                     {
                         "name": "מתעניין בגדלים אחרים ",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            160,
+                            170,
+                            180
                         ]
                     }
                 ],
