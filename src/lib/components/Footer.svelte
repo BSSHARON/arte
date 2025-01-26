@@ -7,7 +7,7 @@
                         <img src="/images/white-logo.png" alt="hexashop ecommerce templatemo">
                     </div>
                     <ul  dir="rtl">
-                        <li  dir="rtl"><a href="#">איסוף הזמנות מראשון לציון - בתיאום מראש</a></li>
+                        <li  dir="rtl"><a href="#">BE YOU. DO YOU. FOR YOU</a></li>
                         <li><a href="https://wa.me/972502374217">דברו איתי בווטסאפ</a></li>
                         <li><a href="tel:+9720502374217">050-2374217</a></li>
                     </ul>
