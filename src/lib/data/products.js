@@ -4809,7 +4809,7 @@ export const products = [
                 "category": "photos01",
                 "id": "1001",
                 "name": "Arte's photos -01",
-                "price": 100,
+                "price": 0,
                 "images": [
                     {
                         "src": "/images/photos/photos01/PH-01.jpg",
