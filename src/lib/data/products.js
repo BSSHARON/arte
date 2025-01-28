@@ -1738,7 +1738,7 @@ export const products = [
     {
         "id": "50000",
         "category": "digitalart",
-        "header": "ARTISTIC- ",
+        "header": "ARTE COLORS",
         "sub": "גלריית תמונות למכירה ",
         "image": "/images/digital/digital01/digital001.jpg",
         "subjects": [
@@ -2758,7 +2758,7 @@ export const products = [
     {
         "id": "60000",
         "category": "digitalart01",
-        "header": "ARTISTIC- ",
+        "header": "ARTE BLACK AND WHITE",
         "sub": "גלריית תמונות למכירה ",
         "image": "/images/digital/digital02/digital001.jpg",
         "subjects": [
@@ -3778,9 +3778,9 @@ export const products = [
     {
         "id": "70000",
         "category": "digitalart02",
-        "header": "ARTISTIC- ",
+        "header": "ARTE ARTISTIC",
         "sub": "גלריית תמונות למכירה ",
-        "image": "/images/digital/digital03/digital001.jpg",
+        "image": "/images/digital/digital03/digital00.jpg",
         "subjects": [
             "art"
         ],
