@@ -19631,11 +19631,16 @@ export const products = [
             },
             {
                 "category": "photos03",
-                "id": "3027",
-                "name": "Arte's photos-27",
+                "id": "3011",
+                "name": "Arte's photos-11",
                 "price": 0,
                 "images": [
-7                    {
+                    {
+                        "src": "/images/photos/photos03/PH-011.jpg",
+                        "alt": "",
+                        "only": true
+                    },
+                    {
                         "src": "/images/photos/photos03/PH-27.jpg",
                         "alt": ""
                     }
@@ -19715,12 +19720,17 @@ export const products = [
             },
             {
                 "category": "photos03",
-                "id": "3028",
-                "name": "Arte's photos-28",
+                "id": "3011",
+                "name": "Arte's photos-11",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos03/PH-28.jpg",
+                        "src": "/images/photos/photos03/PH-011.jpg",
+                        "alt": "",
+                        "only": true
+                    },
+                    {
+                        "src": "/images/photos/photos03/PH-11.jpg",
                         "alt": ""
                     }
                 ],
@@ -19799,12 +19809,17 @@ export const products = [
             },
             {
                 "category": "photos03",
-                "id": "3029",
-                "name": "Arte's photos-29",
+                "id": "3011",
+                "name": "Arte's photos-11",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos03/PH-29.jpg",
+                        "src": "/images/photos/photos03/PH-011.jpg",
+                        "alt": "",
+                        "only": true
+                    },
+                    {
+                        "src": "/images/photos/photos03/PH-11.jpg",
                         "alt": ""
                     }
                 ],
