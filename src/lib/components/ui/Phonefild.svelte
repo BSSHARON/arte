@@ -193,7 +193,6 @@
 	.phone-field {
 		display: flex;
 		position: relative;
-		border-radius: 0.5rem;
 	}
 
 	.phone-field-invalid {
@@ -294,7 +293,8 @@
 	.dropdown-list {
 		position: absolute;
 		z-index: 10;
-		max-width: fit-content;
+		/* max-width: fit-content; */ /* Removed max-width */
+        width: 100%; /* Added width: 100% to make it responsive */
 		background-color: #fff;
 		border-radius: 0.5rem;
 		border-width: 1px;

@@ -88,6 +88,8 @@
             alert('Payment failed: ' + error?.message);
         }
   }
+  import { cities } from './cities.js';
+
     </script>
     <main dir="rtl">
         <div class="container our px-4 px-lg-5" >
@@ -182,8 +184,10 @@
               <label for="state" class="form-label">עיר</label>
               <select class="form-select" id="state" required="">
                 <option value="">בחר...</option>
-                <option>ירושלים</option>
-              </select>
+                {#each cities as city}
+                <option value={city}>{city}</option >
+            {/each}
+                        </select>
               <div class="invalid-feedback">
                 יש לבחור עיר תקינה
               </div>
