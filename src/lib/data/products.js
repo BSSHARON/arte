@@ -4893,7 +4893,7 @@ export const products = [
                 "category": "photos01",
                 "id": "1002",
                 "name": "Arte's photos -02",
-                "price": 10,
+                "price": 0,
                 "images": [
                     {
                         "src": "/images/photos/photos01/PH-002.jpg",
@@ -10976,10 +10976,10 @@ export const products = [
                 "category": "photos04",
                 "id": "1002",
                 "name": "Arte's photos -31",
-                "price": 10,
+                "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos04/PH-031.jpg",
+                        "src": "/images/photos/photos04/PH-002.jpg",
                         "alt": "",
                         "only": true
                     },
