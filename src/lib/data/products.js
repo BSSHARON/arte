@@ -18964,12 +18964,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos03/PH-011.jpg",
-                        "alt": "",
-                        "only": true
-                    },
-                    {
-                        "src": "/images/photos/photos03/PH-18.jpg",
+                        "src": "/images/photos/photos03/PH-19.jpg",
                         "alt": ""
                     }
                 ],
@@ -19048,17 +19043,12 @@ export const products = [
             },
             {
                 "category": "photos03",
-                "id": "3011",
-                "name": "Arte's photos-11",
+                "id": "3020",
+                "name": "Arte's photos-20",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos03/PH-011.jpg",
-                        "alt": "",
-                        "only": true
-                    },
-                    {
-                        "src": "/images/photos/photos03/PH-11.jpg",
+                        "src": "/images/photos/photos03/PH-20.jpg",
                         "alt": ""
                     }
                 ],
@@ -19137,17 +19127,12 @@ export const products = [
             },
             {
                 "category": "photos03",
-                "id": "3011",
-                "name": "Arte's photos-11",
+                "id": "3021",
+                "name": "Arte's photos-21",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos03/PH-011.jpg",
-                        "alt": "",
-                        "only": true
-                    },
-                    {
-                        "src": "/images/photos/photos03/PH-11.jpg",
+                        "src": "/images/photos/photos03/PH-21.jpg",
                         "alt": ""
                     }
                 ],
@@ -19226,17 +19211,12 @@ export const products = [
             },
             {
                 "category": "photos03",
-                "id": "3011",
-                "name": "Arte's photos-11",
+                "id": "3022",
+                "name": "Arte's photos-22",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos03/PH-011.jpg",
-                        "alt": "",
-                        "only": true
-                    },
-                    {
-                        "src": "/images/photos/photos03/PH-11.jpg",
+                        "src": "/images/photos/photos03/PH-22.jpg",
                         "alt": ""
                     }
                 ],
@@ -19315,17 +19295,12 @@ export const products = [
             },
             {
                 "category": "photos03",
-                "id": "3011",
-                "name": "Arte's photos-11",
+                "id": "3023",
+                "name": "Arte's photos-23",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos03/PH-011.jpg",
-                        "alt": "",
-                        "only": true
-                    },
-                    {
-                        "src": "/images/photos/photos03/PH-11.jpg",
+                        "src": "/images/photos/photos03/PH-23.jpg",
                         "alt": ""
                     }
                 ],
@@ -19404,17 +19379,12 @@ export const products = [
             },
             {
                 "category": "photos03",
-                "id": "3011",
-                "name": "Arte's photos-11",
+                "id": "3024",
+                "name": "Arte's photos-24",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos03/PH-011.jpg",
-                        "alt": "",
-                        "only": true
-                    },
-                    {
-                        "src": "/images/photos/photos03/PH-11.jpg",
+                        "src": "/images/photos/photos03/PH-24.jpg",
                         "alt": ""
                     }
                 ],
@@ -19493,17 +19463,12 @@ export const products = [
             },
             {
                 "category": "photos03",
-                "id": "3011",
-                "name": "Arte's photos-11",
+                "id": "3025",
+                "name": "Arte's photos-25",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos03/PH-011.jpg",
-                        "alt": "",
-                        "only": true
-                    },
-                    {
-                        "src": "/images/photos/photos03/PH-11.jpg",
+                        "src": "/images/photos/photos03/PH-25.jpg",
                         "alt": ""
                     }
                 ],
@@ -19582,17 +19547,12 @@ export const products = [
             },
             {
                 "category": "photos03",
-                "id": "3011",
-                "name": "Arte's photos-11",
+                "id": "3026",
+                "name": "Arte's photos-26",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos03/PH-011.jpg",
-                        "alt": "",
-                        "only": true
-                    },
-                    {
-                        "src": "/images/photos/photos03/PH-11.jpg",
+                        "src": "/images/photos/photos03/PH-26.jpg",
                         "alt": ""
                     }
                 ],
@@ -19671,17 +19631,12 @@ export const products = [
             },
             {
                 "category": "photos03",
-                "id": "3011",
-                "name": "Arte's photos-11",
+                "id": "3027",
+                "name": "Arte's photos-27",
                 "price": 0,
                 "images": [
-                    {
-                        "src": "/images/photos/photos03/PH-011.jpg",
-                        "alt": "",
-                        "only": true
-                    },
-                    {
-                        "src": "/images/photos/photos03/PH-11.jpg",
+7                    {
+                        "src": "/images/photos/photos03/PH-27.jpg",
                         "alt": ""
                     }
                 ],
@@ -19760,17 +19715,12 @@ export const products = [
             },
             {
                 "category": "photos03",
-                "id": "3011",
-                "name": "Arte's photos-11",
+                "id": "3028",
+                "name": "Arte's photos-28",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos03/PH-011.jpg",
-                        "alt": "",
-                        "only": true
-                    },
-                    {
-                        "src": "/images/photos/photos03/PH-11.jpg",
+                        "src": "/images/photos/photos03/PH-28.jpg",
                         "alt": ""
                     }
                 ],
@@ -19849,17 +19799,12 @@ export const products = [
             },
             {
                 "category": "photos03",
-                "id": "3011",
-                "name": "Arte's photos-11",
+                "id": "3029",
+                "name": "Arte's photos-29",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos03/PH-011.jpg",
-                        "alt": "",
-                        "only": true
-                    },
-                    {
-                        "src": "/images/photos/photos03/PH-11.jpg",
+                        "src": "/images/photos/photos03/PH-29.jpg",
                         "alt": ""
                     }
                 ],
