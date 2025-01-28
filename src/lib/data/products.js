@@ -1106,7 +1106,7 @@ export const products = [
     {
         "id": "5200",
         "category": "baton05",
-        "header": "  נרות מבסמים ואווירה  ",
+        "header": "  נרות מבשמים ואווירה  ",
         "sub": "מיוצר בעבודת יד - כחול לבן",
         "image": "/images/baton0005.jpg",
         "subjects": [
