@@ -25277,11 +25277,6 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos04/PH-002.jpg",
-                        "alt": "",
-                        "only": true
-                    },
-                    {
                         "src": "/images/photos/photos04/PH-02.jpg",
                         "alt": ""
                     }
