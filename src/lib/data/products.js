@@ -25179,7 +25179,7 @@ export const products = [
     {
         "id": "4000",
         "category": "photos04",
-        "header": "BLA88 & ",
+        "header": "ABSTRACT",
         "sub": "גלריית תמונות למכירה ",
         "image": "/images/photos/photos04/PH-001.jpg",
         "subjects": [
