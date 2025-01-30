@@ -1830,63 +1830,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -1914,63 +1896,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -1998,63 +1962,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -2082,147 +2028,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
-                        "quantity": 0
-                    },
-                    {
-                        "name": " הדפסה על אלומיניום  ",
-                        "quantity": 0
-                    }
-                ]
-            },
-            {
-                "category": "digitalart01",
-                "id": "50006",
-                "name": "Arte's Art -06",
-                "price": 0,
-                "images": [
-                    {
-                        "src": "/images/digital/digital01/PH-06.jpg",
-                        "alt": ""
-                    }
-                ],
-                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
-                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
-                "sizes": [
-                    {
-                        "name": "20x30",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            194,
-                            199
-                        ]
-                    },
-                    {
-                        "name": "30x45",
-                        "quantity": 0,
-                        "price": [
-                            264,
-                            199,
-                            264
-                        ]
-                    },
-                    {
-                        "name": "40x60",
-                        "quantity": 0,
-                        "price": [
-                            294,
-                            223,
-                            294
-                        ]
-                    },
-                    {
-                        "name": "50x70",
-                        "quantity": 0,
-                        "price": [
-                            359,
-                            235,
-                            359
-                        ]
-                    },
-                    {
-                        "name": "60x90",
-                        "quantity": 0,
-                        "price": [
-                            430,
-                            317,
-                            430
-                        ]
-                    },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
-                ],
-                "kind": [
-                    {
-                        "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -2250,147 +2094,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
-                        "quantity": 0
-                    },
-                    {
-                        "name": " הדפסה על אלומיניום  ",
-                        "quantity": 0
-                    }
-                ]
-            },
-            {
-                "category": "digitalart01",
-                "id": "50008",
-                "name": "Arte's Art -08",
-                "price": 0,
-                "images": [
-                    {
-                        "src": "/images/digital/digital01/PH-08.jpg",
-                        "alt": ""
-                    }
-                ],
-                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
-                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
-                "sizes": [
-                    {
-                        "name": "20x30",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            194,
-                            199
-                        ]
-                    },
-                    {
-                        "name": "30x45",
-                        "quantity": 0,
-                        "price": [
-                            264,
-                            199,
-                            264
-                        ]
-                    },
-                    {
-                        "name": "40x60",
-                        "quantity": 0,
-                        "price": [
-                            294,
-                            223,
-                            294
-                        ]
-                    },
-                    {
-                        "name": "50x70",
-                        "quantity": 0,
-                        "price": [
-                            359,
-                            235,
-                            359
-                        ]
-                    },
-                    {
-                        "name": "60x90",
-                        "quantity": 0,
-                        "price": [
-                            430,
-                            317,
-                            430
-                        ]
-                    },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
-                ],
-                "kind": [
-                    {
-                        "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -2418,63 +2160,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -2502,63 +2226,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -2586,63 +2292,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -2670,63 +2358,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -2754,63 +2424,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -2838,63 +2490,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -2922,63 +2556,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -3006,63 +2622,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -3090,63 +2688,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -3174,63 +2754,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -3258,63 +2820,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -3342,63 +2886,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -3426,63 +2952,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -3510,63 +3018,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -3594,63 +3084,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -3678,63 +3150,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -3762,63 +3216,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -3846,63 +3282,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -3930,63 +3348,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -4014,63 +3414,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -4098,63 +3480,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -4182,63 +3546,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -4266,63 +3612,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -4350,63 +3678,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -4434,63 +3744,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -4518,63 +3810,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -4602,63 +3876,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -4686,63 +3942,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
