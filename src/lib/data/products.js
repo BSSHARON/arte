@@ -9986,7 +9986,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/PH-99.jpg",
+                        "src": "/images/digital/digital01/PH-06.jpg",
                         "alt": ""
                     }
                 ],
@@ -11183,7 +11183,7 @@ export const products = [
     },
     {
         "id": "70000",
-        "category": "digitalart02",
+        "category": "digitalart03",
         "header": "ARTE ARTISTIC",
         "sub": "גלריית תמונות למכירה ",
         "image": "/images/digital/digital03/digital00.jpg",
@@ -11192,119 +11192,62 @@ export const products = [
         ],
         "items": [
             {
-                "category": "digitalart02",
-                "id": "70002",
-                "name": "Arte's photos-01",
-                "price": 100,
-                "images": [
-                    {
-                        "src": "/images/photos/photos02/PH-01.jpg",
-                        "alt": ""
-                    }
-                ],
-                "description": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
-                "quote": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
-                "sizes": [
-                    {
-                        "name": "30x45",
-                        "quantity": 0,
-                        "price": [
-                            100,
-                            100,
-                            100
-                        ]
-                    },
-                    {
-                        "name": "50x70",
-                        "quantity": 0,
-                        "price": [
-                            100,
-                            100,
-                            100
-                        ]
-                    },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            100,
-                            100,
-                            100
-                        ]
-                    },
-                    {
-                        "name": "100x150",
-                        "quantity": 0,
-                        "price": [
-                            100,
-                            100,
-                            100
-                        ]
-                    },
-                    {
-                        "name": "150x180",
-                        "quantity": 0,
-                        "price": [
-                            100,
-                            100,
-                            100
-                        ]
-                    },
-                    {
-                        "name": "מתעניין בגדלים אחרים ",
-                        "quantity": 0,
-                        "price": [
-                            100,
-                            100,
-                            100
-                        ]
-                    }
-                ],
-                "kind": [
-                    {
-                        "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
-                        "quantity": 0
-                    },
-                    {
-                        "name": " הדפסה על מתכת  ",
-                        "quantity": 0
-                    }
-                ]
-            },
-            {
-                "category": "digitalart02",
-                "id": "70002",
-                "name": "Arte's photos-02",
+                "category": "digitalart03",
+                "id": "70001",
+                "name": "Arte's Art -01",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos02/PH-02.jpg",
+                        "src": "/images/digital/digital03/PH-01.jpg",
                         "alt": ""
                     }
                 ],
-                "description": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
-                "quote": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
                 "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
                         ]
                     },
                     {
@@ -11312,34 +11255,7 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "100x150",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "150x180",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "מתעניין בגדלים אחרים ",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
+                            335,
                             0
                         ]
                     }
@@ -11354,41 +11270,152 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": " הדפסה על מתכת  ",
+                        "name": " הדפסה על אלומיניום  ",
                         "quantity": 0
                     }
                 ]
             },
             {
-                "category": "digitalart02",
+                "category": "digitalart03",
+                "id": "70002",
+                "name": "Arte's Art -02",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital03/PH-02.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart03",
                 "id": "70003",
-                "name": "Arte's photos-03",
+                "name": "Arte's Art -03",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos02/PH-03.jpg",
+                        "src": "/images/digital/digital03/PH-03.jpg",
                         "alt": ""
                     }
                 ],
-                "description": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
-                "quote": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
                 "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
                         ]
                     },
                     {
@@ -11396,34 +11423,7 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "100x150",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "150x180",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "מתעניין בגדלים אחרים ",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
+                            335,
                             0
                         ]
                     }
@@ -11438,41 +11438,68 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": " הדפסה על מתכת  ",
+                        "name": " הדפסה על אלומיניום  ",
                         "quantity": 0
                     }
                 ]
             },
             {
-                "category": "digitalart02",
+                "category": "digitalart03",
                 "id": "70004",
-                "name": "Arte's photos-04",
+                "name": "Arte's Art -04",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos02/PH-04.jpg",
+                        "src": "/images/digital/digital03/PH-04.jpg",
                         "alt": ""
                     }
                 ],
-                "description": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
-                "quote": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
                 "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
                         ]
                     },
                     {
@@ -11480,34 +11507,7 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "100x150",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "150x180",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "מתעניין בגדלים אחרים ",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
+                            335,
                             0
                         ]
                     }
@@ -11522,41 +11522,68 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": " הדפסה על מתכת  ",
+                        "name": " הדפסה על אלומיניום  ",
                         "quantity": 0
                     }
                 ]
             },
             {
-                "category": "digitalart02",
+                "category": "digitalart03",
                 "id": "70005",
-                "name": "Arte's photos-05",
+                "name": "Arte's Art -05",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos02/PH-05.jpg",
+                        "src": "/images/digital/digital03/PH-05.jpg",
                         "alt": ""
                     }
                 ],
-                "description": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
-                "quote": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
                 "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
                         ]
                     },
                     {
@@ -11564,34 +11591,7 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "100x150",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "150x180",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "מתעניין בגדלים אחרים ",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
+                            335,
                             0
                         ]
                     }
@@ -11606,41 +11606,68 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": " הדפסה על מתכת  ",
+                        "name": " הדפסה על אלומיניום  ",
                         "quantity": 0
                     }
                 ]
             },
             {
-                "category": "digitalart02",
+                "category": "digitalart03",
                 "id": "70006",
-                "name": "Arte's photos-06",
+                "name": "Arte's Art -06",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos02/PH-06.jpg",
+                        "src": "/images/digital/digital03/PH-06.jpg",
                         "alt": ""
                     }
                 ],
-                "description": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
-                "quote": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
                 "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
                         ]
                     },
                     {
@@ -11648,34 +11675,7 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "100x150",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "150x180",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "מתעניין בגדלים אחרים ",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
+                            335,
                             0
                         ]
                     }
@@ -11690,41 +11690,68 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": " הדפסה על מתכת  ",
+                        "name": " הדפסה על אלומיניום  ",
                         "quantity": 0
                     }
                 ]
             },
             {
-                "category": "digitalart02",
+                "category": "digitalart03",
                 "id": "70007",
-                "name": "Arte's photos-07",
+                "name": "Arte's Art -07",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos02/PH-07.jpg",
+                        "src": "/images/digital/digital03/PH-07.jpg",
                         "alt": ""
                     }
                 ],
-                "description": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
-                "quote": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
                 "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
                         ]
                     },
                     {
@@ -11732,34 +11759,7 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "100x150",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "150x180",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "מתעניין בגדלים אחרים ",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
+                            335,
                             0
                         ]
                     }
@@ -11774,41 +11774,68 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": " הדפסה על מתכת  ",
+                        "name": " הדפסה על אלומיניום  ",
                         "quantity": 0
                     }
                 ]
             },
             {
-                "category": "digitalart02",
+                "category": "digitalart03",
                 "id": "70008",
-                "name": "Arte's photos-08",
+                "name": "Arte's Art -08",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos02/PH-08.jpg",
+                        "src": "/images/digital/digital03/PH-08.jpg",
                         "alt": ""
                     }
                 ],
-                "description": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
-                "quote": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
                 "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
                         ]
                     },
                     {
@@ -11816,34 +11843,7 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "100x150",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "150x180",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "מתעניין בגדלים אחרים ",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
+                            335,
                             0
                         ]
                     }
@@ -11858,41 +11858,68 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": " הדפסה על מתכת  ",
+                        "name": " הדפסה על אלומיניום  ",
                         "quantity": 0
                     }
                 ]
             },
             {
-                "category": "digitalart02",
+                "category": "digitalart03",
                 "id": "70009",
-                "name": "Arte's photos-09",
+                "name": "Arte's Art -09",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos02/PH-09.jpg",
+                        "src": "/images/digital/digital03/PH-09.jpg",
                         "alt": ""
                     }
                 ],
-                "description": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
-                "quote": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
                 "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
                         ]
                     },
                     {
@@ -11900,34 +11927,7 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "100x150",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "150x180",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "מתעניין בגדלים אחרים ",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
+                            335,
                             0
                         ]
                     }
@@ -11942,41 +11942,68 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": " הדפסה על מתכת  ",
+                        "name": " הדפסה על אלומיניום  ",
                         "quantity": 0
                     }
                 ]
             },
             {
-                "category": "digitalart02",
+                "category": "digitalart03",
                 "id": "70010",
-                "name": "Arte's photos-10",
+                "name": "Arte's Art -10",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos02/PH-10.jpg",
+                        "src": "/images/digital/digital03/PH-10.jpg",
                         "alt": ""
                     }
                 ],
-                "description": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
-                "quote": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
                 "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
                         ]
                     },
                     {
@@ -11984,34 +12011,7 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "100x150",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "150x180",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "מתעניין בגדלים אחרים ",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
+                            335,
                             0
                         ]
                     }
@@ -12026,41 +12026,68 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": " הדפסה על מתכת  ",
+                        "name": " הדפסה על אלומיניום  ",
                         "quantity": 0
                     }
                 ]
             },
             {
-                "category": "digitalart02",
-                "id": "70011",
-                "name": "Arte's photos-11",
+                "category": "digitalart01",
+                "id": "50011",
+                "name": "Arte's Art -11",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos02/PH-11.jpg",
+                        "src": "/images/digital/digital01/PH-11.jpg",
                         "alt": ""
                     }
                 ],
-                "description": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
-                "quote": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
                 "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
                         ]
                     },
                     {
@@ -12068,34 +12095,7 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "100x150",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "150x180",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "מתעניין בגדלים אחרים ",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
+                            335,
                             0
                         ]
                     }
@@ -12110,41 +12110,68 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": " הדפסה על מתכת  ",
+                        "name": " הדפסה על אלומיניום  ",
                         "quantity": 0
                     }
                 ]
             },
             {
-                "category": "digitalart02",
-                "id": "70012",
-                "name": "Arte's photos-12",
+                "category": "digitalart01",
+                "id": "50012",
+                "name": "Arte's Art -12",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos02/PH-12.jpg",
+                        "src": "/images/digital/digital01/PH-12.jpg",
                         "alt": ""
                     }
                 ],
-                "description": "ניתן להזמין בגדלים שונים. הדפסה על קנווס או זכוכית",
-                "quote": "הפוך את הבית שלך לגלריה - תמונות להדפסה, פריטים ייחודיים לאוהבי אמנות.",
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
                 "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            0,
-                            0,
-                            0
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
                         ]
                     },
                     {
@@ -12152,34 +12179,7 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "100x150",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "150x180",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
-                            0
-                        ]
-                    },
-                    {
-                        "name": "מתעניין בגדלים אחרים ",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            0,
+                            335,
                             0
                         ]
                     }
@@ -12194,11 +12194,7321 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": " הדפסה על מתכת  ",
+                        "name": " הדפסה על אלומיניום  ",
                         "quantity": 0
                     }
                 ]
-            }
+            },
+            {
+                "category": "digitalart01",
+                "id": "50013",
+                "name": "Arte's Art -13",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-13.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50014",
+                "name": "Arte's Art -14",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-14.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50015",
+                "name": "Arte's Art -15",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-15.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50016",
+                "name": "Arte's Art -16",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-16.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50017",
+                "name": "Arte's Art -17",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-17.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50018",
+                "name": "Arte's Art -18",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-18.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50019",
+                "name": "Arte's Art -19",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-19.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50020",
+                "name": "Arte's Art -20",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-20.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50021",
+                "name": "Arte's Art -21",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-21.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50022",
+                "name": "Arte's Art -22",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-22.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50023",
+                "name": "Arte's Art -23",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-23.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50024",
+                "name": "Arte's Art -24",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-24.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50025",
+                "name": "Arte's Art -25",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-25.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50026",
+                "name": "Arte's Art -26",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-26.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50027",
+                "name": "Arte's Art -27",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-27.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50028",
+                "name": "Arte's Art -28",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-28.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50029",
+                "name": "Arte's Art -29",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-29.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50030",
+                "name": "Arte's Art -30",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-30.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50031",
+                "name": "Arte's Art -31",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-31.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50032",
+                "name": "Arte's Art -32",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-32.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50033",
+                "name": "Arte's Art -33",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-33.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50034",
+                "name": "Arte's Art -34",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-34.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50035",
+                "name": "Arte's Art -35",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-35.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50036",
+                "name": "Arte's Art -36",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-36.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50037",
+                "name": "Arte's Art -37",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-37.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50038",
+                "name": "Arte's Art -38",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-38.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50039",
+                "name": "Arte's Art -39",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-39.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50040",
+                "name": "Arte's Art -40",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-40.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50041",
+                "name": "Arte's Art -41",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-41.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50042",
+                "name": "Arte's Art -42",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-42.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50043",
+                "name": "Arte's Art -43",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-43.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50044",
+                "name": "Arte's Art -44",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-44.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50045",
+                "name": "Arte's Art -45",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-45.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50046",
+                "name": "Arte's Art -46",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-46.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50047",
+                "name": "Arte's Art -47",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-47.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50048",
+                "name": "Arte's Art -48",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-48.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50049",
+                "name": "Arte's Art -49",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-49.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50050",
+                "name": "Arte's Art -50",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-50.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50051",
+                "name": "Arte's Art -51",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-51.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50052",
+                "name": "Arte's Art -52",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-52.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50053",
+                "name": "Arte's Art -53",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-53.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50054",
+                "name": "Arte's Art -54",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-54.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50055",
+                "name": "Arte's Art -55",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-55.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50056",
+                "name": "Arte's Art -56",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-56.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50057",
+                "name": "Arte's Art -57",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-57.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50058",
+                "name": "Arte's Art -58",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-58.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50059",
+                "name": "Arte's Art -59",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-59.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50060",
+                "name": "Arte's Art -60",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-60.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50061",
+                "name": "Arte's Art -61",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-61.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50062",
+                "name": "Arte's Art -62",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-62.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50063",
+                "name": "Arte's Art -63",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-63.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50064",
+                "name": "Arte's Art -64",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-64.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50065",
+                "name": "Arte's Art -65",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-65.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50066",
+                "name": "Arte's Art -66",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-66.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50067",
+                "name": "Arte's Art -67",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-67.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50068",
+                "name": "Arte's Art -68",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-68.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50069",
+                "name": "Arte's Art -69",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-69.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50070",
+                "name": "Arte's Art -70",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-70.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50071",
+                "name": "Arte's Art -71",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-71.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50072",
+                "name": "Arte's Art -72",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-72.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50073",
+                "name": "Arte's Art -73",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-73.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50074",
+                "name": "Arte's Art -74",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-74.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50075",
+                "name": "Arte's Art -75",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-75.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50076",
+                "name": "Arte's Art -76",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-76.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50077",
+                "name": "Arte's Art -77",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-77.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50078",
+                "name": "Arte's Art -78",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-78.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50079",
+                "name": "Arte's Art -79",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-79.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50080",
+                "name": "Arte's Art -80",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-80.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50081",
+                "name": "Arte's Art -81",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-81.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50082",
+                "name": "Arte's Art -82",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-82.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50083",
+                "name": "Arte's Art -83",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-83.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50084",
+                "name": "Arte's Art -84",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-84.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50085",
+                "name": "Arte's Art -85",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-85.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50086",
+                "name": "Arte's Art -86",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-86.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50087",
+                "name": "Arte's Art -87",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-87.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50088",
+                "name": "Arte's Art -88",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-88.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50089",
+                "name": "Arte's Art -89",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-89.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50090",
+                "name": "Arte's Art -90",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-90.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50091",
+                "name": "Arte's Art -91",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-91.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50092",
+                "name": "Arte's Art -92",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-92.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50093",
+                "name": "Arte's Art -93",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-93.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50094",
+                "name": "Arte's Art -94",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-94.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50095",
+                "name": "Arte's Art -95",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-95.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50096",
+                "name": "Arte's Art -96",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-96.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50097",
+                "name": "Arte's Art -97",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-97.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50098",
+                "name": "Arte's Art -98",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-98.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+
+
+            {
+                "category": "digitalart01",
+                "id": "50099",
+                "name": "Arte's Art -99",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/PH-99.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנווס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
         ]
     },
     {
