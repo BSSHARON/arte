@@ -28,7 +28,7 @@ console.log(import.meta.env.VITE_PASSWORD,kind)
 
   const options = {
     from:"s0528844911@gmail.com",
-    to: 'babayofnet@gmail.com',
+    to: 's0528844911@gmail.com',
     subject: 'פניה חדשה',
     html: emailHtml
   };
