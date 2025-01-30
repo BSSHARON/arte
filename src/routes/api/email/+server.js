@@ -2,9 +2,10 @@ import { render } from 'svelty-email';
 import Hello from '$lib/emails/welcome.svelte';
 import nodemailer from 'nodemailer';
 import { asClassComponent } from 'svelte/legacy';
+import Finnish from '$lib/emails/finnish.svelte';
+async function sendMail(name = "",phone = "",client={},cart=[],kind=true){
 
-async function sendMail(name = "",phone = ""){
-console.log(import.meta.env.VITE_PASSWORD)
+console.log(import.meta.env.VITE_PASSWORD,kind)
   const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
@@ -14,16 +15,20 @@ console.log(import.meta.env.VITE_PASSWORD)
   });
   
   const emailHtml =  render({
-	template: asClassComponent(Hello),
-    props: {
+	template: kind ? asClassComponent(Hello) : asClassComponent(Finnish),
+    props: kind ? {
       name: name,
       phone: phone
+    } : {
+      client: client,
+      cart: cart,
+      paymentId: phone
     }
   });
 
   const options = {
     from:"s0528844911@gmail.com",
-    to: 's0528844911@gmail.com',
+    to: 'babayofnet@gmail.com',
     subject: 'פניה חדשה',
     html: emailHtml
   };
@@ -43,9 +48,13 @@ else {
 export async function POST({ request }) {
 const data = await request.json()
 console.log("Form submitted a",data); 
-const name = data.name 
-const phone = data.phone
- const ds = await sendMail(name,phone)
+const name = data.name || ""
+const phone = data.phone || ""
+const cart = typeof data.cart === 'string' ? JSON.parse(data.cart) : data.cart || []
+const client = typeof data.client === 'string' ? JSON.parse(data.client) : data.client || {}
+const kind = data.kind === false ? false : (data.kind === 'false' ? false : true)
+
+ const ds = await sendMail(name,phone,client,cart,kind)
 .then()
   
 return new Response(ds);
