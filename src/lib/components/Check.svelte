@@ -51,6 +51,14 @@
         alert('אי אפשר לשלם על סכום שלילי או אפס');
         return;
     }
+    if(!client.phone) {
+        alert('יש להזין מספר טלפון תקין');
+        return;
+    }
+    if(!client.name && !client.lastName) {
+        alert('יש להזין מספר טלפון תקין');
+        return;
+    }
     if(loading) return;
     loading = true;
       const paymentData = {

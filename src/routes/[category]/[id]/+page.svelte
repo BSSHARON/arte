@@ -61,6 +61,7 @@
                     <div class="quote">
                         <i class="fa fa-quote-left"></i><p>{item?.quote}</p>
                     </div>
+                    <br>
                     <div class="">
                     
                         <div class="t">
@@ -103,7 +104,7 @@
                                     {#if item && cart.cart && cart.cart.find(p => p.id === item.id)}
                                         <button class="active" onclick={() => goto('/cart')}>להשלמת הרכישה</button>
                                     {:else if item}
-                                        <button onclick={() => handleAddToCart(item, itemQuantity, sizeIndex)}>הוסף לסל</button>
+                                        <button onclick={() => handleAddToCart(item, itemQuantity, sizeIndex,kindIndex)}>הוסף לסל</button>
                                     {/if}
                                 </div>
                             </div>
