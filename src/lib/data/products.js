@@ -1764,63 +1764,45 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            194,
-                            199
+                            299
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            364,
+                            364
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            394,
+                            394
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            459,
+                            459
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            530,
+                            530
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
                         "quantity": 0
                     },
                     {
@@ -10424,13 +10406,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70004",
+                "category": "digitalart02",
+                "id": "60004",
                 "name": "Arte's Art -04",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-04.jpg",
+                        "src": "/images/digital/digital02/PH-04.jpg",
                         "alt": ""
                     }
                 ],
@@ -10508,13 +10490,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70005",
+                "category": "digitalart02",
+                "id": "60005",
                 "name": "Arte's Art -05",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-05.jpg",
+                        "src": "/images/digital/digital02/PH-05.jpg",
                         "alt": ""
                     }
                 ],
@@ -10592,13 +10574,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70006",
+                "category": "digitalart02",
+                "id": "60006",
                 "name": "Arte's Art -06",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-06.jpg",
+                        "src": "/images/digital/digital02/PH-06.jpg",
                         "alt": ""
                     }
                 ],
@@ -10676,13 +10658,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70007",
+                "category": "digitalart02",
+                "id": "60007",
                 "name": "Arte's Art -07",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-07.jpg",
+                        "src": "/images/digital/digital02/PH-07.jpg",
                         "alt": ""
                     }
                 ],
@@ -10760,13 +10742,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70008",
+                "category": "digitalart02",
+                "id": "60008",
                 "name": "Arte's Art -08",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-08.jpg",
+                        "src": "/images/digital/digital02/PH-08.jpg",
                         "alt": ""
                     }
                 ],
@@ -10844,13 +10826,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70009",
+                "category": "digitalart02",
+                "id": "60009",
                 "name": "Arte's Art -09",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-09.jpg",
+                        "src": "/images/digital/digital02/PH-09.jpg",
                         "alt": ""
                     }
                 ],
@@ -10928,13 +10910,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70010",
+                "category": "digitalart02",
+                "id": "60010",
                 "name": "Arte's Art -10",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-10.jpg",
+                        "src": "/images/digital/digital02/PH-10.jpg",
                         "alt": ""
                     }
                 ],
@@ -11012,13 +10994,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70011",
+                "category": "digitalart02",
+                "id": "60011",
                 "name": "Arte's Art -11",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-11.jpg",
+                        "src": "/images/digital/digital02/PH-11.jpg",
                         "alt": ""
                     }
                 ],
@@ -11096,13 +11078,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70012",
+                "category": "digitalart02",
+                "id": "60012",
                 "name": "Arte's Art -12",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-12.jpg",
+                        "src": "/images/digital/digital02/PH-12.jpg",
                         "alt": ""
                     }
                 ],
@@ -11180,13 +11162,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70013",
+                "category": "digitalart02",
+                "id": "60013",
                 "name": "Arte's Art -13",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-13.jpg",
+                        "src": "/images/digital/digital02/PH-13.jpg",
                         "alt": ""
                     }
                 ],
@@ -11264,13 +11246,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70014",
+                "category": "digitalart02",
+                "id": "60014",
                 "name": "Arte's Art -14",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-14.jpg",
+                        "src": "/images/digital/digital02/PH-14.jpg",
                         "alt": ""
                     }
                 ],
@@ -11348,13 +11330,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70015",
+                "category": "digitalart02",
+                "id": "60015",
                 "name": "Arte's Art -15",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-15.jpg",
+                        "src": "/images/digital/digital02/PH-15.jpg",
                         "alt": ""
                     }
                 ],
@@ -11432,13 +11414,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70016",
+                "category": "digitalart02",
+                "id": "60016",
                 "name": "Arte's Art -16",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-16.jpg",
+                        "src": "/images/digital/digital02/PH-16.jpg",
                         "alt": ""
                     }
                 ],
@@ -11516,13 +11498,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70017",
+                "category": "digitalart02",
+                "id": "60017",
                 "name": "Arte's Art -17",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-17.jpg",
+                        "src": "/images/digital/digital02/PH-17.jpg",
                         "alt": ""
                     }
                 ],
@@ -11600,13 +11582,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70018",
+                "category": "digitalart02",
+                "id": "60018",
                 "name": "Arte's Art -18",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-18.jpg",
+                        "src": "/images/digital/digital02/PH-18.jpg",
                         "alt": ""
                     }
                 ],
@@ -11684,13 +11666,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70019",
+                "category": "digitalart02",
+                "id": "60019",
                 "name": "Arte's Art -19",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-19.jpg",
+                        "src": "/images/digital/digital02/PH-19.jpg",
                         "alt": ""
                     }
                 ],
@@ -11768,13 +11750,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70020",
+                "category": "digitalart02",
+                "id": "60020",
                 "name": "Arte's Art -20",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-20.jpg",
+                        "src": "/images/digital/digital02/PH-20.jpg",
                         "alt": ""
                     }
                 ],
@@ -11852,13 +11834,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70021",
+                "category": "digitalart02",
+                "id": "60021",
                 "name": "Arte's Art -21",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-21.jpg",
+                        "src": "/images/digital/digital02/PH-21.jpg",
                         "alt": ""
                     }
                 ],
@@ -11936,13 +11918,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70022",
+                "category": "digitalart02",
+                "id": "60022",
                 "name": "Arte's Art -22",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-22.jpg",
+                        "src": "/images/digital/digital02/PH-22.jpg",
                         "alt": ""
                     }
                 ],
@@ -12020,13 +12002,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70023",
+                "category": "digitalart02",
+                "id": "60023",
                 "name": "Arte's Art -23",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-23.jpg",
+                        "src": "/images/digital/digital02/PH-23.jpg",
                         "alt": ""
                     }
                 ],
@@ -12104,13 +12086,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70024",
+                "category": "digitalart02",
+                "id": "60024",
                 "name": "Arte's Art -24",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-24.jpg",
+                        "src": "/images/digital/digital02/PH-24.jpg",
                         "alt": ""
                     }
                 ],
@@ -12188,13 +12170,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70025",
+                "category": "digitalart02",
+                "id": "60025",
                 "name": "Arte's Art -25",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-25.jpg",
+                        "src": "/images/digital/digital02/PH-25.jpg",
                         "alt": ""
                     }
                 ],
@@ -12272,13 +12254,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70026",
+                "category": "digitalart02",
+                "id": "60026",
                 "name": "Arte's Art -26",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-26.jpg",
+                        "src": "/images/digital/digital02/PH-26.jpg",
                         "alt": ""
                     }
                 ],
@@ -12356,13 +12338,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70027",
+                "category": "digitalart02",
+                "id": "60027",
                 "name": "Arte's Art -27",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-27.jpg",
+                        "src": "/images/digital/digital02/PH-27.jpg",
                         "alt": ""
                     }
                 ],
@@ -12440,13 +12422,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70028",
+                "category": "digitalart02",
+                "id": "60028",
                 "name": "Arte's Art -28",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-28.jpg",
+                        "src": "/images/digital/digital02/PH-28.jpg",
                         "alt": ""
                     }
                 ],
@@ -12524,13 +12506,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70029",
+                "category": "digitalart02",
+                "id": "60029",
                 "name": "Arte's Art -29",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-29.jpg",
+                        "src": "/images/digital/digital02/PH-29.jpg",
                         "alt": ""
                     }
                 ],
@@ -12608,13 +12590,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70030",
+                "category": "digitalart02",
+                "id": "60030",
                 "name": "Arte's Art -30",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-30.jpg",
+                        "src": "/images/digital/digital02/PH-30.jpg",
                         "alt": ""
                     }
                 ],
@@ -12692,13 +12674,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70031",
+                "category": "digitalart02",
+                "id": "60031",
                 "name": "Arte's Art -31",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-31.jpg",
+                        "src": "/images/digital/digital02/PH-31.jpg",
                         "alt": ""
                     }
                 ],
@@ -12776,13 +12758,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70032",
+                "category": "digitalart02",
+                "id": "60032",
                 "name": "Arte's Art -32",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-32.jpg",
+                        "src": "/images/digital/digital02/PH-32.jpg",
                         "alt": ""
                     }
                 ],
@@ -12860,13 +12842,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70033",
+                "category": "digitalart02",
+                "id": "60033",
                 "name": "Arte's Art -33",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-33.jpg",
+                        "src": "/images/digital/digital02/PH-33.jpg",
                         "alt": ""
                     }
                 ],
@@ -12944,13 +12926,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70034",
+                "category": "digitalart02",
+                "id": "60034",
                 "name": "Arte's Art -34",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-34.jpg",
+                        "src": "/images/digital/digital02/PH-34.jpg",
                         "alt": ""
                     }
                 ],
@@ -13028,13 +13010,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70035",
+                "category": "digitalart02",
+                "id": "60035",
                 "name": "Arte's Art -35",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-35.jpg",
+                        "src": "/images/digital/digital02/PH-35.jpg",
                         "alt": ""
                     }
                 ],
@@ -13112,13 +13094,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70036",
+                "category": "digitalart02",
+                "id": "60036",
                 "name": "Arte's Art -36",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-36.jpg",
+                        "src": "/images/digital/digital02/PH-36.jpg",
                         "alt": ""
                     }
                 ],
@@ -13196,13 +13178,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70037",
+                "category": "digitalart02",
+                "id": "60037",
                 "name": "Arte's Art -37",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-37.jpg",
+                        "src": "/images/digital/digital02/PH-37.jpg",
                         "alt": ""
                     }
                 ],
@@ -13280,13 +13262,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70038",
+                "category": "digitalart02",
+                "id": "60038",
                 "name": "Arte's Art -38",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-38.jpg",
+                        "src": "/images/digital/digital02/PH-38.jpg",
                         "alt": ""
                     }
                 ],
@@ -13364,13 +13346,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70039",
+                "category": "digitalart02",
+                "id": "60039",
                 "name": "Arte's Art -39",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-39.jpg",
+                        "src": "/images/digital/digital02/PH-39.jpg",
                         "alt": ""
                     }
                 ],
@@ -13448,13 +13430,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70040",
+                "category": "digitalart02",
+                "id": "60040",
                 "name": "Arte's Art -40",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-40.jpg",
+                        "src": "/images/digital/digital02/PH-40.jpg",
                         "alt": ""
                     }
                 ],
@@ -13532,13 +13514,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70041",
+                "category": "digitalart02",
+                "id": "60041",
                 "name": "Arte's Art -41",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-41.jpg",
+                        "src": "/images/digital/digital02/PH-41.jpg",
                         "alt": ""
                     }
                 ],
@@ -13616,13 +13598,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70042",
+                "category": "digitalart02",
+                "id": "60042",
                 "name": "Arte's Art -42",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-42.jpg",
+                        "src": "/images/digital/digital02/PH-42.jpg",
                         "alt": ""
                     }
                 ],
@@ -13700,13 +13682,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70043",
+                "category": "digitalart02",
+                "id": "60043",
                 "name": "Arte's Art -43",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-43.jpg",
+                        "src": "/images/digital/digital02/PH-43.jpg",
                         "alt": ""
                     }
                 ],
@@ -13784,13 +13766,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70044",
+                "category": "digitalart02",
+                "id": "60044",
                 "name": "Arte's Art -44",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-44.jpg",
+                        "src": "/images/digital/digital02/PH-44.jpg",
                         "alt": ""
                     }
                 ],
@@ -13868,13 +13850,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70045",
+                "category": "digitalart02",
+                "id": "60045",
                 "name": "Arte's Art -45",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-45.jpg",
+                        "src": "/images/digital/digital02/PH-45.jpg",
                         "alt": ""
                     }
                 ],
@@ -13952,13 +13934,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "50047",
+                "category": "digitalart02",
+                "id": "60047",
                 "name": "Arte's Art -46",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-46.jpg",
+                        "src": "/images/digital/digital02/PH-46.jpg",
                         "alt": ""
                     }
                 ],
@@ -14036,13 +14018,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70047",
+                "category": "digitalart02",
+                "id": "60047",
                 "name": "Arte's Art -47",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-47.jpg",
+                        "src": "/images/digital/digital02/PH-47.jpg",
                         "alt": ""
                     }
                 ],
@@ -14120,13 +14102,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70048",
+                "category": "digitalart02",
+                "id": "60048",
                 "name": "Arte's Art -48",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-48.jpg",
+                        "src": "/images/digital/digital02/PH-48.jpg",
                         "alt": ""
                     }
                 ],
@@ -14204,13 +14186,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70049",
+                "category": "digitalart02",
+                "id": "60049",
                 "name": "Arte's Art -49",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-49.jpg",
+                        "src": "/images/digital/digital02/PH-49.jpg",
                         "alt": ""
                     }
                 ],
@@ -14288,13 +14270,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70050",
+                "category": "digitalart02",
+                "id": "60050",
                 "name": "Arte's Art -50",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-50.jpg",
+                        "src": "/images/digital/digital02/PH-50.jpg",
                         "alt": ""
                     }
                 ],
@@ -14372,13 +14354,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70051",
+                "category": "digitalart02",
+                "id": "60051",
                 "name": "Arte's Art -51",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-51.jpg",
+                        "src": "/images/digital/digital02/PH-51.jpg",
                         "alt": ""
                     }
                 ],
@@ -14456,13 +14438,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70052",
+                "category": "digitalart02",
+                "id": "60052",
                 "name": "Arte's Art -52",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-52.jpg",
+                        "src": "/images/digital/digital02/PH-52.jpg",
                         "alt": ""
                     }
                 ],
@@ -14540,13 +14522,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70053",
+                "category": "digitalart02",
+                "id": "60053",
                 "name": "Arte's Art -53",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-53.jpg",
+                        "src": "/images/digital/digital02/PH-53.jpg",
                         "alt": ""
                     }
                 ],
@@ -14624,13 +14606,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70054",
+                "category": "digitalart02",
+                "id": "60054",
                 "name": "Arte's Art -54",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-54.jpg",
+                        "src": "/images/digital/digital02/PH-54.jpg",
                         "alt": ""
                     }
                 ],
@@ -14708,13 +14690,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70055",
+                "category": "digitalart02",
+                "id": "60055",
                 "name": "Arte's Art -55",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-55.jpg",
+                        "src": "/images/digital/digital02/PH-55.jpg",
                         "alt": ""
                     }
                 ],
@@ -14792,13 +14774,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70056",
+                "category": "digitalart02",
+                "id": "60056",
                 "name": "Arte's Art -56",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-56.jpg",
+                        "src": "/images/digital/digital02/PH-56.jpg",
                         "alt": ""
                     }
                 ],
@@ -14876,13 +14858,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70057",
+                "category": "digitalart02",
+                "id": "60057",
                 "name": "Arte's Art -57",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-57.jpg",
+                        "src": "/images/digital/digital02/PH-57.jpg",
                         "alt": ""
                     }
                 ],
@@ -14960,13 +14942,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70058",
+                "category": "digitalart02",
+                "id": "60058",
                 "name": "Arte's Art -58",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-58.jpg",
+                        "src": "/images/digital/digital02/PH-58.jpg",
                         "alt": ""
                     }
                 ],
@@ -15044,13 +15026,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70059",
+                "category": "digitalart02",
+                "id": "60059",
                 "name": "Arte's Art -59",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-59.jpg",
+                        "src": "/images/digital/digital02/PH-59.jpg",
                         "alt": ""
                     }
                 ],
@@ -15128,13 +15110,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70060",
+                "category": "digitalart02",
+                "id": "60060",
                 "name": "Arte's Art -60",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-60.jpg",
+                        "src": "/images/digital/digital02/PH-60.jpg",
                         "alt": ""
                     }
                 ],
@@ -15212,13 +15194,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70061",
+                "category": "digitalart02",
+                "id": "60061",
                 "name": "Arte's Art -61",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-61.jpg",
+                        "src": "/images/digital/digital02/PH-61.jpg",
                         "alt": ""
                     }
                 ],
@@ -15296,13 +15278,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70062",
+                "category": "digitalart02",
+                "id": "60062",
                 "name": "Arte's Art -62",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-62.jpg",
+                        "src": "/images/digital/digital02/PH-62.jpg",
                         "alt": ""
                     }
                 ],
@@ -15380,13 +15362,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70063",
+                "category": "digitalart02",
+                "id": "60063",
                 "name": "Arte's Art -63",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-63.jpg",
+                        "src": "/images/digital/digital02/PH-63.jpg",
                         "alt": ""
                     }
                 ],
@@ -15464,13 +15446,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70064",
+                "category": "digitalart02",
+                "id": "60064",
                 "name": "Arte's Art -64",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-64.jpg",
+                        "src": "/images/digital/digital02/PH-64.jpg",
                         "alt": ""
                     }
                 ],
@@ -15548,13 +15530,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70065",
+                "category": "digitalart02",
+                "id": "60065",
                 "name": "Arte's Art -65",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-65.jpg",
+                        "src": "/images/digital/digital02/PH-65.jpg",
                         "alt": ""
                     }
                 ],
@@ -15632,13 +15614,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70066",
+                "category": "digitalart02",
+                "id": "60066",
                 "name": "Arte's Art -66",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-66.jpg",
+                        "src": "/images/digital/digital02/PH-66.jpg",
                         "alt": ""
                     }
                 ],
@@ -15716,13 +15698,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70067",
+                "category": "digitalart02",
+                "id": "60067",
                 "name": "Arte's Art -67",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-67.jpg",
+                        "src": "/images/digital/digital02/PH-67.jpg",
                         "alt": ""
                     }
                 ],
@@ -15800,13 +15782,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70068",
+                "category": "digitalart02",
+                "id": "60068",
                 "name": "Arte's Art -68",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-68.jpg",
+                        "src": "/images/digital/digital02/PH-68.jpg",
                         "alt": ""
                     }
                 ],
@@ -15884,13 +15866,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70069",
+                "category": "digitalart02",
+                "id": "60069",
                 "name": "Arte's Art -69",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-69.jpg",
+                        "src": "/images/digital/digital02/PH-69.jpg",
                         "alt": ""
                     }
                 ],
@@ -15968,13 +15950,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70070",
+                "category": "digitalart02",
+                "id": "60070",
                 "name": "Arte's Art -70",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-70.jpg",
+                        "src": "/images/digital/digital02/PH-70.jpg",
                         "alt": ""
                     }
                 ],
@@ -16052,13 +16034,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70071",
+                "category": "digitalart02",
+                "id": "60071",
                 "name": "Arte's Art -71",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-71.jpg",
+                        "src": "/images/digital/digital02/PH-71.jpg",
                         "alt": ""
                     }
                 ],
@@ -16136,13 +16118,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70072",
+                "category": "digitalart02",
+                "id": "60072",
                 "name": "Arte's Art -72",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-72.jpg",
+                        "src": "/images/digital/digital02/PH-72.jpg",
                         "alt": ""
                     }
                 ],
@@ -16220,13 +16202,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70073",
+                "category": "digitalart02",
+                "id": "60073",
                 "name": "Arte's Art -73",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-73.jpg",
+                        "src": "/images/digital/digital02/PH-73.jpg",
                         "alt": ""
                     }
                 ],
@@ -16304,13 +16286,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70074",
+                "category": "digitalart02",
+                "id": "60074",
                 "name": "Arte's Art -74",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-74.jpg",
+                        "src": "/images/digital/digital02/PH-74.jpg",
                         "alt": ""
                     }
                 ],
@@ -16388,13 +16370,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70075",
+                "category": "digitalart02",
+                "id": "60075",
                 "name": "Arte's Art -75",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-75.jpg",
+                        "src": "/images/digital/digital02/PH-75.jpg",
                         "alt": ""
                     }
                 ],
@@ -16472,13 +16454,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70076",
+                "category": "digitalart02",
+                "id": "60076",
                 "name": "Arte's Art -76",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-76.jpg",
+                        "src": "/images/digital/digital02/PH-76.jpg",
                         "alt": ""
                     }
                 ],
@@ -16556,13 +16538,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70077",
+                "category": "digitalart02",
+                "id": "60077",
                 "name": "Arte's Art -77",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-77.jpg",
+                        "src": "/images/digital/digital02/PH-77.jpg",
                         "alt": ""
                     }
                 ],
@@ -16640,13 +16622,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70078",
+                "category": "digitalart02",
+                "id": "60078",
                 "name": "Arte's Art -78",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-78.jpg",
+                        "src": "/images/digital/digital02/PH-78.jpg",
                         "alt": ""
                     }
                 ],
@@ -16724,13 +16706,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70079",
+                "category": "digitalart02",
+                "id": "60079",
                 "name": "Arte's Art -79",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-79.jpg",
+                        "src": "/images/digital/digital02/PH-79.jpg",
                         "alt": ""
                     }
                 ],
@@ -16808,13 +16790,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70080",
+                "category": "digitalart02",
+                "id": "60080",
                 "name": "Arte's Art -80",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-80.jpg",
+                        "src": "/images/digital/digital02/PH-80.jpg",
                         "alt": ""
                     }
                 ],
@@ -16892,13 +16874,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70081",
+                "category": "digitalart02",
+                "id": "60081",
                 "name": "Arte's Art -81",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-81.jpg",
+                        "src": "/images/digital/digital02/PH-81.jpg",
                         "alt": ""
                     }
                 ],
@@ -16976,13 +16958,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70082",
+                "category": "digitalart02",
+                "id": "60082",
                 "name": "Arte's Art -82",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-82.jpg",
+                        "src": "/images/digital/digital02/PH-82.jpg",
                         "alt": ""
                     }
                 ],
@@ -17060,13 +17042,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70083",
+                "category": "digitalart02",
+                "id": "60083",
                 "name": "Arte's Art -83",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-83.jpg",
+                        "src": "/images/digital/digital02/PH-83.jpg",
                         "alt": ""
                     }
                 ],
@@ -17144,13 +17126,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70084",
+                "category": "digitalart02",
+                "id": "60084",
                 "name": "Arte's Art -84",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-84.jpg",
+                        "src": "/images/digital/digital02/PH-84.jpg",
                         "alt": ""
                     }
                 ],
@@ -17228,13 +17210,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70085",
+                "category": "digitalart02",
+                "id": "60085",
                 "name": "Arte's Art -85",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-85.jpg",
+                        "src": "/images/digital/digital02/PH-85.jpg",
                         "alt": ""
                     }
                 ],
@@ -17312,13 +17294,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70086",
+                "category": "digitalart02",
+                "id": "60086",
                 "name": "Arte's Art -86",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-86.jpg",
+                        "src": "/images/digital/digital02/PH-86.jpg",
                         "alt": ""
                     }
                 ],
@@ -17396,13 +17378,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70087",
+                "category": "digitalart02",
+                "id": "60087",
                 "name": "Arte's Art -87",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-87.jpg",
+                        "src": "/images/digital/digital02/PH-87.jpg",
                         "alt": ""
                     }
                 ],
@@ -17480,13 +17462,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70088",
+                "category": "digitalart02",
+                "id": "60088",
                 "name": "Arte's Art -88",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-88.jpg",
+                        "src": "/images/digital/digital02/PH-88.jpg",
                         "alt": ""
                     }
                 ],
@@ -17564,13 +17546,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70089",
+                "category": "digitalart02",
+                "id": "60089",
                 "name": "Arte's Art -89",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-89.jpg",
+                        "src": "/images/digital/digital02/PH-89.jpg",
                         "alt": ""
                     }
                 ],
@@ -17648,13 +17630,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70090",
+                "category": "digitalart02",
+                "id": "60090",
                 "name": "Arte's Art -90",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-90.jpg",
+                        "src": "/images/digital/digital02/PH-90.jpg",
                         "alt": ""
                     }
                 ],
@@ -17732,13 +17714,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70091",
+                "category": "digitalart02",
+                "id": "60091",
                 "name": "Arte's Art -91",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-91.jpg",
+                        "src": "/images/digital/digital02/PH-91.jpg",
                         "alt": ""
                     }
                 ],
@@ -17816,13 +17798,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70092",
+                "category": "digitalart02",
+                "id": "60092",
                 "name": "Arte's Art -92",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-92.jpg",
+                        "src": "/images/digital/digital02/PH-92.jpg",
                         "alt": ""
                     }
                 ],
@@ -17900,13 +17882,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70093",
+                "category": "digitalart02",
+                "id": "60093",
                 "name": "Arte's Art -93",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-93.jpg",
+                        "src": "/images/digital/digital02/PH-93.jpg",
                         "alt": ""
                     }
                 ],
@@ -17984,13 +17966,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70094",
+                "category": "digitalart02",
+                "id": "60094",
                 "name": "Arte's Art -94",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-94.jpg",
+                        "src": "/images/digital/digital02/PH-94.jpg",
                         "alt": ""
                     }
                 ],
@@ -18068,13 +18050,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70095",
+                "category": "digitalart02",
+                "id": "60095",
                 "name": "Arte's Art -95",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-95.jpg",
+                        "src": "/images/digital/digital02/PH-95.jpg",
                         "alt": ""
                     }
                 ],
@@ -18152,13 +18134,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70096",
+                "category": "digitalart02",
+                "id": "60096",
                 "name": "Arte's Art -96",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-96.jpg",
+                        "src": "/images/digital/digital02/PH-96.jpg",
                         "alt": ""
                     }
                 ],
@@ -18236,13 +18218,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70097",
+                "category": "digitalart02",
+                "id": "60097",
                 "name": "Arte's Art -97",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-97.jpg",
+                        "src": "/images/digital/digital02/PH-97.jpg",
                         "alt": ""
                     }
                 ],
@@ -18320,13 +18302,13 @@ export const products = [
                 ]
             },
             {
-                "category": "digitalart03",
-                "id": "70098",
+                "category": "digitalart02",
+                "id": "60098",
                 "name": "Arte's Art -98",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-98.jpg",
+                        "src": "/images/digital/digital02/PH-98.jpg",
                         "alt": ""
                     }
                 ],
@@ -18406,13 +18388,13 @@ export const products = [
 
 
             {
-                "category": "digitalart03",
-                "id": "70099",
+                "category": "digitalart02",
+                "id": "60099",
                 "name": "Arte's Art -99",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-99.jpg",
+                        "src": "/images/digital/digital02/PH-99.jpg",
                         "alt": ""
                     }
                 ],
