@@ -34,7 +34,7 @@
                 <h4>מידע נוסף</h4>
                 <ul>
                     <li><a href="/Questions">שאלות נפוצות</a></li>
-                    <li><a href="/regulations">תקנון משלוחים</a></li>
+                    <li><a href="/deliveries">תקנון משלוחים</a></li>
                 </ul>
             </div>
             <div class="col-lg-12">
