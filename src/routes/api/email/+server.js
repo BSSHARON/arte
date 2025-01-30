@@ -8,7 +8,7 @@ console.log(import.meta.env.VITE_PASSWORD)
   const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-  user: "arte.bsharon@gmail.com",
+  user: "s0528844911@gmail.com",
   pass: import.meta.env.VITE_PASSWORD
 }
   });
@@ -22,8 +22,8 @@ console.log(import.meta.env.VITE_PASSWORD)
   });
 
   const options = {
-    from:"arte.bsharon@gmail.com",
-    to: 'arte.bsharon@gmail.com',
+    from:"s0528844911@gmail.com",
+    to: 's0528844911@gmail.com',
     subject: 'פניה חדשה',
     html: emailHtml
   };
