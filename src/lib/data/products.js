@@ -867,8 +867,8 @@ export const products = [
         ]
     },
     {
-        "id": "100",
-        "category": "baton01",
+        "id": "500",
+        "category": "baton05",
         "header": "אקססוריז לעיצוב הבית",
         "sub": "מיוצר בעבודת יד - כחול לבן",
         "image": "/images/Accessoriesbaton000000001.jpg",
@@ -877,7 +877,7 @@ export const products = [
         ],
         "items": [
             {
-                "category": "baton01",
+                "category": "baton05",
                 "id": "101",
                 "name": "זוג פסלוני בטון דקורטיבי",
                 "price": 70,
@@ -1104,8 +1104,8 @@ export const products = [
         ]
     },
     {
-        "id": "5200",
-        "category": "baton05",
+        "id": "600",
+        "category": "baton06",
         "header": "  נרות מבשמים ואווירה  ",
         "sub": "מיוצר בעבודת יד - כחול לבן",
         "image": "/images/baton0005.jpg",
