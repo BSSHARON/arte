@@ -55,7 +55,7 @@ const calculatePrice = (item) => {
                 if (kind.quantity > 0) {
                     const sizeIndex = item.sizes.indexOf(size);
                     const kindIndex = item.kind.indexOf(kind);
-                    return size.price[sizeIndex]; // החזר את המחיר לפי אינדקס הגודל והסוג
+                    return size.price[kindIndex]; // החזר את המחיר לפי אינדקס הגודל והסוג
                 }
             }
         }
@@ -84,11 +84,13 @@ const calculatePrice = (item) => {
 	</div>
 </div>
 <div style="max-width: 90%; margin: 0 auto;">
+	{#if total > 0}
     {#if check == false}
 <button class="w-100 btn btn-primary btn-lg" onclick={()=>check = true} >ביצוע הזמנה</button>
     {:else}
     <Check amount={total}/>
     {/if}
+	{/if}
 </div>
 
 <style>

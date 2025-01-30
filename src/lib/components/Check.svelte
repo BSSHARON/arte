@@ -1,6 +1,5 @@
 <script>
-	import Phonefild from "./ui/Phonefild.svelte";
-
+  import { cart } from '$lib/stores/cart.svelte.js';
     let client = $state({
         name:"",
         lastName:"",
@@ -46,9 +45,18 @@
 //    \"StandingOrderDuration\" : \"0\"\r\n    }\r\n}"
 
   async function handlePayment() {
-  
+    console.log(client,cart.cart)
+    localStorage.setItem('client', JSON.stringify(client));
     if(amount <= 0) {
         alert('אי אפשר לשלם על סכום שלילי או אפס');
+        return;
+    }
+    if(!client.phone) {
+        alert('יש להזין מספר טלפון תקין');
+        return;
+    }
+    if(!client.name && !client.lastName) {
+        alert('יש להזין מספר טלפון תקין');
         return;
     }
     if(loading) return;
@@ -91,14 +99,14 @@
   import { cities } from './cities.js';
 
     </script>
-    <main dir="rtl">
-        <div class="container our px-4 px-lg-5" >
+    <main>
+        <div class="container px-4 px-lg-5  mx-auto" >
         <div class="py-5 text-center">
             <img class="d-block mx-auto mb-4" src="/images/logo.png" alt="" width="195" height="59">
             <h2> סיום רכישה</h2>
         </div>
 
-        <div class="row g-3"dir="rtl">
+        <div class="" dir="rtl">
       <!-- <div class="col-md-5 col-lg-4 order-md-last">
         <h4 class="d-flex justify-content-between align-items-center mb-3">
           <span class="text-body-secondary">עגלת הקניות</span>
@@ -132,7 +140,7 @@
           </div>
         </form>
       </div>-->
-      <div class="col-md-7 col-lg-8 text-right" dir="rtl">
+      <div class=" mx-auto text-right" dir="rtl">
         <h4 class="mb-3 text-right">כתובת למשלוח</h4>
         <form class="needs-validation">
           <div class="row g-3">
@@ -182,7 +190,7 @@
 
             <div class="col-md-4">
               <label for="state" class="form-label">עיר</label>
-              <select class="form-select" id="state" required="">
+              <select bind:value={client.city} class="form-select" id="state" required="">
                 <option value="">בחר...</option>
                 {#each cities as city}
                 <option value={city}>{city}</option >
@@ -196,7 +204,7 @@
             <div class="col-md-3">
 
               <label for="zip" class="form-label">מיקוד</label>
-              <input type="text" class="form-control" id="zip" placeholder="" required>
+              <input bind:value={client.zip} type="text" class="form-control" id="zip" placeholder="" required>
               <div class="invalid-feedback">
                 נדרש מיקוד.
               </div>
@@ -204,11 +212,12 @@
           </div>
 
           <hr class="my-4">
-            <Phonefild selectedCountry="IL" lebel={{"he":"מספר טלפון"}}  bind:value={ client.phone}  />
-          <div class="form-check">
-            <input type="checkbox" class="form-check-input" id="save-info">
-            <label class="form-check-label" for="save-info">שמור את המידע הזה לפעם הבאה</label>
+          <label for="phone" class="form-label">מספר טלפון</label>
+          <input type="text" class="form-control" id="phone" placeholder="050-1234567" required bind:value={client.phone}>
+          <div class="invalid-feedback">
+            נדרש להוסיף טלפון.
           </div>
+    <br>
 
 
           <button class="w-100 btn btn-primary btn-lg" type="submit" onclick={handlePayment}>{#if loading} ... {:else} לתשלום {/if}</button>
@@ -216,11 +225,13 @@
       </div>
     </div>
   </main>
-  <style>
+<style>
     .our{
         display: flex;
         justify-content: center;
         align-items: center;
         flex-direction: column;
+        margin-left: auto;
+        margin-right: auto;
     }
   </style>

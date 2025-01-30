@@ -6,21 +6,44 @@ import { goto } from '$app/navigation';
 
 	let success = false;
 
-	onMount(() => {
+	onMount(async() => {
 		const params = page.url.searchParams;
 		success = params.get('success') === 'true';
+		if (success && localStorage.getItem('cart')) {
+            try {
+                const response = await fetch('/api/email', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ cart: localStorage.getItem('cart'),client: localStorage.getItem('client'), kind: false, phone: localStorage.getItem('lastPaymentId') })
+                });
+                if (!response.ok) {
+                    console.error('Failed to send email');
+                }
+            } catch (error) {
+                console.error('Error sending email:', error);
+            }
+        }
         cart.cart = [];
+		localStorage.removeItem('cart');
 	});
 </script>
 
 {#if success}
-	<div class="text-center mt-20">
-		<h1 class="text-4xl font-bold text-green-600">תודה רבה!</h1>
-		<p class="text-lg mt-4">הזמנתך אושרה בהצלחה.</p>
+	<div class="text-center my-custom-margin">
+		<h1 class="display-4 text-success">תודה רבה!</h1>
+		<p class="lead mt-4">הזמנתך אושרה בהצלחה.</p>
 	</div>
 {:else}
-	<div class="text-center mt-20">
-		<h1 class="text-4xl font-bold text-red-600">אופס!</h1>
-		<p class="text-lg mt-4">משהו השתבש. אנא נסה שוב.</p>
+	<div class="text-center my-custom-margin">
+		<h1 class="display-4 text-danger">אופס!</h1>
+		<p class="lead mt-4">משהו השתבש. אנא נסה שוב.</p>
 	</div>
 {/if}
+<style>
+	.my-custom-margin {
+	   margin-top: 8rem; /* או כל גודל אחר שתרצה */
+	   margin-bottom: 4rem;
+	 }
+   </style>
