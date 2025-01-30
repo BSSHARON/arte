@@ -33679,19 +33679,19 @@ export const products = [
         "category": "photos07",
         "header": "ABSTRACT",
         "sub": "גלריית תמונות למכירה ",
-        "image": "/images/photos/photos02/PH-001.jpg",
+        "image": "/images/photos/photos07/PH-001.jpg",
         "subjects": [
             "photos"
         ],
         "items": [
             {
-                "category": "photos06",
-                "id": "6001",
+                "category": "photos07",
+                "id": "7001",
                 "name": "Arte's photos -01",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-01.jpg",
+                        "src": "/images/photos/photos07/PH-01.jpg",
                         "alt": ""
                     }
                 ],
@@ -33769,13 +33769,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6002",
+                "category": "photos07",
+                "id": "7002",
                 "name": "Arte's photos -02",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-02.jpg",
+                        "src": "/images/photos/photos07/PH-02.jpg",
                         "alt": ""
                     }
                 ],
@@ -33853,13 +33853,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6003",
+                "category": "photos07",
+                "id": "7003",
                 "name": "Arte's photos -03",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-03.jpg",
+                        "src": "/images/photos/photos07/PH-03.jpg",
                         "alt": ""
                     }
                 ],
@@ -33937,13 +33937,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6004",
+                "category": "photos07",
+                "id": "7004",
                 "name": "Arte's photos -04",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-04.jpg",
+                        "src": "/images/photos/photos07/PH-04.jpg",
                         "alt": ""
                     }
                 ],
@@ -34021,13 +34021,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6005",
+                "category": "photos07",
+                "id": "7005",
                 "name": "Arte's photos -05",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-05.jpg",
+                        "src": "/images/photos/photos07/PH-05.jpg",
                         "alt": ""
                     }
                 ],
@@ -34105,13 +34105,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6006",
+                "category": "photos07",
+                "id": "7006",
                 "name": "Arte's photos -06",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-06.jpg",
+                        "src": "/images/photos/photos07/PH-06.jpg",
                         "alt": ""
                     }
                 ],
@@ -34189,13 +34189,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6007",
+                "category": "photos07",
+                "id": "7007",
                 "name": "Arte's photos -07",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-07.jpg",
+                        "src": "/images/photos/photos07/PH-07.jpg",
                         "alt": ""
                     }
                 ],
@@ -34273,13 +34273,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6008",
+                "category": "photos07",
+                "id": "7008",
                 "name": "Arte's photos -08",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-08.jpg",
+                        "src": "/images/photos/photos07/PH-08.jpg",
                         "alt": ""
                     }
                 ],
@@ -34357,13 +34357,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6009",
+                "category": "photos07",
+                "id": "7009",
                 "name": "Arte's photos -09",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-09.jpg",
+                        "src": "/images/photos/photos07/PH-09.jpg",
                         "alt": ""
                     }
                 ],
@@ -34441,13 +34441,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6010",
+                "category": "photos07",
+                "id": "7010",
                 "name": "Arte's photos -10",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-10.jpg",
+                        "src": "/images/photos/photos07/PH-10.jpg",
                         "alt": ""
                     }
                 ],
@@ -34525,13 +34525,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6011",
+                "category": "photos07",
+                "id": "7011",
                 "name": "Arte's photos -11",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-11.jpg",
+                        "src": "/images/photos/photos07/PH-11.jpg",
                         "alt": ""
                     }
                 ],
@@ -34609,13 +34609,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6012",
+                "category": "photos07",
+                "id": "7012",
                 "name": "Arte's photos -12",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-12.jpg",
+                        "src": "/images/photos/photos07/PH-12.jpg",
                         "alt": ""
                     }
                 ],
@@ -34693,13 +34693,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6013",
+                "category": "photos07",
+                "id": "7013",
                 "name": "Arte's photos -13",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-13.jpg",
+                        "src": "/images/photos/photos07/PH-13.jpg",
                         "alt": ""
                     }
                 ],
@@ -34777,13 +34777,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6014",
+                "category": "photos07",
+                "id": "7014",
                 "name": "Arte's photos -14",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-14.jpg",
+                        "src": "/images/photos/photos07/PH-14.jpg",
                         "alt": ""
                     }
                 ],
@@ -34861,13 +34861,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6015",
+                "category": "photos07",
+                "id": "7015",
                 "name": "Arte's photos -15",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-15.jpg",
+                        "src": "/images/photos/photos07/PH-15.jpg",
                         "alt": ""
                     }
                 ],
@@ -34945,13 +34945,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6016",
+                "category": "photos07",
+                "id": "7016",
                 "name": "Arte's photos -16",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-16.jpg",
+                        "src": "/images/photos/photos07/PH-16.jpg",
                         "alt": ""
                     }
                 ],
@@ -35029,13 +35029,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6017",
+                "category": "photos07",
+                "id": "7017",
                 "name": "Arte's photos -17",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-17.jpg",
+                        "src": "/images/photos/photos07/PH-17.jpg",
                         "alt": ""
                     }
                 ],
@@ -35113,13 +35113,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6018",
+                "category": "photos07",
+                "id": "7018",
                 "name": "Arte's photos -18",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-18.jpg",
+                        "src": "/images/photos/photos07/PH-18.jpg",
                         "alt": ""
                     }
                 ],
@@ -35197,13 +35197,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6019",
+                "category": "photos07",
+                "id": "7019",
                 "name": "Arte's photos -19",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-19.jpg",
+                        "src": "/images/photos/photos07/PH-19.jpg",
                         "alt": ""
                     }
                 ],
@@ -35281,13 +35281,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6020",
+                "category": "photos07",
+                "id": "7020",
                 "name": "Arte's photos -20",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-20.jpg",
+                        "src": "/images/photos/photos07/PH-20.jpg",
                         "alt": ""
                     }
                 ],
@@ -35365,13 +35365,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6021",
+                "category": "photos07",
+                "id": "7021",
                 "name": "Arte's photos -21",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-21.jpg",
+                        "src": "/images/photos/photos07/PH-21.jpg",
                         "alt": ""
                     }
                 ],
@@ -35449,13 +35449,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6022",
+                "category": "photos07",
+                "id": "7022",
                 "name": "Arte's photos -22",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-22.jpg",
+                        "src": "/images/photos/photos07/PH-22.jpg",
                         "alt": ""
                     }
                 ],
@@ -35533,13 +35533,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6023",
+                "category": "photos07",
+                "id": "7023",
                 "name": "Arte's photos -23",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-23.jpg",
+                        "src": "/images/photos/photos07/PH-23.jpg",
                         "alt": ""
                     }
                 ],
@@ -35617,13 +35617,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6024",
+                "category": "photos07",
+                "id": "7024",
                 "name": "Arte's photos -24",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-24.jpg",
+                        "src": "/images/photos/photos07/PH-24.jpg",
                         "alt": ""
                     }
                 ],
@@ -35701,13 +35701,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6025",
+                "category": "photos07",
+                "id": "7025",
                 "name": "Arte's photos -25",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-25.jpg",
+                        "src": "/images/photos/photos07/PH-25.jpg",
                         "alt": ""
                     }
                 ],
@@ -35785,13 +35785,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6026",
+                "category": "photos07",
+                "id": "7026",
                 "name": "Arte's photos -26",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-26.jpg",
+                        "src": "/images/photos/photos07/PH-26.jpg",
                         "alt": ""
                     }
                 ],
@@ -35869,13 +35869,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6027",
+                "category": "photos07",
+                "id": "7027",
                 "name": "Arte's photos -27",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-27.jpg",
+                        "src": "/images/photos/photos07/PH-27.jpg",
                         "alt": ""
                     }
                 ],
@@ -35953,13 +35953,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6028",
+                "category": "photos07",
+                "id": "7028",
                 "name": "Arte's photos -28",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-28.jpg",
+                        "src": "/images/photos/photos07/PH-28.jpg",
                         "alt": ""
                     }
                 ],
@@ -36037,13 +36037,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6029",
+                "category": "photos07",
+                "id": "7029",
                 "name": "Arte's photos -29",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-29.jpg",
+                        "src": "/images/photos/photos07/PH-29.jpg",
                         "alt": ""
                     }
                 ],
@@ -36121,13 +36121,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6030",
+                "category": "photos07",
+                "id": "7030",
                 "name": "Arte's photos -30",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-30.jpg",
+                        "src": "/images/photos/photos07/PH-30.jpg",
                         "alt": ""
                     }
                 ],
@@ -36205,13 +36205,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6031",
+                "category": "photos07",
+                "id": "7031",
                 "name": "Arte's photos -31",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-31.jpg",
+                        "src": "/images/photos/photos07/PH-31.jpg",
                         "alt": ""
                     }
                 ],
@@ -36289,13 +36289,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6032",
+                "category": "photos07",
+                "id": "7032",
                 "name": "Arte's photos -32",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-32.jpg",
+                        "src": "/images/photos/photos07/PH-32.jpg",
                         "alt": ""
                     }
                 ],
@@ -36373,13 +36373,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6033",
+                "category": "photos07",
+                "id": "7033",
                 "name": "Arte's photos -33",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-33.jpg",
+                        "src": "/images/photos/photos07/PH-33.jpg",
                         "alt": ""
                     }
                 ],
@@ -36457,13 +36457,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6034",
+                "category": "photos07",
+                "id": "7034",
                 "name": "Arte's photos -34",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-34.jpg",
+                        "src": "/images/photos/photos07/PH-34.jpg",
                         "alt": ""
                     }
                 ],
@@ -36541,13 +36541,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6035",
+                "category": "photos07",
+                "id": "7035",
                 "name": "Arte's photos -35",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-35.jpg",
+                        "src": "/images/photos/photos07/PH-35.jpg",
                         "alt": ""
                     }
                 ],
@@ -36625,13 +36625,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6036",
+                "category": "photos07",
+                "id": "7036",
                 "name": "Arte's photos -36",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-36.jpg",
+                        "src": "/images/photos/photos07/PH-36.jpg",
                         "alt": ""
                     }
                 ],
@@ -36709,13 +36709,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6037",
+                "category": "photos07",
+                "id": "7037",
                 "name": "Arte's photos -37",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-37.jpg",
+                        "src": "/images/photos/photos07/PH-37.jpg",
                         "alt": ""
                     }
                 ],
@@ -36793,13 +36793,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6038",
+                "category": "photos07",
+                "id": "7038",
                 "name": "Arte's photos -38",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-38.jpg",
+                        "src": "/images/photos/photos07/PH-38.jpg",
                         "alt": ""
                     }
                 ],
@@ -36877,13 +36877,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6039",
+                "category": "photos07",
+                "id": "7039",
                 "name": "Arte's photos -39",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-39.jpg",
+                        "src": "/images/photos/photos07/PH-39.jpg",
                         "alt": ""
                     }
                 ],
@@ -36961,13 +36961,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6040",
+                "category": "photos07",
+                "id": "7040",
                 "name": "Arte's photos -40",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-40.jpg",
+                        "src": "/images/photos/photos07/PH-40.jpg",
                         "alt": ""
                     }
                 ],
@@ -37045,13 +37045,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6041",
+                "category": "photos07",
+                "id": "7041",
                 "name": "Arte's photos -41",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-41.jpg",
+                        "src": "/images/photos/photos07/PH-41.jpg",
                         "alt": ""
                     }
                 ],
@@ -37129,13 +37129,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6042",
+                "category": "photos07",
+                "id": "7042",
                 "name": "Arte's photos -42",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-42.jpg",
+                        "src": "/images/photos/photos07/PH-42.jpg",
                         "alt": ""
                     }
                 ],
@@ -37213,13 +37213,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6043",
+                "category": "photos07",
+                "id": "7043",
                 "name": "Arte's photos -43",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-43.jpg",
+                        "src": "/images/photos/photos07/PH-43.jpg",
                         "alt": ""
                     }
                 ],
@@ -37297,13 +37297,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6044",
+                "category": "photos07",
+                "id": "7044",
                 "name": "Arte's photos -44",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-44.jpg",
+                        "src": "/images/photos/photos07/PH-44.jpg",
                         "alt": ""
                     }
                 ],
@@ -37381,13 +37381,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6045",
+                "category": "photos07",
+                "id": "7045",
                 "name": "Arte's photos -45",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-45.jpg",
+                        "src": "/images/photos/photos07/PH-45.jpg",
                         "alt": ""
                     }
                 ],
@@ -37465,13 +37465,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6046",
+                "category": "photos07",
+                "id": "7046",
                 "name": "Arte's photos -46",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-46.jpg",
+                        "src": "/images/photos/photos07/PH-46.jpg",
                         "alt": ""
                     }
                 ],
@@ -37549,13 +37549,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6047",
+                "category": "photos07",
+                "id": "7047",
                 "name": "Arte's photos -47",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-47.jpg",
+                        "src": "/images/photos/photos07/PH-47.jpg",
                         "alt": ""
                     }
                 ],
@@ -37633,13 +37633,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6048",
+                "category": "photos07",
+                "id": "7048",
                 "name": "Arte's photos -48",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-48.jpg",
+                        "src": "/images/photos/photos07/PH-48.jpg",
                         "alt": ""
                     }
                 ],
@@ -37717,13 +37717,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6049",
+                "category": "photos07",
+                "id": "7049",
                 "name": "Arte's photos -49",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-49.jpg",
+                        "src": "/images/photos/photos07/PH-49.jpg",
                         "alt": ""
                     }
                 ],
@@ -37801,13 +37801,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6050",
+                "category": "photos07",
+                "id": "7050",
                 "name": "Arte's photos -50",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-50.jpg",
+                        "src": "/images/photos/photos07/PH-50.jpg",
                         "alt": ""
                     }
                 ],
@@ -37885,13 +37885,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6050",
+                "category": "photos07",
+                "id": "7050",
                 "name": "Arte's photos -50",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-50.jpg",
+                        "src": "/images/photos/photos07/PH-50.jpg",
                         "alt": ""
                     }
                 ],
@@ -37969,13 +37969,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6051",
+                "category": "photos07",
+                "id": "7051",
                 "name": "Arte's photos -51",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-51.jpg",
+                        "src": "/images/photos/photos07/PH-51.jpg",
                         "alt": ""
                     }
                 ],
@@ -38053,13 +38053,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6052",
+                "category": "photos07",
+                "id": "7052",
                 "name": "Arte's photos -52",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-52.jpg",
+                        "src": "/images/photos/photos07/PH-52.jpg",
                         "alt": ""
                     }
                 ],
@@ -38137,13 +38137,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6053",
+                "category": "photos07",
+                "id": "7053",
                 "name": "Arte's photos -53",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-53.jpg",
+                        "src": "/images/photos/photos07/PH-53.jpg",
                         "alt": ""
                     }
                 ],
@@ -38221,13 +38221,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6054",
+                "category": "photos07",
+                "id": "7054",
                 "name": "Arte's photos -54",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-54.jpg",
+                        "src": "/images/photos/photos07/PH-54.jpg",
                         "alt": ""
                     }
                 ],
@@ -38305,13 +38305,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6055",
+                "category": "photos07",
+                "id": "7055",
                 "name": "Arte's photos -55",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-55.jpg",
+                        "src": "/images/photos/photos07/PH-55.jpg",
                         "alt": ""
                     }
                 ],
@@ -38389,13 +38389,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6056",
+                "category": "photos07",
+                "id": "7056",
                 "name": "Arte's photos -56",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-56.jpg",
+                        "src": "/images/photos/photos07/PH-56.jpg",
                         "alt": ""
                     }
                 ],
@@ -38473,13 +38473,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6057",
+                "category": "photos07",
+                "id": "7057",
                 "name": "Arte's photos -57",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-57.jpg",
+                        "src": "/images/photos/photos07/PH-57.jpg",
                         "alt": ""
                     }
                 ],
@@ -38557,13 +38557,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6058",
+                "category": "photos07",
+                "id": "7058",
                 "name": "Arte's photos -58",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-58.jpg",
+                        "src": "/images/photos/photos07/PH-58.jpg",
                         "alt": ""
                     }
                 ],
@@ -38641,13 +38641,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6059",
+                "category": "photos07",
+                "id": "7059",
                 "name": "Arte's photos -59",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-59.jpg",
+                        "src": "/images/photos/photos07/PH-59.jpg",
                         "alt": ""
                     }
                 ],
@@ -38725,13 +38725,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6060",
+                "category": "photos07",
+                "id": "7060",
                 "name": "Arte's photos -60",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-60.jpg",
+                        "src": "/images/photos/photos07/PH-60.jpg",
                         "alt": ""
                     }
                 ],
@@ -38809,13 +38809,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6061",
+                "category": "photos07",
+                "id": "7061",
                 "name": "Arte's photos -61",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-61.jpg",
+                        "src": "/images/photos/photos07/PH-61.jpg",
                         "alt": ""
                     }
                 ],
@@ -38893,13 +38893,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6062",
+                "category": "photos07",
+                "id": "7062",
                 "name": "Arte's photos -62",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-62.jpg",
+                        "src": "/images/photos/photos07/PH-62.jpg",
                         "alt": ""
                     }
                 ],
@@ -38977,13 +38977,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6063",
+                "category": "photos07",
+                "id": "7063",
                 "name": "Arte's photos -63",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-63.jpg",
+                        "src": "/images/photos/photos07/PH-63.jpg",
                         "alt": ""
                     }
                 ],
@@ -39061,13 +39061,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6064",
+                "category": "photos07",
+                "id": "7064",
                 "name": "Arte's photos -64",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-64.jpg",
+                        "src": "/images/photos/photos07/PH-64.jpg",
                         "alt": ""
                     }
                 ],
@@ -39145,13 +39145,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6065",
+                "category": "photos07",
+                "id": "7065",
                 "name": "Arte's photos -65",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-65.jpg",
+                        "src": "/images/photos/photos07/PH-65.jpg",
                         "alt": ""
                     }
                 ],
@@ -39229,13 +39229,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6066",
+                "category": "photos07",
+                "id": "7066",
                 "name": "Arte's photos -66",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-66.jpg",
+                        "src": "/images/photos/photos07/PH-66.jpg",
                         "alt": ""
                     }
                 ],
@@ -39313,13 +39313,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6067",
+                "category": "photos07",
+                "id": "7067",
                 "name": "Arte's photos -67",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-67.jpg",
+                        "src": "/images/photos/photos07/PH-67.jpg",
                         "alt": ""
                     }
                 ],
@@ -39397,13 +39397,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6068",
+                "category": "photos07",
+                "id": "7068",
                 "name": "Arte's photos -68",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-68.jpg",
+                        "src": "/images/photos/photos07/PH-68.jpg",
                         "alt": ""
                     }
                 ],
@@ -39481,13 +39481,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6069",
+                "category": "photos07",
+                "id": "7069",
                 "name": "Arte's photos -69",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-69.jpg",
+                        "src": "/images/photos/photos07/PH-69.jpg",
                         "alt": ""
                     }
                 ],
@@ -39565,13 +39565,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6070",
+                "category": "photos07",
+                "id": "7070",
                 "name": "Arte's photos -70",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-70.jpg",
+                        "src": "/images/photos/photos07/PH-70.jpg",
                         "alt": ""
                     }
                 ],
@@ -39649,13 +39649,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6071",
+                "category": "photos07",
+                "id": "7071",
                 "name": "Arte's photos -71",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-71.jpg",
+                        "src": "/images/photos/photos07/PH-71.jpg",
                         "alt": ""
                     }
                 ],
@@ -39733,13 +39733,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6072",
+                "category": "photos07",
+                "id": "7072",
                 "name": "Arte's photos -72",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-72.jpg",
+                        "src": "/images/photos/photos07/PH-72.jpg",
                         "alt": ""
                     }
                 ],
@@ -39817,13 +39817,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6073",
+                "category": "photos07",
+                "id": "7073",
                 "name": "Arte's photos -73",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-73.jpg",
+                        "src": "/images/photos/photos07/PH-73.jpg",
                         "alt": ""
                     }
                 ],
@@ -39901,13 +39901,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6074",
+                "category": "photos07",
+                "id": "7074",
                 "name": "Arte's photos -74",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-74.jpg",
+                        "src": "/images/photos/photos07/PH-74.jpg",
                         "alt": ""
                     }
                 ],
@@ -39985,13 +39985,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6075",
+                "category": "photos07",
+                "id": "7075",
                 "name": "Arte's photos -75",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-75.jpg",
+                        "src": "/images/photos/photos07/PH-75.jpg",
                         "alt": ""
                     }
                 ],
@@ -40069,13 +40069,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6076",
+                "category": "photos07",
+                "id": "7076",
                 "name": "Arte's photos -76",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-76.jpg",
+                        "src": "/images/photos/photos07/PH-76.jpg",
                         "alt": ""
                     }
                 ],
@@ -40153,13 +40153,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6077",
+                "category": "photos07",
+                "id": "7077",
                 "name": "Arte's photos -77",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-77.jpg",
+                        "src": "/images/photos/photos07/PH-77.jpg",
                         "alt": ""
                     }
                 ],
@@ -40237,13 +40237,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6078",
+                "category": "photos07",
+                "id": "7078",
                 "name": "Arte's photos -78",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-78.jpg",
+                        "src": "/images/photos/photos07/PH-78.jpg",
                         "alt": ""
                     }
                 ],
@@ -40321,13 +40321,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6079",
+                "category": "photos07",
+                "id": "7079",
                 "name": "Arte's photos -79",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-79.jpg",
+                        "src": "/images/photos/photos07/PH-79.jpg",
                         "alt": ""
                     }
                 ],
@@ -40405,13 +40405,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6080",
+                "category": "photos07",
+                "id": "7080",
                 "name": "Arte's photos -80",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-80.jpg",
+                        "src": "/images/photos/photos07/PH-80.jpg",
                         "alt": ""
                     }
                 ],
@@ -40489,13 +40489,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6081",
+                "category": "photos07",
+                "id": "7081",
                 "name": "Arte's photos -81",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-81.jpg",
+                        "src": "/images/photos/photos07/PH-81.jpg",
                         "alt": ""
                     }
                 ],
@@ -40573,13 +40573,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6082",
+                "category": "photos07",
+                "id": "7082",
                 "name": "Arte's photos -82",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-82.jpg",
+                        "src": "/images/photos/photos07/PH-82.jpg",
                         "alt": ""
                     }
                 ],
@@ -40657,13 +40657,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6083",
+                "category": "photos07",
+                "id": "7083",
                 "name": "Arte's photos -83",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-83.jpg",
+                        "src": "/images/photos/photos07/PH-83.jpg",
                         "alt": ""
                     }
                 ],
@@ -40741,13 +40741,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6084",
+                "category": "photos07",
+                "id": "7084",
                 "name": "Arte's photos -84",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-84.jpg",
+                        "src": "/images/photos/photos07/PH-84.jpg",
                         "alt": ""
                     }
                 ],
@@ -40825,13 +40825,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6085",
+                "category": "photos07",
+                "id": "7085",
                 "name": "Arte's photos -85",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-85.jpg",
+                        "src": "/images/photos/photos07/PH-85.jpg",
                         "alt": ""
                     }
                 ],
@@ -40909,13 +40909,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6086",
+                "category": "photos07",
+                "id": "7086",
                 "name": "Arte's photos -86",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-86.jpg",
+                        "src": "/images/photos/photos07/PH-86.jpg",
                         "alt": ""
                     }
                 ],
@@ -40993,13 +40993,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6087",
+                "category": "photos07",
+                "id": "7087",
                 "name": "Arte's photos -87",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-87.jpg",
+                        "src": "/images/photos/photos07/PH-87.jpg",
                         "alt": ""
                     }
                 ],
@@ -41077,13 +41077,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6088",
+                "category": "photos07",
+                "id": "7088",
                 "name": "Arte's photos -88",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-88.jpg",
+                        "src": "/images/photos/photos07/PH-88.jpg",
                         "alt": ""
                     }
                 ],
@@ -41161,13 +41161,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6089",
+                "category": "photos07",
+                "id": "7089",
                 "name": "Arte's photos -89",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-89.jpg",
+                        "src": "/images/photos/photos07/PH-89.jpg",
                         "alt": ""
                     }
                 ],
@@ -41245,8 +41245,8 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6090",
+                "category": "photos07",
+                "id": "7090",
                 "name": "Arte's photos -90",
                 "price": 0,
                 "images": [
@@ -41329,13 +41329,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6091",
+                "category": "photos07",
+                "id": "7091",
                 "name": "Arte's photos -91",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-91.jpg",
+                        "src": "/images/photos/photos07/PH-91.jpg",
                         "alt": ""
                     }
                 ],
@@ -41413,13 +41413,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6092",
+                "category": "photos07",
+                "id": "7092",
                 "name": "Arte's photos -92",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-92.jpg",
+                        "src": "/images/photos/photos07/PH-92.jpg",
                         "alt": ""
                     }
                 ],
@@ -41497,13 +41497,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6093",
+                "category": "photos07",
+                "id": "7093",
                 "name": "Arte's photos -93",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-93.jpg",
+                        "src": "/images/photos/photos07/PH-93.jpg",
                         "alt": ""
                     }
                 ],
@@ -41581,13 +41581,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6094",
+                "category": "photos07",
+                "id": "7094",
                 "name": "Arte's photos -94",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-94.jpg",
+                        "src": "/images/photos/photos07/PH-94.jpg",
                         "alt": ""
                     }
                 ],
@@ -41665,13 +41665,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6095",
+                "category": "photos07",
+                "id": "7095",
                 "name": "Arte's photos -95",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-95.jpg",
+                        "src": "/images/photos/photos07/PH-95.jpg",
                         "alt": ""
                     }
                 ],
@@ -41749,13 +41749,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6096",
+                "category": "photos07",
+                "id": "7096",
                 "name": "Arte's photos -96",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-96.jpg",
+                        "src": "/images/photos/photos07/PH-96.jpg",
                         "alt": ""
                     }
                 ],
@@ -41833,13 +41833,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6097",
+                "category": "photos07",
+                "id": "7097",
                 "name": "Arte's photos -97",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-97.jpg",
+                        "src": "/images/photos/photos07/PH-97.jpg",
                         "alt": ""
                     }
                 ],
@@ -41917,13 +41917,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6098",
+                "category": "photos07",
+                "id": "7098",
                 "name": "Arte's photos -98",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-98.jpg",
+                        "src": "/images/photos/photos07/PH-98.jpg",
                         "alt": ""
                     }
                 ],
@@ -42003,13 +42003,13 @@ export const products = [
 
 
             {
-                "category": "photos06",
-                "id": "6099",
+                "category": "photos07",
+                "id": "7099",
                 "name": "Arte's photos -99",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-99.jpg",
+                        "src": "/images/photos/photos07/PH-99.jpg",
                         "alt": ""
                     }
                 ],
@@ -59929,19 +59929,19 @@ export const products = [
         "category": "photos05",
         "header": "ARTISTIC- ",
         "sub": "גלריית תמונות למכירה ",
-        "image": "/images/photos/photos02/PH-001.jpg",
+        "image": "/images/photos/photos05/PH-001.jpg",
         "subjects": [
             "photos"
         ],
         "items": [
             {
-                "category": "photos06",
-                "id": "6001",
+                "category": "photos05",
+                "id": "5001",
                 "name": "Arte's photos -01",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-01.jpg",
+                        "src": "/images/photos/photos05/PH-01.jpg",
                         "alt": ""
                     }
                 ],
@@ -60019,13 +60019,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6002",
+                "category": "photos05",
+                "id": "5002",
                 "name": "Arte's photos -02",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-02.jpg",
+                        "src": "/images/photos/photos05/PH-02.jpg",
                         "alt": ""
                     }
                 ],
@@ -60103,13 +60103,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6003",
+                "category": "photos05",
+                "id": "5003",
                 "name": "Arte's photos -03",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-03.jpg",
+                        "src": "/images/photos/photos05/PH-03.jpg",
                         "alt": ""
                     }
                 ],
@@ -60187,13 +60187,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6004",
+                "category": "photos05",
+                "id": "5004",
                 "name": "Arte's photos -04",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-04.jpg",
+                        "src": "/images/photos/photos05/PH-04.jpg",
                         "alt": ""
                     }
                 ],
@@ -60271,13 +60271,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6005",
+                "category": "photos05",
+                "id": "5005",
                 "name": "Arte's photos -05",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-05.jpg",
+                        "src": "/images/photos/photos05/PH-05.jpg",
                         "alt": ""
                     }
                 ],
@@ -60355,13 +60355,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6006",
+                "category": "photos05",
+                "id": "5006",
                 "name": "Arte's photos -06",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-06.jpg",
+                        "src": "/images/photos/photos05/PH-06.jpg",
                         "alt": ""
                     }
                 ],
@@ -60439,13 +60439,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6007",
+                "category": "photos05",
+                "id": "5007",
                 "name": "Arte's photos -07",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-07.jpg",
+                        "src": "/images/photos/photos05/PH-07.jpg",
                         "alt": ""
                     }
                 ],
@@ -60523,13 +60523,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6008",
+                "category": "photos05",
+                "id": "5008",
                 "name": "Arte's photos -08",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-08.jpg",
+                        "src": "/images/photos/photos05/PH-08.jpg",
                         "alt": ""
                     }
                 ],
@@ -60607,13 +60607,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6009",
+                "category": "photos05",
+                "id": "5009",
                 "name": "Arte's photos -09",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-09.jpg",
+                        "src": "/images/photos/photos05/PH-09.jpg",
                         "alt": ""
                     }
                 ],
@@ -60691,13 +60691,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6010",
+                "category": "photos05",
+                "id": "5010",
                 "name": "Arte's photos -10",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-10.jpg",
+                        "src": "/images/photos/photos05/PH-10.jpg",
                         "alt": ""
                     }
                 ],
@@ -60775,13 +60775,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6011",
+                "category": "photos05",
+                "id": "5011",
                 "name": "Arte's photos -11",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-11.jpg",
+                        "src": "/images/photos/photos05/PH-11.jpg",
                         "alt": ""
                     }
                 ],
@@ -60859,13 +60859,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6012",
+                "category": "photos05",
+                "id": "5012",
                 "name": "Arte's photos -12",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-12.jpg",
+                        "src": "/images/photos/photos05/PH-12.jpg",
                         "alt": ""
                     }
                 ],
@@ -60943,13 +60943,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6013",
+                "category": "photos05",
+                "id": "5013",
                 "name": "Arte's photos -13",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-13.jpg",
+                        "src": "/images/photos/photos05/PH-13.jpg",
                         "alt": ""
                     }
                 ],
@@ -61027,13 +61027,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6014",
+                "category": "photos05",
+                "id": "5014",
                 "name": "Arte's photos -14",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-14.jpg",
+                        "src": "/images/photos/photos05/PH-14.jpg",
                         "alt": ""
                     }
                 ],
@@ -61111,13 +61111,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6015",
+                "category": "photos05",
+                "id": "5015",
                 "name": "Arte's photos -15",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-15.jpg",
+                        "src": "/images/photos/photos05/PH-15.jpg",
                         "alt": ""
                     }
                 ],
@@ -61195,13 +61195,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6016",
+                "category": "photos05",
+                "id": "5016",
                 "name": "Arte's photos -16",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-16.jpg",
+                        "src": "/images/photos/photos05/PH-16.jpg",
                         "alt": ""
                     }
                 ],
@@ -61279,13 +61279,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6017",
+                "category": "photos05",
+                "id": "5017",
                 "name": "Arte's photos -17",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-17.jpg",
+                        "src": "/images/photos/photos05/PH-17.jpg",
                         "alt": ""
                     }
                 ],
@@ -61363,13 +61363,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6018",
+                "category": "photos05",
+                "id": "5018",
                 "name": "Arte's photos -18",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-18.jpg",
+                        "src": "/images/photos/photos05/PH-18.jpg",
                         "alt": ""
                     }
                 ],
@@ -61447,13 +61447,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6019",
+                "category": "photos05",
+                "id": "5019",
                 "name": "Arte's photos -19",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-19.jpg",
+                        "src": "/images/photos/photos05/PH-19.jpg",
                         "alt": ""
                     }
                 ],
@@ -61531,13 +61531,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6020",
+                "category": "photos05",
+                "id": "5020",
                 "name": "Arte's photos -20",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-20.jpg",
+                        "src": "/images/photos/photos05/PH-20.jpg",
                         "alt": ""
                     }
                 ],
@@ -61615,13 +61615,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6021",
+                "category": "photos05",
+                "id": "5021",
                 "name": "Arte's photos -21",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-21.jpg",
+                        "src": "/images/photos/photos05/PH-21.jpg",
                         "alt": ""
                     }
                 ],
@@ -61699,13 +61699,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6022",
+                "category": "photos05",
+                "id": "5022",
                 "name": "Arte's photos -22",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-22.jpg",
+                        "src": "/images/photos/photos05/PH-22.jpg",
                         "alt": ""
                     }
                 ],
@@ -61783,13 +61783,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6023",
+                "category": "photos05",
+                "id": "5023",
                 "name": "Arte's photos -23",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-23.jpg",
+                        "src": "/images/photos/photos05/PH-23.jpg",
                         "alt": ""
                     }
                 ],
@@ -61867,13 +61867,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6024",
+                "category": "photos05",
+                "id": "5024",
                 "name": "Arte's photos -24",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-24.jpg",
+                        "src": "/images/photos/photos05/PH-24.jpg",
                         "alt": ""
                     }
                 ],
@@ -61951,13 +61951,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6025",
+                "category": "photos05",
+                "id": "5025",
                 "name": "Arte's photos -25",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-25.jpg",
+                        "src": "/images/photos/photos05/PH-25.jpg",
                         "alt": ""
                     }
                 ],
@@ -62035,13 +62035,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6026",
+                "category": "photos05",
+                "id": "5026",
                 "name": "Arte's photos -26",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-26.jpg",
+                        "src": "/images/photos/photos05/PH-26.jpg",
                         "alt": ""
                     }
                 ],
@@ -62119,13 +62119,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6027",
+                "category": "photos05",
+                "id": "5027",
                 "name": "Arte's photos -27",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-27.jpg",
+                        "src": "/images/photos/photos05/PH-27.jpg",
                         "alt": ""
                     }
                 ],
@@ -62203,13 +62203,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6028",
+                "category": "photos05",
+                "id": "5028",
                 "name": "Arte's photos -28",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-28.jpg",
+                        "src": "/images/photos/photos05/PH-28.jpg",
                         "alt": ""
                     }
                 ],
@@ -62287,13 +62287,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6029",
+                "category": "photos05",
+                "id": "5029",
                 "name": "Arte's photos -29",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-29.jpg",
+                        "src": "/images/photos/photos05/PH-29.jpg",
                         "alt": ""
                     }
                 ],
@@ -62371,13 +62371,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6030",
+                "category": "photos05",
+                "id": "5030",
                 "name": "Arte's photos -30",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-30.jpg",
+                        "src": "/images/photos/photos05/PH-30.jpg",
                         "alt": ""
                     }
                 ],
@@ -62455,13 +62455,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6031",
+                "category": "photos05",
+                "id": "5031",
                 "name": "Arte's photos -31",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-31.jpg",
+                        "src": "/images/photos/photos05/PH-31.jpg",
                         "alt": ""
                     }
                 ],
@@ -62539,13 +62539,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6032",
+                "category": "photos05",
+                "id": "5032",
                 "name": "Arte's photos -32",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-32.jpg",
+                        "src": "/images/photos/photos05/PH-32.jpg",
                         "alt": ""
                     }
                 ],
@@ -62623,13 +62623,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6033",
+                "category": "photos05",
+                "id": "5033",
                 "name": "Arte's photos -33",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-33.jpg",
+                        "src": "/images/photos/photos05/PH-33.jpg",
                         "alt": ""
                     }
                 ],
@@ -62707,13 +62707,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6034",
+                "category": "photos05",
+                "id": "5034",
                 "name": "Arte's photos -34",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-34.jpg",
+                        "src": "/images/photos/photos05/PH-34.jpg",
                         "alt": ""
                     }
                 ],
@@ -62791,13 +62791,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6035",
+                "category": "photos05",
+                "id": "5035",
                 "name": "Arte's photos -35",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-35.jpg",
+                        "src": "/images/photos/photos05/PH-35.jpg",
                         "alt": ""
                     }
                 ],
@@ -62875,13 +62875,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6036",
+                "category": "photos05",
+                "id": "5036",
                 "name": "Arte's photos -36",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-36.jpg",
+                        "src": "/images/photos/photos05/PH-36.jpg",
                         "alt": ""
                     }
                 ],
@@ -62959,13 +62959,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6037",
+                "category": "photos05",
+                "id": "5037",
                 "name": "Arte's photos -37",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-37.jpg",
+                        "src": "/images/photos/photos05/PH-37.jpg",
                         "alt": ""
                     }
                 ],
@@ -63043,13 +63043,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6038",
+                "category": "photos05",
+                "id": "5038",
                 "name": "Arte's photos -38",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-38.jpg",
+                        "src": "/images/photos/photos05/PH-38.jpg",
                         "alt": ""
                     }
                 ],
@@ -63127,13 +63127,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6039",
+                "category": "photos05",
+                "id": "5039",
                 "name": "Arte's photos -39",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-39.jpg",
+                        "src": "/images/photos/photos05/PH-39.jpg",
                         "alt": ""
                     }
                 ],
@@ -63211,13 +63211,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6040",
+                "category": "photos05",
+                "id": "5040",
                 "name": "Arte's photos -40",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-40.jpg",
+                        "src": "/images/photos/photos05/PH-40.jpg",
                         "alt": ""
                     }
                 ],
@@ -63295,13 +63295,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6041",
+                "category": "photos05",
+                "id": "5041",
                 "name": "Arte's photos -41",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-41.jpg",
+                        "src": "/images/photos/photos05/PH-41.jpg",
                         "alt": ""
                     }
                 ],
@@ -63379,13 +63379,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6042",
+                "category": "photos05",
+                "id": "5042",
                 "name": "Arte's photos -42",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-42.jpg",
+                        "src": "/images/photos/photos05/PH-42.jpg",
                         "alt": ""
                     }
                 ],
@@ -63463,13 +63463,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6043",
+                "category": "photos05",
+                "id": "5043",
                 "name": "Arte's photos -43",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-43.jpg",
+                        "src": "/images/photos/photos05/PH-43.jpg",
                         "alt": ""
                     }
                 ],
@@ -63547,13 +63547,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6044",
+                "category": "photos05",
+                "id": "5044",
                 "name": "Arte's photos -44",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-44.jpg",
+                        "src": "/images/photos/photos05/PH-44.jpg",
                         "alt": ""
                     }
                 ],
@@ -63631,13 +63631,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6045",
+                "category": "photos05",
+                "id": "5045",
                 "name": "Arte's photos -45",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-45.jpg",
+                        "src": "/images/photos/photos05/PH-45.jpg",
                         "alt": ""
                     }
                 ],
@@ -63715,13 +63715,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6046",
+                "category": "photos05",
+                "id": "5046",
                 "name": "Arte's photos -46",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-46.jpg",
+                        "src": "/images/photos/photos05/PH-46.jpg",
                         "alt": ""
                     }
                 ],
@@ -63799,13 +63799,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6047",
+                "category": "photos05",
+                "id": "5047",
                 "name": "Arte's photos -47",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-47.jpg",
+                        "src": "/images/photos/photos05/PH-47.jpg",
                         "alt": ""
                     }
                 ],
@@ -63883,13 +63883,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6048",
+                "category": "photos05",
+                "id": "5048",
                 "name": "Arte's photos -48",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-48.jpg",
+                        "src": "/images/photos/photos05/PH-48.jpg",
                         "alt": ""
                     }
                 ],
@@ -63967,13 +63967,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6049",
+                "category": "photos05",
+                "id": "5049",
                 "name": "Arte's photos -49",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-49.jpg",
+                        "src": "/images/photos/photos05/PH-49.jpg",
                         "alt": ""
                     }
                 ],
@@ -64051,13 +64051,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6050",
+                "category": "photos05",
+                "id": "5050",
                 "name": "Arte's photos -50",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-50.jpg",
+                        "src": "/images/photos/photos05/PH-50.jpg",
                         "alt": ""
                     }
                 ],
@@ -64135,97 +64135,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6050",
-                "name": "Arte's photos -50",
-                "price": 0,
-                "images": [
-                    {
-                        "src": "/images/photos/photos06/PH-50.jpg",
-                        "alt": ""
-                    }
-                ],
-                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
-                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
-                "sizes": [
-                    {
-                        "name": "20x30",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            194,
-                            199
-                        ]
-                    },
-                    {
-                        "name": "30x45",
-                        "quantity": 0,
-                        "price": [
-                            264,
-                            199,
-                            264
-                        ]
-                    },
-                    {
-                        "name": "40x60",
-                        "quantity": 0,
-                        "price": [
-                            294,
-                            223,
-                            294
-                        ]
-                    },
-                    {
-                        "name": "50x70",
-                        "quantity": 0,
-                        "price": [
-                            359,
-                            235,
-                            359
-                        ]
-                    },
-                    {
-                        "name": "60x90",
-                        "quantity": 0,
-                        "price": [
-                            430,
-                            317,
-                            430
-                        ]
-                    },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
-                ],
-                "kind": [
-                    {
-                        "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
-                        "quantity": 0
-                    },
-                    {
-                        "name": " הדפסה על אלומיניום  ",
-                        "quantity": 0
-                    }
-                ]
-            },
-            {
-                "category": "photos06",
-                "id": "6051",
+                "category": "photos05",
+                "id": "5051",
                 "name": "Arte's photos -51",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-51.jpg",
+                        "src": "/images/photos/photos05/PH-51.jpg",
                         "alt": ""
                     }
                 ],
@@ -64303,13 +64219,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6052",
+                "category": "photos05",
+                "id": "5052",
                 "name": "Arte's photos -52",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-52.jpg",
+                        "src": "/images/photos/photos05/PH-52.jpg",
                         "alt": ""
                     }
                 ],
@@ -64471,13 +64387,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6054",
+                "category": "photos05",
+                "id": "5054",
                 "name": "Arte's photos -54",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-54.jpg",
+                        "src": "/images/photos/photos05/PH-54.jpg",
                         "alt": ""
                     }
                 ],
@@ -64555,13 +64471,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6055",
+                "category": "photos05",
+                "id": "5055",
                 "name": "Arte's photos -55",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-55.jpg",
+                        "src": "/images/photos/photos05/PH-55.jpg",
                         "alt": ""
                     }
                 ],
@@ -64639,13 +64555,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6056",
+                "category": "photos05",
+                "id": "5056",
                 "name": "Arte's photos -56",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-56.jpg",
+                        "src": "/images/photos/photos05/PH-56.jpg",
                         "alt": ""
                     }
                 ],
@@ -64723,13 +64639,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6057",
+                "category": "photos05",
+                "id": "5057",
                 "name": "Arte's photos -57",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-57.jpg",
+                        "src": "/images/photos/photos05/PH-57.jpg",
                         "alt": ""
                     }
                 ],
@@ -64807,13 +64723,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6058",
+                "category": "photos05",
+                "id": "5058",
                 "name": "Arte's photos -58",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-58.jpg",
+                        "src": "/images/photos/photos05/PH-58.jpg",
                         "alt": ""
                     }
                 ],
@@ -64891,13 +64807,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6059",
+                "category": "photos05",
+                "id": "5059",
                 "name": "Arte's photos -59",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-59.jpg",
+                        "src": "/images/photos/photos05/PH-59.jpg",
                         "alt": ""
                     }
                 ],
@@ -64975,13 +64891,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6060",
+                "category": "photos05",
+                "id": "5060",
                 "name": "Arte's photos -60",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-60.jpg",
+                        "src": "/images/photos/photos05/PH-60.jpg",
                         "alt": ""
                     }
                 ],
@@ -65059,13 +64975,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6061",
+                "category": "photos05",
+                "id": "5061",
                 "name": "Arte's photos -61",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-61.jpg",
+                        "src": "/images/photos/photos05/PH-61.jpg",
                         "alt": ""
                     }
                 ],
@@ -65143,13 +65059,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6062",
+                "category": "photos05",
+                "id": "5062",
                 "name": "Arte's photos -62",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-62.jpg",
+                        "src": "/images/photos/photos05/PH-62.jpg",
                         "alt": ""
                     }
                 ],
@@ -65227,13 +65143,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6063",
+                "category": "photos05",
+                "id": "5063",
                 "name": "Arte's photos -63",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-63.jpg",
+                        "src": "/images/photos/photos05/PH-63.jpg",
                         "alt": ""
                     }
                 ],
@@ -65311,13 +65227,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6064",
+                "category": "photos05",
+                "id": "5064",
                 "name": "Arte's photos -64",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-64.jpg",
+                        "src": "/images/photos/photos05/PH-64.jpg",
                         "alt": ""
                     }
                 ],
@@ -65395,13 +65311,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6065",
+                "category": "photos05",
+                "id": "5065",
                 "name": "Arte's photos -65",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-65.jpg",
+                        "src": "/images/photos/photos05/PH-65.jpg",
                         "alt": ""
                     }
                 ],
@@ -65479,13 +65395,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6066",
+                "category": "photos05",
+                "id": "5066",
                 "name": "Arte's photos -66",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-66.jpg",
+                        "src": "/images/photos/photos05/PH-66.jpg",
                         "alt": ""
                     }
                 ],
@@ -65563,13 +65479,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6067",
+                "category": "photos05",
+                "id": "5067",
                 "name": "Arte's photos -67",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-67.jpg",
+                        "src": "/images/photos/photos05/PH-67.jpg",
                         "alt": ""
                     }
                 ],
@@ -65647,13 +65563,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6068",
+                "category": "photos05",
+                "id": "5068",
                 "name": "Arte's photos -68",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-68.jpg",
+                        "src": "/images/photos/photos05/PH-68.jpg",
                         "alt": ""
                     }
                 ],
@@ -65731,13 +65647,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6069",
+                "category": "photos05",
+                "id": "5069",
                 "name": "Arte's photos -69",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-69.jpg",
+                        "src": "/images/photos/photos05/PH-69.jpg",
                         "alt": ""
                     }
                 ],
@@ -65815,13 +65731,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6070",
+                "category": "photos05",
+                "id": "5070",
                 "name": "Arte's photos -70",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-70.jpg",
+                        "src": "/images/photos/photos05/PH-70.jpg",
                         "alt": ""
                     }
                 ],
@@ -65899,13 +65815,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6071",
+                "category": "photos05",
+                "id": "5071",
                 "name": "Arte's photos -71",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-71.jpg",
+                        "src": "/images/photos/photos05/PH-71.jpg",
                         "alt": ""
                     }
                 ],
@@ -65983,13 +65899,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6072",
+                "category": "photos05",
+                "id": "5072",
                 "name": "Arte's photos -72",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-72.jpg",
+                        "src": "/images/photos/photos05/PH-72.jpg",
                         "alt": ""
                     }
                 ],
@@ -66067,13 +65983,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6073",
+                "category": "photos05",
+                "id": "5073",
                 "name": "Arte's photos -73",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-73.jpg",
+                        "src": "/images/photos/photos05/PH-73.jpg",
                         "alt": ""
                     }
                 ],
@@ -66151,13 +66067,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6074",
+                "category": "photos05",
+                "id": "5074",
                 "name": "Arte's photos -74",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-74.jpg",
+                        "src": "/images/photos/photos05/PH-74.jpg",
                         "alt": ""
                     }
                 ],
@@ -66235,13 +66151,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6075",
+                "category": "photos05",
+                "id": "5075",
                 "name": "Arte's photos -75",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-75.jpg",
+                        "src": "/images/photos/photos05/PH-75.jpg",
                         "alt": ""
                     }
                 ],
@@ -66319,13 +66235,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6076",
+                "category": "photos05",
+                "id": "5076",
                 "name": "Arte's photos -76",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-76.jpg",
+                        "src": "/images/photos/photos05/PH-76.jpg",
                         "alt": ""
                     }
                 ],
@@ -66403,13 +66319,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6077",
+                "category": "photos05",
+                "id": "5077",
                 "name": "Arte's photos -77",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-77.jpg",
+                        "src": "/images/photos/photos05/PH-77.jpg",
                         "alt": ""
                     }
                 ],
@@ -66487,13 +66403,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6078",
+                "category": "photos05",
+                "id": "5078",
                 "name": "Arte's photos -78",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-78.jpg",
+                        "src": "/images/photos/photos05/PH-78.jpg",
                         "alt": ""
                     }
                 ],
@@ -66571,13 +66487,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6079",
+                "category": "photos05",
+                "id": "5079",
                 "name": "Arte's photos -79",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-79.jpg",
+                        "src": "/images/photos/photos05/PH-79.jpg",
                         "alt": ""
                     }
                 ],
@@ -66655,13 +66571,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6080",
+                "category": "photos05",
+                "id": "5080",
                 "name": "Arte's photos -80",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-80.jpg",
+                        "src": "/images/photos/photos05/PH-80.jpg",
                         "alt": ""
                     }
                 ],
@@ -66739,13 +66655,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6081",
+                "category": "photos05",
+                "id": "5081",
                 "name": "Arte's photos -81",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-81.jpg",
+                        "src": "/images/photos/photos05/PH-81.jpg",
                         "alt": ""
                     }
                 ],
@@ -66823,13 +66739,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6082",
+                "category": "photos05",
+                "id": "5082",
                 "name": "Arte's photos -82",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-82.jpg",
+                        "src": "/images/photos/photos05/PH-82.jpg",
                         "alt": ""
                     }
                 ],
@@ -66907,13 +66823,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6083",
+                "category": "photos05",
+                "id": "5083",
                 "name": "Arte's photos -83",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-83.jpg",
+                        "src": "/images/photos/photos05/PH-83.jpg",
                         "alt": ""
                     }
                 ],
@@ -66991,13 +66907,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6084",
+                "category": "photos05",
+                "id": "5084",
                 "name": "Arte's photos -84",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-84.jpg",
+                        "src": "/images/photos/photos05/PH-84.jpg",
                         "alt": ""
                     }
                 ],
@@ -67075,13 +66991,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6085",
+                "category": "photos05",
+                "id": "5085",
                 "name": "Arte's photos -85",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-85.jpg",
+                        "src": "/images/photos/photos05/PH-85.jpg",
                         "alt": ""
                     }
                 ],
@@ -67159,13 +67075,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6086",
+                "category": "photos05",
+                "id": "5086",
                 "name": "Arte's photos -86",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-86.jpg",
+                        "src": "/images/photos/photos05/PH-86.jpg",
                         "alt": ""
                     }
                 ],
@@ -67243,13 +67159,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6087",
+                "category": "photos05",
+                "id": "5087",
                 "name": "Arte's photos -87",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-87.jpg",
+                        "src": "/images/photos/photos05/PH-87.jpg",
                         "alt": ""
                     }
                 ],
@@ -67327,13 +67243,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6088",
+                "category": "photos05",
+                "id": "5088",
                 "name": "Arte's photos -88",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-88.jpg",
+                        "src": "/images/photos/photos05/PH-88.jpg",
                         "alt": ""
                     }
                 ],
@@ -67411,13 +67327,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6089",
+                "category": "photos05",
+                "id": "5089",
                 "name": "Arte's photos -89",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-89.jpg",
+                        "src": "/images/photos/photos05/PH-89.jpg",
                         "alt": ""
                     }
                 ],
@@ -67495,13 +67411,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6090",
+                "category": "photos05",
+                "id": "5090",
                 "name": "Arte's photos -90",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-90.jpg",
+                        "src": "/images/photos/photos05/PH-90.jpg",
                         "alt": ""
                     }
                 ],
@@ -67579,13 +67495,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6091",
+                "category": "photos05",
+                "id": "5091",
                 "name": "Arte's photos -91",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-91.jpg",
+                        "src": "/images/photos/photos05/PH-91.jpg",
                         "alt": ""
                     }
                 ],
@@ -67663,13 +67579,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6092",
+                "category": "photos05",
+                "id": "5092",
                 "name": "Arte's photos -92",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-92.jpg",
+                        "src": "/images/photos/photos05/PH-92.jpg",
                         "alt": ""
                     }
                 ],
@@ -67747,13 +67663,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6093",
+                "category": "photos05",
+                "id": "5093",
                 "name": "Arte's photos -93",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-93.jpg",
+                        "src": "/images/photos/photos05/PH-93.jpg",
                         "alt": ""
                     }
                 ],
@@ -67831,13 +67747,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6094",
+                "category": "photos05",
+                "id": "5094",
                 "name": "Arte's photos -94",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-94.jpg",
+                        "src": "/images/photos/photos05/PH-94.jpg",
                         "alt": ""
                     }
                 ],
@@ -67915,13 +67831,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6095",
+                "category": "photos05",
+                "id": "5095",
                 "name": "Arte's photos -95",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-95.jpg",
+                        "src": "/images/photos/photos05/PH-95.jpg",
                         "alt": ""
                     }
                 ],
@@ -67999,13 +67915,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6096",
+                "category": "photos05",
+                "id": "5096",
                 "name": "Arte's photos -96",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-96.jpg",
+                        "src": "/images/photos/photos05/PH-96.jpg",
                         "alt": ""
                     }
                 ],
@@ -68083,13 +67999,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6097",
+                "category": "photos05",
+                "id": "5097",
                 "name": "Arte's photos -97",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-97.jpg",
+                        "src": "/images/photos/photos05/PH-97.jpg",
                         "alt": ""
                     }
                 ],
@@ -68167,13 +68083,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6098",
+                "category": "photos05",
+                "id": "5098",
                 "name": "Arte's photos -98",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-98.jpg",
+                        "src": "/images/photos/photos05/PH-98.jpg",
                         "alt": ""
                     }
                 ],
@@ -68253,13 +68169,13 @@ export const products = [
 
 
             {
-                "category": "photos06",
-                "id": "6099",
+                "category": "photos05",
+                "id": "5099",
                 "name": "Arte's photos -99",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-99.jpg",
+                        "src": "/images/photos/photos05/PH-99.jpg",
                         "alt": ""
                     }
                 ],
@@ -68343,19 +68259,19 @@ export const products = [
         "category": "photos09",
         "header": "ARTISTIC- ",
         "sub": "גלריית תמונות למכירה ",
-        "image": "/images/photos/photos02/PH-001.jpg",
+        "image": "/images/photos/photos09/PH-001.jpg",
         "subjects": [
             "photos"
         ],
         "items": [
             {
-                "category": "photos06",
-                "id": "6001",
+                "category": "photos09",
+                "id": "9001",
                 "name": "Arte's photos -01",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-01.jpg",
+                        "src": "/images/photos/photos09/PH-01.jpg",
                         "alt": ""
                     }
                 ],
@@ -68433,13 +68349,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6002",
+                "category": "photos09",
+                "id": "9002",
                 "name": "Arte's photos -02",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-02.jpg",
+                        "src": "/images/photos/photos09/PH-02.jpg",
                         "alt": ""
                     }
                 ],
@@ -68517,13 +68433,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6003",
+                "category": "photos09",
+                "id": "9003",
                 "name": "Arte's photos -03",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-03.jpg",
+                        "src": "/images/photos/photos09/PH-03.jpg",
                         "alt": ""
                     }
                 ],
@@ -68601,13 +68517,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6004",
+                "category": "photos09",
+                "id": "9004",
                 "name": "Arte's photos -04",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-04.jpg",
+                        "src": "/images/photos/photos09/PH-04.jpg",
                         "alt": ""
                     }
                 ],
@@ -68685,13 +68601,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6005",
+                "category": "photos09",
+                "id": "9005",
                 "name": "Arte's photos -05",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-05.jpg",
+                        "src": "/images/photos/photos09/PH-05.jpg",
                         "alt": ""
                     }
                 ],
@@ -68769,13 +68685,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6006",
+                "category": "photos09",
+                "id": "9006",
                 "name": "Arte's photos -06",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-06.jpg",
+                        "src": "/images/photos/photos09/PH-06.jpg",
                         "alt": ""
                     }
                 ],
@@ -68853,13 +68769,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6007",
+                "category": "photos09",
+                "id": "9007",
                 "name": "Arte's photos -07",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-07.jpg",
+                        "src": "/images/photos/photos09/PH-07.jpg",
                         "alt": ""
                     }
                 ],
@@ -68937,13 +68853,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6008",
+                "category": "photos09",
+                "id": "9008",
                 "name": "Arte's photos -08",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-08.jpg",
+                        "src": "/images/photos/photos09/PH-08.jpg",
                         "alt": ""
                     }
                 ],
@@ -69021,13 +68937,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6009",
+                "category": "photos09",
+                "id": "9009",
                 "name": "Arte's photos -09",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-09.jpg",
+                        "src": "/images/photos/photos09/PH-09.jpg",
                         "alt": ""
                     }
                 ],
@@ -69105,13 +69021,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6010",
+                "category": "photos09",
+                "id": "9010",
                 "name": "Arte's photos -10",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-10.jpg",
+                        "src": "/images/photos/photos09/PH-10.jpg",
                         "alt": ""
                     }
                 ],
@@ -69189,13 +69105,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6011",
+                "category": "photos09",
+                "id": "9011",
                 "name": "Arte's photos -11",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-11.jpg",
+                        "src": "/images/photos/photos09/PH-11.jpg",
                         "alt": ""
                     }
                 ],
@@ -69273,13 +69189,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6012",
+                "category": "photos09",
+                "id": "9012",
                 "name": "Arte's photos -12",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-12.jpg",
+                        "src": "/images/photos/photos09/PH-12.jpg",
                         "alt": ""
                     }
                 ],
@@ -69357,13 +69273,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6013",
+                "category": "photos09",
+                "id": "9013",
                 "name": "Arte's photos -13",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-13.jpg",
+                        "src": "/images/photos/photos09/PH-13.jpg",
                         "alt": ""
                     }
                 ],
@@ -69441,13 +69357,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6014",
+                "category": "photos09",
+                "id": "9014",
                 "name": "Arte's photos -14",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-14.jpg",
+                        "src": "/images/photos/photos09/PH-14.jpg",
                         "alt": ""
                     }
                 ],
@@ -69525,13 +69441,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6015",
+                "category": "photos09",
+                "id": "9015",
                 "name": "Arte's photos -15",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-15.jpg",
+                        "src": "/images/photos/photos09/PH-15.jpg",
                         "alt": ""
                     }
                 ],
@@ -69609,13 +69525,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6016",
+                "category": "photos09",
+                "id": "9016",
                 "name": "Arte's photos -16",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-16.jpg",
+                        "src": "/images/photos/photos09/PH-16.jpg",
                         "alt": ""
                     }
                 ],
@@ -69693,13 +69609,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6017",
+                "category": "photos09",
+                "id": "9017",
                 "name": "Arte's photos -17",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-17.jpg",
+                        "src": "/images/photos/photos09/PH-17.jpg",
                         "alt": ""
                     }
                 ],
@@ -69777,13 +69693,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6018",
+                "category": "photos09",
+                "id": "9018",
                 "name": "Arte's photos -18",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-18.jpg",
+                        "src": "/images/photos/photos09/PH-18.jpg",
                         "alt": ""
                     }
                 ],
@@ -69861,13 +69777,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6019",
+                "category": "photos09",
+                "id": "9019",
                 "name": "Arte's photos -19",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-19.jpg",
+                        "src": "/images/photos/photos09/PH-19.jpg",
                         "alt": ""
                     }
                 ],
@@ -69945,13 +69861,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6020",
+                "category": "photos09",
+                "id": "9020",
                 "name": "Arte's photos -20",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-20.jpg",
+                        "src": "/images/photos/photos09/PH-20.jpg",
                         "alt": ""
                     }
                 ],
@@ -70029,13 +69945,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6021",
+                "category": "photos09",
+                "id": "9021",
                 "name": "Arte's photos -21",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-21.jpg",
+                        "src": "/images/photos/photos09/PH-21.jpg",
                         "alt": ""
                     }
                 ],
@@ -70113,13 +70029,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6022",
+                "category": "photos09",
+                "id": "9022",
                 "name": "Arte's photos -22",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-22.jpg",
+                        "src": "/images/photos/photos09/PH-22.jpg",
                         "alt": ""
                     }
                 ],
@@ -70197,13 +70113,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6023",
+                "category": "photos09",
+                "id": "9023",
                 "name": "Arte's photos -23",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-23.jpg",
+                        "src": "/images/photos/photos09/PH-23.jpg",
                         "alt": ""
                     }
                 ],
@@ -70281,13 +70197,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6024",
+                "category": "photos09",
+                "id": "9024",
                 "name": "Arte's photos -24",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-24.jpg",
+                        "src": "/images/photos/photos09/PH-24.jpg",
                         "alt": ""
                     }
                 ],
@@ -70365,13 +70281,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6025",
+                "category": "photos09",
+                "id": "9025",
                 "name": "Arte's photos -25",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-25.jpg",
+                        "src": "/images/photos/photos09/PH-25.jpg",
                         "alt": ""
                     }
                 ],
@@ -70449,13 +70365,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6026",
+                "category": "photos09",
+                "id": "9026",
                 "name": "Arte's photos -26",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-26.jpg",
+                        "src": "/images/photos/photos09/PH-26.jpg",
                         "alt": ""
                     }
                 ],
@@ -70533,13 +70449,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6027",
+                "category": "photos09",
+                "id": "9027",
                 "name": "Arte's photos -27",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-27.jpg",
+                        "src": "/images/photos/photos09/PH-27.jpg",
                         "alt": ""
                     }
                 ],
@@ -70617,13 +70533,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6028",
+                "category": "photos09",
+                "id": "9028",
                 "name": "Arte's photos -28",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-28.jpg",
+                        "src": "/images/photos/photos09/PH-28.jpg",
                         "alt": ""
                     }
                 ],
@@ -70701,13 +70617,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6029",
+                "category": "photos09",
+                "id": "9029",
                 "name": "Arte's photos -29",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-29.jpg",
+                        "src": "/images/photos/photos09/PH-29.jpg",
                         "alt": ""
                     }
                 ],
@@ -70785,13 +70701,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6030",
+                "category": "photos09",
+                "id": "9030",
                 "name": "Arte's photos -30",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-30.jpg",
+                        "src": "/images/photos/photos09/PH-30.jpg",
                         "alt": ""
                     }
                 ],
@@ -70869,13 +70785,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6031",
+                "category": "photos09",
+                "id": "9031",
                 "name": "Arte's photos -31",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-31.jpg",
+                        "src": "/images/photos/photos09/PH-31.jpg",
                         "alt": ""
                     }
                 ],
@@ -70953,13 +70869,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6032",
+                "category": "photos09",
+                "id": "9032",
                 "name": "Arte's photos -32",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-32.jpg",
+                        "src": "/images/photos/photos09/PH-32.jpg",
                         "alt": ""
                     }
                 ],
@@ -71037,13 +70953,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6033",
+                "category": "photos09",
+                "id": "9033",
                 "name": "Arte's photos -33",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-33.jpg",
+                        "src": "/images/photos/photos09/PH-33.jpg",
                         "alt": ""
                     }
                 ],
@@ -71121,13 +71037,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6034",
+                "category": "photos09",
+                "id": "9034",
                 "name": "Arte's photos -34",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-34.jpg",
+                        "src": "/images/photos/photos09/PH-34.jpg",
                         "alt": ""
                     }
                 ],
@@ -71205,13 +71121,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6035",
+                "category": "photos09",
+                "id": "9035",
                 "name": "Arte's photos -35",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-35.jpg",
+                        "src": "/images/photos/photos09/PH-35.jpg",
                         "alt": ""
                     }
                 ],
@@ -71289,13 +71205,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6036",
+                "category": "photos09",
+                "id": "9036",
                 "name": "Arte's photos -36",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-36.jpg",
+                        "src": "/images/photos/photos09/PH-36.jpg",
                         "alt": ""
                     }
                 ],
@@ -71373,13 +71289,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6037",
+                "category": "photos09",
+                "id": "9037",
                 "name": "Arte's photos -37",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-37.jpg",
+                        "src": "/images/photos/photos09/PH-37.jpg",
                         "alt": ""
                     }
                 ],
@@ -71457,13 +71373,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6038",
+                "category": "photos09",
+                "id": "9038",
                 "name": "Arte's photos -38",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-38.jpg",
+                        "src": "/images/photos/photos09/PH-38.jpg",
                         "alt": ""
                     }
                 ],
@@ -71541,13 +71457,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6039",
+                "category": "photos09",
+                "id": "9039",
                 "name": "Arte's photos -39",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-39.jpg",
+                        "src": "/images/photos/photos09/PH-39.jpg",
                         "alt": ""
                     }
                 ],
@@ -71625,13 +71541,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6040",
+                "category": "photos09",
+                "id": "9040",
                 "name": "Arte's photos -40",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-40.jpg",
+                        "src": "/images/photos/photos09/PH-40.jpg",
                         "alt": ""
                     }
                 ],
@@ -71709,13 +71625,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6041",
+                "category": "photos09",
+                "id": "9041",
                 "name": "Arte's photos -41",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-41.jpg",
+                        "src": "/images/photos/photos09/PH-41.jpg",
                         "alt": ""
                     }
                 ],
@@ -71793,13 +71709,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6042",
+                "category": "photos09",
+                "id": "9042",
                 "name": "Arte's photos -42",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-42.jpg",
+                        "src": "/images/photos/photos09/PH-42.jpg",
                         "alt": ""
                     }
                 ],
@@ -71877,13 +71793,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6043",
+                "category": "photos09",
+                "id": "9043",
                 "name": "Arte's photos -43",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-43.jpg",
+                        "src": "/images/photos/photos09/PH-43.jpg",
                         "alt": ""
                     }
                 ],
@@ -71961,13 +71877,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6044",
+                "category": "photos09",
+                "id": "9044",
                 "name": "Arte's photos -44",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-44.jpg",
+                        "src": "/images/photos/photos09/PH-44.jpg",
                         "alt": ""
                     }
                 ],
@@ -72045,13 +71961,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6045",
+                "category": "photos09",
+                "id": "9045",
                 "name": "Arte's photos -45",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-45.jpg",
+                        "src": "/images/photos/photos09/PH-45.jpg",
                         "alt": ""
                     }
                 ],
@@ -72129,13 +72045,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6046",
+                "category": "photos09",
+                "id": "9046",
                 "name": "Arte's photos -46",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-46.jpg",
+                        "src": "/images/photos/photos09/PH-46.jpg",
                         "alt": ""
                     }
                 ],
@@ -72213,13 +72129,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
+                "category": "photos09",
                 "id": "6047",
                 "name": "Arte's photos -47",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-47.jpg",
+                        "src": "/images/photos/photos09/PH-47.jpg",
                         "alt": ""
                     }
                 ],
@@ -72297,13 +72213,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6048",
+                "category": "photos09",
+                "id": "9048",
                 "name": "Arte's photos -48",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-48.jpg",
+                        "src": "/images/photos/photos09/PH-48.jpg",
                         "alt": ""
                     }
                 ],
@@ -72381,13 +72297,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6049",
+                "category": "photos09",
+                "id": "9049",
                 "name": "Arte's photos -49",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-49.jpg",
+                        "src": "/images/photos/photos09/PH-49.jpg",
                         "alt": ""
                     }
                 ],
@@ -72465,13 +72381,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6050",
+                "category": "photos09",
+                "id": "9050",
                 "name": "Arte's photos -50",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-50.jpg",
+                        "src": "/images/photos/photos09/PH-50.jpg",
                         "alt": ""
                     }
                 ],
@@ -72549,97 +72465,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6050",
-                "name": "Arte's photos -50",
-                "price": 0,
-                "images": [
-                    {
-                        "src": "/images/photos/photos06/PH-50.jpg",
-                        "alt": ""
-                    }
-                ],
-                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
-                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
-                "sizes": [
-                    {
-                        "name": "20x30",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            194,
-                            199
-                        ]
-                    },
-                    {
-                        "name": "30x45",
-                        "quantity": 0,
-                        "price": [
-                            264,
-                            199,
-                            264
-                        ]
-                    },
-                    {
-                        "name": "40x60",
-                        "quantity": 0,
-                        "price": [
-                            294,
-                            223,
-                            294
-                        ]
-                    },
-                    {
-                        "name": "50x70",
-                        "quantity": 0,
-                        "price": [
-                            359,
-                            235,
-                            359
-                        ]
-                    },
-                    {
-                        "name": "60x90",
-                        "quantity": 0,
-                        "price": [
-                            430,
-                            317,
-                            430
-                        ]
-                    },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
-                ],
-                "kind": [
-                    {
-                        "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנווס",
-                        "quantity": 0
-                    },
-                    {
-                        "name": " הדפסה על אלומיניום  ",
-                        "quantity": 0
-                    }
-                ]
-            },
-            {
-                "category": "photos06",
-                "id": "6051",
+                "category": "photos09",
+                "id": "9051",
                 "name": "Arte's photos -51",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-51.jpg",
+                        "src": "/images/photos/photos09/PH-51.jpg",
                         "alt": ""
                     }
                 ],
@@ -72717,13 +72549,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6052",
+                "category": "photos09",
+                "id": "9052",
                 "name": "Arte's photos -52",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-52.jpg",
+                        "src": "/images/photos/photos09/PH-52.jpg",
                         "alt": ""
                     }
                 ],
@@ -72801,13 +72633,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6053",
+                "category": "photos09",
+                "id": "9053",
                 "name": "Arte's photos -53",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-53.jpg",
+                        "src": "/images/photos/photos09/PH-53.jpg",
                         "alt": ""
                     }
                 ],
@@ -72885,13 +72717,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6054",
+                "category": "photos09",
+                "id": "9054",
                 "name": "Arte's photos -54",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-54.jpg",
+                        "src": "/images/photos/photos09/PH-54.jpg",
                         "alt": ""
                     }
                 ],
@@ -72969,13 +72801,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6055",
+                "category": "photos09",
+                "id": "9055",
                 "name": "Arte's photos -55",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-55.jpg",
+                        "src": "/images/photos/photos09/PH-55.jpg",
                         "alt": ""
                     }
                 ],
@@ -73053,13 +72885,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6056",
+                "category": "photos09",
+                "id": "9056",
                 "name": "Arte's photos -56",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-56.jpg",
+                        "src": "/images/photos/photos09/PH-56.jpg",
                         "alt": ""
                     }
                 ],
@@ -73137,13 +72969,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6057",
+                "category": "photos09",
+                "id": "9057",
                 "name": "Arte's photos -57",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-57.jpg",
+                        "src": "/images/photos/photos09/PH-57.jpg",
                         "alt": ""
                     }
                 ],
@@ -73221,13 +73053,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6058",
+                "category": "photos09",
+                "id": "9058",
                 "name": "Arte's photos -58",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-58.jpg",
+                        "src": "/images/photos/photos09/PH-58.jpg",
                         "alt": ""
                     }
                 ],
@@ -73305,13 +73137,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6059",
+                "category": "photos09",
+                "id": "9059",
                 "name": "Arte's photos -59",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-59.jpg",
+                        "src": "/images/photos/photos09/PH-59.jpg",
                         "alt": ""
                     }
                 ],
@@ -73389,13 +73221,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6060",
+                "category": "photos09",
+                "id": "9060",
                 "name": "Arte's photos -60",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-60.jpg",
+                        "src": "/images/photos/photos09/PH-60.jpg",
                         "alt": ""
                     }
                 ],
@@ -73473,13 +73305,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6061",
+                "category": "photos09",
+                "id": "9061",
                 "name": "Arte's photos -61",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-61.jpg",
+                        "src": "/images/photos/photos09/PH-61.jpg",
                         "alt": ""
                     }
                 ],
@@ -73557,13 +73389,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6062",
+                "category": "photos09",
+                "id": "9062",
                 "name": "Arte's photos -62",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-62.jpg",
+                        "src": "/images/photos/photos09/PH-62.jpg",
                         "alt": ""
                     }
                 ],
@@ -73641,13 +73473,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6063",
+                "category": "photos09",
+                "id": "9063",
                 "name": "Arte's photos -63",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-63.jpg",
+                        "src": "/images/photos/photos09/PH-63.jpg",
                         "alt": ""
                     }
                 ],
@@ -73725,13 +73557,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6064",
+                "category": "photos09",
+                "id": "9064",
                 "name": "Arte's photos -64",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-64.jpg",
+                        "src": "/images/photos/photos09/PH-64.jpg",
                         "alt": ""
                     }
                 ],
@@ -73809,13 +73641,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6065",
+                "category": "photos09",
+                "id": "9065",
                 "name": "Arte's photos -65",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-65.jpg",
+                        "src": "/images/photos/photos09/PH-65.jpg",
                         "alt": ""
                     }
                 ],
@@ -73893,13 +73725,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6066",
+                "category": "photos09",
+                "id": "9066",
                 "name": "Arte's photos -66",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-66.jpg",
+                        "src": "/images/photos/photos09/PH-66.jpg",
                         "alt": ""
                     }
                 ],
@@ -73977,13 +73809,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6067",
+                "category": "photos09",
+                "id": "9067",
                 "name": "Arte's photos -67",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-67.jpg",
+                        "src": "/images/photos/photos09/PH-67.jpg",
                         "alt": ""
                     }
                 ],
@@ -74061,13 +73893,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6068",
+                "category": "photos09",
+                "id": "9068",
                 "name": "Arte's photos -68",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-68.jpg",
+                        "src": "/images/photos/photos09/PH-68.jpg",
                         "alt": ""
                     }
                 ],
@@ -74145,13 +73977,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6069",
+                "category": "photos09",
+                "id": "9069",
                 "name": "Arte's photos -69",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-69.jpg",
+                        "src": "/images/photos/photos09/PH-69.jpg",
                         "alt": ""
                     }
                 ],
@@ -74229,13 +74061,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6070",
+                "category": "photos09",
+                "id": "9070",
                 "name": "Arte's photos -70",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-70.jpg",
+                        "src": "/images/photos/photos09/PH-70.jpg",
                         "alt": ""
                     }
                 ],
@@ -74313,13 +74145,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6071",
+                "category": "photos09",
+                "id": "9071",
                 "name": "Arte's photos -71",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-71.jpg",
+                        "src": "/images/photos/photos09/PH-71.jpg",
                         "alt": ""
                     }
                 ],
@@ -74397,13 +74229,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6072",
+                "category": "photos09",
+                "id": "9072",
                 "name": "Arte's photos -72",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-72.jpg",
+                        "src": "/images/photos/photos09/PH-72.jpg",
                         "alt": ""
                     }
                 ],
@@ -74481,13 +74313,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6073",
+                "category": "photos09",
+                "id": "9073",
                 "name": "Arte's photos -73",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-73.jpg",
+                        "src": "/images/photos/photos09/PH-73.jpg",
                         "alt": ""
                     }
                 ],
@@ -74565,13 +74397,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6074",
+                "category": "photos09",
+                "id": "9074",
                 "name": "Arte's photos -74",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-74.jpg",
+                        "src": "/images/photos/photos09/PH-74.jpg",
                         "alt": ""
                     }
                 ],
@@ -74649,13 +74481,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6075",
+                "category": "photos09",
+                "id": "9075",
                 "name": "Arte's photos -75",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-75.jpg",
+                        "src": "/images/photos/photos09/PH-75.jpg",
                         "alt": ""
                     }
                 ],
@@ -74733,13 +74565,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6076",
+                "category": "photos09",
+                "id": "9076",
                 "name": "Arte's photos -76",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-76.jpg",
+                        "src": "/images/photos/photos09/PH-76.jpg",
                         "alt": ""
                     }
                 ],
@@ -74817,13 +74649,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6077",
+                "category": "photos09",
+                "id": "9077",
                 "name": "Arte's photos -77",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-77.jpg",
+                        "src": "/images/photos/photos09/PH-77.jpg",
                         "alt": ""
                     }
                 ],
@@ -74901,13 +74733,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6078",
+                "category": "photos09",
+                "id": "9078",
                 "name": "Arte's photos -78",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-78.jpg",
+                        "src": "/images/photos/photos09/PH-78.jpg",
                         "alt": ""
                     }
                 ],
@@ -74985,13 +74817,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6079",
+                "category": "photos09",
+                "id": "9079",
                 "name": "Arte's photos -79",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-79.jpg",
+                        "src": "/images/photos/photos09/PH-79.jpg",
                         "alt": ""
                     }
                 ],
@@ -75069,13 +74901,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6080",
+                "category": "photos09",
+                "id": "9080",
                 "name": "Arte's photos -80",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-80.jpg",
+                        "src": "/images/photos/photos09/PH-80.jpg",
                         "alt": ""
                     }
                 ],
@@ -75153,13 +74985,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6081",
+                "category": "photos09",
+                "id": "9081",
                 "name": "Arte's photos -81",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-81.jpg",
+                        "src": "/images/photos/photos09/PH-81.jpg",
                         "alt": ""
                     }
                 ],
@@ -75237,13 +75069,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6082",
+                "category": "photos09",
+                "id": "9082",
                 "name": "Arte's photos -82",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-82.jpg",
+                        "src": "/images/photos/photos09/PH-82.jpg",
                         "alt": ""
                     }
                 ],
@@ -75321,13 +75153,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6083",
+                "category": "photos09",
+                "id": "9083",
                 "name": "Arte's photos -83",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-83.jpg",
+                        "src": "/images/photos/photos09/PH-83.jpg",
                         "alt": ""
                     }
                 ],
@@ -75405,13 +75237,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6084",
+                "category": "photos09",
+                "id": "9084",
                 "name": "Arte's photos -84",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-84.jpg",
+                        "src": "/images/photos/photos09/PH-84.jpg",
                         "alt": ""
                     }
                 ],
@@ -75489,13 +75321,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6085",
+                "category": "photos09",
+                "id": "9085",
                 "name": "Arte's photos -85",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-85.jpg",
+                        "src": "/images/photos/photos09/PH-85.jpg",
                         "alt": ""
                     }
                 ],
@@ -75573,13 +75405,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6086",
+                "category": "photos09",
+                "id": "9086",
                 "name": "Arte's photos -86",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-86.jpg",
+                        "src": "/images/photos/photos09/PH-86.jpg",
                         "alt": ""
                     }
                 ],
@@ -75657,13 +75489,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6087",
+                "category": "photos09",
+                "id": "9087",
                 "name": "Arte's photos -87",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-87.jpg",
+                        "src": "/images/photos/photos09/PH-87.jpg",
                         "alt": ""
                     }
                 ],
@@ -75741,13 +75573,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6088",
+                "category": "photos09",
+                "id": "9088",
                 "name": "Arte's photos -88",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-88.jpg",
+                        "src": "/images/photos/photos09/PH-88.jpg",
                         "alt": ""
                     }
                 ],
@@ -75825,13 +75657,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6089",
+                "category": "photos09",
+                "id": "9089",
                 "name": "Arte's photos -89",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-89.jpg",
+                        "src": "/images/photos/photos09/PH-89.jpg",
                         "alt": ""
                     }
                 ],
@@ -75909,13 +75741,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6090",
+                "category": "photos09",
+                "id": "9090",
                 "name": "Arte's photos -90",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-90.jpg",
+                        "src": "/images/photos/photos09/PH-90.jpg",
                         "alt": ""
                     }
                 ],
@@ -75993,13 +75825,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6091",
+                "category": "photos09",
+                "id": "9091",
                 "name": "Arte's photos -91",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-91.jpg",
+                        "src": "/images/photos/photos09/PH-91.jpg",
                         "alt": ""
                     }
                 ],
@@ -76077,13 +75909,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6092",
+                "category": "photos09",
+                "id": "9092",
                 "name": "Arte's photos -92",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-92.jpg",
+                        "src": "/images/photos/photos09/PH-92.jpg",
                         "alt": ""
                     }
                 ],
@@ -76161,13 +75993,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6093",
+                "category": "photos09",
+                "id": "9093",
                 "name": "Arte's photos -93",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-93.jpg",
+                        "src": "/images/photos/photos09/PH-93.jpg",
                         "alt": ""
                     }
                 ],
@@ -76245,13 +76077,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6094",
+                "category": "photos09",
+                "id": "9094",
                 "name": "Arte's photos -94",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-94.jpg",
+                        "src": "/images/photos/photos09/PH-94.jpg",
                         "alt": ""
                     }
                 ],
@@ -76329,13 +76161,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6095",
+                "category": "photos09",
+                "id": "9095",
                 "name": "Arte's photos -95",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-95.jpg",
+                        "src": "/images/photos/photos09/PH-95.jpg",
                         "alt": ""
                     }
                 ],
@@ -76413,13 +76245,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6096",
+                "category": "photos09",
+                "id": "9096",
                 "name": "Arte's photos -96",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-96.jpg",
+                        "src": "/images/photos/photos09/PH-96.jpg",
                         "alt": ""
                     }
                 ],
@@ -76497,13 +76329,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6097",
+                "category": "photos09",
+                "id": "9097",
                 "name": "Arte's photos -97",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-97.jpg",
+                        "src": "/images/photos/photos09/PH-97.jpg",
                         "alt": ""
                     }
                 ],
@@ -76581,13 +76413,13 @@ export const products = [
                 ]
             },
             {
-                "category": "photos06",
-                "id": "6098",
+                "category": "photos09",
+                "id": "9098",
                 "name": "Arte's photos -98",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-98.jpg",
+                        "src": "/images/photos/photos09/PH-98.jpg",
                         "alt": ""
                     }
                 ],
@@ -76667,13 +76499,13 @@ export const products = [
 
 
             {
-                "category": "photos06",
-                "id": "6099",
+                "category": "photos09",
+                "id": "9099",
                 "name": "Arte's photos -99",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-99.jpg",
+                        "src": "/images/photos/photos09/PH-99.jpg",
                         "alt": ""
                     }
                 ],
