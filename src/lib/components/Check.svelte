@@ -91,14 +91,14 @@
   import { cities } from './cities.js';
 
     </script>
-    <main dir="rtl">
-        <div class="container our px-4 px-lg-5" >
+    <main>
+        <div class="container px-4 px-lg-5  mx-auto" >
         <div class="py-5 text-center">
             <img class="d-block mx-auto mb-4" src="/images/logo.png" alt="" width="195" height="59">
             <h2> סיום רכישה</h2>
         </div>
 
-        <div class="row g-3"dir="rtl">
+        <div class="" dir="rtl">
       <!-- <div class="col-md-5 col-lg-4 order-md-last">
         <h4 class="d-flex justify-content-between align-items-center mb-3">
           <span class="text-body-secondary">עגלת הקניות</span>
@@ -132,7 +132,7 @@
           </div>
         </form>
       </div>-->
-      <div class="col-md-7 col-lg-8 text-right" dir="rtl">
+      <div class=" mx-auto text-right" dir="rtl">
         <h4 class="mb-3 text-right">כתובת למשלוח</h4>
         <form class="needs-validation">
           <div class="row g-3">
@@ -204,7 +204,11 @@
           </div>
 
           <hr class="my-4">
-            <Phonefild selectedCountry="IL" lebel={{"he":"מספר טלפון"}}  bind:value={ client.phone}  />
+          <label for="phone" class="form-label">מספר טלפון</label>
+          <input type="text" class="form-control" id="phone" placeholder="050-1234567" required bind:value={client.phone}>
+          <div class="invalid-feedback">
+            נדרש להוסיף טלפון.
+          </div>
           <div class="form-check">
             <input type="checkbox" class="form-check-input" id="save-info">
             <label class="form-check-label" for="save-info">שמור את המידע הזה לפעם הבאה</label>
@@ -216,11 +220,13 @@
       </div>
     </div>
   </main>
-  <style>
+<style>
     .our{
         display: flex;
         justify-content: center;
         align-items: center;
         flex-direction: column;
+        margin-left: auto;
+        margin-right: auto;
     }
   </style>
