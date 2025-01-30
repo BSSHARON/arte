@@ -1,6 +1,5 @@
 <script>
-	import Phonefild from "./ui/Phonefild.svelte";
-
+  import { cart } from '$lib/stores/cart.svelte.js';
     let client = $state({
         name:"",
         lastName:"",
@@ -46,7 +45,8 @@
 //    \"StandingOrderDuration\" : \"0\"\r\n    }\r\n}"
 
   async function handlePayment() {
-  
+    console.log(client,cart.cart)
+    localStorage.setItem('client', JSON.stringify(client));
     if(amount <= 0) {
         alert('אי אפשר לשלם על סכום שלילי או אפס');
         return;
@@ -190,7 +190,7 @@
 
             <div class="col-md-4">
               <label for="state" class="form-label">עיר</label>
-              <select class="form-select" id="state" required="">
+              <select bind:value={client.city} class="form-select" id="state" required="">
                 <option value="">בחר...</option>
                 {#each cities as city}
                 <option value={city}>{city}</option >
@@ -204,7 +204,7 @@
             <div class="col-md-3">
 
               <label for="zip" class="form-label">מיקוד</label>
-              <input type="text" class="form-control" id="zip" placeholder="" required>
+              <input bind:value={client.zip} type="text" class="form-control" id="zip" placeholder="" required>
               <div class="invalid-feedback">
                 נדרש מיקוד.
               </div>
@@ -217,10 +217,7 @@
           <div class="invalid-feedback">
             נדרש להוסיף טלפון.
           </div>
-          <div class="form-check">
-            <input type="checkbox" class="form-check-input" id="save-info">
-            <label class="form-check-label" for="save-info">שמור את המידע הזה לפעם הבאה</label>
-          </div>
+    <br>
 
 
           <button class="w-100 btn btn-primary btn-lg" type="submit" onclick={handlePayment}>{#if loading} ... {:else} לתשלום {/if}</button>
