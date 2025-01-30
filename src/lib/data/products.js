@@ -1339,7 +1339,7 @@ export const products = [
                 "category": "oilpaintings",
                 "id": "104",
                 "name": "oil paintings04 90X90",
-                "price": 4100,
+                "price": 4050,
                 "images": [
                     {
                         "src": "/images/oilpaintings04.jpg",
