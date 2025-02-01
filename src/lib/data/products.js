@@ -71691,7 +71691,7 @@ export const products = [
     {
         "id": "6000",
         "category": "photos06",
-        "header": "POP ART",
+        "header": "06",
         "sub": "גלריית תמונות למכירה ",
         "image": "/images/photos/photos06/PH-001.jpg",
         "subjects": [
@@ -81113,7 +81113,7 @@ export const products = [
     {
         "id": "7000",
         "category": "photos07",
-        "header": "ABSTRACT",
+        "header": "07",
         "sub": "גלריית תמונות למכירה ",
         "image": "/images/photos/photos07/PH-001.jpg",
         "subjects": [
@@ -89527,7 +89527,7 @@ export const products = [
     {
         "id": "8000",
         "category": "photos08",
-        "header": "FLOWERS",
+        "header": "08",
         "sub": "גלריית תמונות למכירה ",
         "image": "/images/photos/photos08/PH-001.jpg",
         "subjects": [
@@ -97941,7 +97941,7 @@ export const products = [
     {
         "id": "9000",
         "category": "photos09",
-        "header": "ARTISTIC99",
+        "header": "09",
         "sub": "גלריית תמונות למכירה ",
         "image": "/images/photos/photos09/PH-001.jpg",
         "subjects": [
