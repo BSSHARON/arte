@@ -47121,8 +47121,8 @@ export const products = [
     },
     {
         "id": "3000",
-        "category": "LIONS, TIGERS AND MORE",
-        "header": "LIONS",
+        "category": "photos03",
+        "header": "LIONS, TIGERS AND MORE",
         "sub": "גלריית תמונות למכירה ",
         "image": "/images/photos/photos03/PH-001.jpg",
         "subjects": [
