@@ -63,9 +63,9 @@ let a = $state(false)
                     <div class="row">
                         <div class="col-6">
                             <ul>
-                                <li>איסוף הזמנות ראשון לציון<br><span>הגעה בתיאום מראש בלבד</span></li>
+                                <li> כתובתנו ראשון לציון<br><span>הגעה בתיאום מראש בלבד</span></li>
                                 <li>טלפון | ווצאפ<br><span>050-2374217</span></li>
-                                <li>כתובתנו ראשון לציון<br><span>הגעה בתיאום מראש בלבד</span></li>
+                                <li>. . .<br><span>. . . .</span></li>
                             </ul>
                         </div>
                         <div class="col-6">
