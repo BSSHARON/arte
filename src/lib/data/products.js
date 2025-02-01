@@ -1518,7 +1518,7 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": "הדפסה על קנווס",
+                        "name": "הדפסה על קנבס",
                         "quantity": 0
                     },
                     {
