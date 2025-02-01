@@ -26256,7 +26256,7 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": "הדפסה על קנווס",
+                        "name": "הדפסה על קנבס",
                         "quantity": 0
                     },
                     {
@@ -26345,7 +26345,7 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": "הדפסה על קנווס",
+                        "name": "הדפסה על קנבס",
                         "quantity": 0
                     },
                     {
@@ -26429,7 +26429,7 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": "הדפסה על קנווס",
+                        "name": "הדפסה על קנבס",
                         "quantity": 0
                     },
                     {
@@ -26513,7 +26513,7 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": "הדפסה על קנווס",
+                        "name": "הדפסה על קנבס",
                         "quantity": 0
                     },
                     {
@@ -26597,7 +26597,7 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": "הדפסה על קנווס",
+                        "name": "הדפסה על קנבס",
                         "quantity": 0
                     },
                     {
@@ -26681,7 +26681,7 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": "הדפסה על קנווס",
+                        "name": "הדפסה על קנבס",
                         "quantity": 0
                     },
                     {
@@ -26765,7 +26765,7 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": "הדפסה על קנווס",
+                        "name": "הדפסה על קנבס",
                         "quantity": 0
                     },
                     {
@@ -26849,7 +26849,7 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": "הדפסה על קנווס",
+                        "name": "הדפסה על קנבס",
                         "quantity": 0
                     },
                     {
@@ -26933,7 +26933,7 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": "הדפסה על קנווס",
+                        "name": "הדפסה על קנבס",
                         "quantity": 0
                     },
                     {
@@ -63381,7 +63381,7 @@ export const products = [
     {
         "id": "5000",
         "category": "photos05",
-        "header": "AFRICAN- ",
+        "header": "AFRICAN ",
         "sub": "גלריית תמונות למכירה ",
         "image": "/images/photos/photos05/PH-001.jpg",
         "subjects": [
