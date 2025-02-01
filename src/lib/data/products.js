@@ -98057,7 +98057,7 @@ export const products = [
     {
         "id": "9000",
         "category": "photos09",
-        "header": "ARTISTIC- ",
+        "header": "ARTISTIC99",
         "sub": "גלריית תמונות למכירה ",
         "image": "/images/photos/photos09/PH-001.jpg",
         "subjects": [
