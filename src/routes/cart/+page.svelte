@@ -69,7 +69,7 @@ const calculatePrice = (item) => {
 
 	{#each cart.cart as item }
 		<div class="cart-item">
-			<h3>{item.name}</h3>
+			<p>{item.name}</p>
 			<img width="50" src={item.images[0].src} alt={item.name}/>
 				<div class="quantity buttons_added">
 					<input type="button" value="-" class="minus" onclick={() => {minusItem(item)}}>
