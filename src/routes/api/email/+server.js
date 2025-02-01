@@ -32,7 +32,7 @@ console.log(import.meta.env.VITE_PASSWORD,kind)
     subject: 'פניה חדשה',
     html: emailHtml
   };
-  
+  console.log(options,28)
   transporter.sendMail(options);
   transporter.verify(function(err, success) {
   if (err) {
