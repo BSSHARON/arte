@@ -37,7 +37,7 @@ async function sendMail(name = "",phone = "",client={},cart=[],kind=true){
   console.log(options,kind)
 
   console.log(options,28)
-  transporter.sendMail(options);
+await transporter.sendMail(options);
   transporter.verify(function(err, success) {
   if (err) {
     console.log("connection error",err)
