@@ -1450,7 +1450,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/PH-01.jpg",
+                        "src": "/images/digital/digital01/ARTE - 01.jpg",
                         "alt": ""
                     }
                 ],
@@ -1534,7 +1534,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/PH-02.jpg",
+                        "src": "/images/digital/digital01/ARTE - 02.jpg",
                         "alt": ""
                     }
                 ],
@@ -1618,7 +1618,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/PH-03.jpg",
+                        "src": "/images/digital/digital01/ARTE - 03.jpg",
                         "alt": ""
                     }
                 ],
@@ -1702,7 +1702,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/PH-04.jpg",
+                        "src": "/images/digital/digital01/ARTE - 04.jpg",
                         "alt": ""
                     }
                 ],
@@ -1786,7 +1786,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/PH-05.jpg",
+                        "src": "/images/digital/digital01/ARTE - 05.jpg",
                         "alt": ""
                     }
                 ],
@@ -1870,7 +1870,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/PH-07.jpg",
+                        "src": "/images/digital/digital01/ARTE - 06.jpg",
                         "alt": ""
                     }
                 ],
@@ -9423,16 +9423,14 @@ export const products = [
                     }
                 ]
             },
-
-
             {
                 "category": "digitalart01",
-                "id": "50099",
-                "name": "Arte's Art -99",
+                "id": "50001",
+                "name": "Arte's Art -01",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/PH-06.jpg",
+                        "src": "/images/digital/digital01/ARTE-01.jpg",
                         "alt": ""
                     }
                 ],
@@ -9528,7 +9526,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital02/PH-01.jpg",
+                        "src": "/images/digital/digital01/ARTE-01.jpg",
                         "alt": ""
                     }
                 ],
