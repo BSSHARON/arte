@@ -2537,12 +2537,12 @@ export const products = [
             },
             {
                 "category": "digitalart01",
-                "id": "50017",
-                "name": "Arte's Art -17",
+                "id": "50014",
+                "name": "Arte's Art -14",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/PH-17.jpg",
+                        "src": "/images/digital/digital01/ARTE - 14.jpg",
                         "alt": ""
                     }
                 ],
@@ -2621,8 +2621,8 @@ export const products = [
             },
             {
                 "category": "digitalart01",
-                "id": "50018",
-                "name": "Arte's Art -18",
+                "id": "50015",
+                "name": "Arte's Art -15",
                 "price": 0,
                 "images": [
                     {
@@ -10202,7 +10202,7 @@ export const products = [
                         "alt": ""
                     }
                 ],
-                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנבס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
                 "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
                 "sizes": [
                     {
@@ -10266,7 +10266,7 @@ export const products = [
                         "quantity": 0
                     },
                     {
-                        "name": "הדפסה על קנווס",
+                        "name": "הדפסה על קנבס",
                         "quantity": 0
                     },
                     {
@@ -10286,7 +10286,7 @@ export const products = [
                         "alt": ""
                     }
                 ],
-                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנווס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנבס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
                 "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
                 "sizes": [
                     {
