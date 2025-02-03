@@ -193,7 +193,7 @@ export const products = [
             {
                 "category": "baton02",
                 "id": "205",
-                "name": "אגרטל בטון דקורטיבית - איתן",
+                "name": "אגרטל בטון דקורטיבי - איתן",
                 "price": 85,
                 "images": [
                     {
