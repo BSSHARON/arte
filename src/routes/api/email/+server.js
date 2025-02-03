@@ -5,7 +5,8 @@ import { asClassComponent } from 'svelte/legacy';
 import Finnish from '$lib/emails/finnish.svelte';
 async function sendMail(name = "",phone = "",client={},cart=[],kind=true){
 
-console.log(import.meta.env.VITE_PASSWORD,kind)
+
+  console.log(import.meta.env.VITE_PASSWORD,kind)
   const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
@@ -25,6 +26,7 @@ console.log(import.meta.env.VITE_PASSWORD,kind)
       paymentId: phone
     }
   });
+  console.log(28,kind)
 
   const options = {
     from:"s0528844911@gmail.com",
@@ -32,8 +34,10 @@ console.log(import.meta.env.VITE_PASSWORD,kind)
     subject: 'פניה חדשה',
     html: emailHtml
   };
+  console.log(options,kind)
+
   console.log(options,28)
-  transporter.sendMail(options);
+await transporter.sendMail(options);
   transporter.verify(function(err, success) {
   if (err) {
     console.log("connection error",err)
