@@ -38794,7 +38794,7 @@ export const products = [
         "category": "photos02",
         "header": "ARTISTIC",
         "sub": "גלריית תמונות למכירה ",
-        "image": "/images/photos/photos02/PH-001.jpg",
+        "image": "/images/photos/photos02/ph-001.jpg",
         "subjects": [
             "photos"
         ],
