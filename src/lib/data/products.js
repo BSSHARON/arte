@@ -47122,7 +47122,7 @@ export const products = [
         "category": "photos03",
         "header": "LIONS, TIGERS AND MORE",
         "sub": "גלריית תמונות למכירה ",
-        "image": "/images/photos/photos03/PH-001.jpg",
+        "image": "/images/photos/photos03/ph-001.jpg",
         "subjects": [
             "photos"
         ],
@@ -57635,7 +57635,7 @@ export const products = [
         "category": "photos04",
         "header": "BLACK & GOLD",
         "sub": "גלריית תמונות למכירה ",
-        "image": "/images/photos/photos04/PH-001.jpg",
+        "image": "/images/photos/photos04/ph-001.jpg",
         "subjects": [
             "photos"
         ],
