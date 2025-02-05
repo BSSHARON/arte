@@ -26174,7 +26174,7 @@ export const products = [
         "category": "photos01",
         "header": "ABSTRACT",
         "sub": "גלריית תמונות למכירה ",
-        "image": "/images/photos/photos01/PH-001.jpg",
+        "image": "/images/photos/photos01/ph-001.jpg",
         "subjects": [
             "photos"
         ],
