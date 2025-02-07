@@ -26174,7 +26174,7 @@ export const products = [
         "category": "photos01",
         "header": "ABSTRACT",
         "sub": "גלריית תמונות למכירה ",
-        "image": "/images/photos/photos01/ph-001.jpg",
+        "image": "/images/photos/photos01/p001.jpg",
         "subjects": [
             "photos"
         ],
@@ -38794,7 +38794,7 @@ export const products = [
         "category": "photos02",
         "header": "ARTISTIC",
         "sub": "גלריית תמונות למכירה ",
-        "image": "/images/photos/photos02/ph-001.jpg",
+        "image": "/images/photos/photos02/p002.jpg",
         "subjects": [
             "photos"
         ],
@@ -47122,7 +47122,7 @@ export const products = [
         "category": "photos03",
         "header": "LIONS, TIGERS AND MORE",
         "sub": "גלריית תמונות למכירה ",
-        "image": "/images/photos/photos03/ph-001.jpg",
+        "image": "/images/photos/photos03/p003.jpg",
         "subjects": [
             "photos"
         ],
@@ -69745,7 +69745,7 @@ export const products = [
         "category": "photos05",
         "header": "AFRICAN ",
         "sub": "גלריית תמונות למכירה ",
-        "image": "/images/photos/photos05/PH-001.jpg",
+        "image": "/images/photos/photos05/p005.jpg",
         "subjects": [
             "photos"
         ],
