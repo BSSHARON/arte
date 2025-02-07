@@ -50579,7 +50579,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos03/p42jpg",
+                        "src": "/images/photos/photos03/p42.jpg",
                         "alt": ""
                     }
                 ],
