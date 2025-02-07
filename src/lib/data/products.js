@@ -57635,7 +57635,7 @@ export const products = [
         "category": "photos04",
         "header": "BLACK & GOLD",
         "sub": "גלריית תמונות למכירה ",
-        "image": "/images/photos/photos04/ph-001.jpg",
+        "image": "/images/photos/photos04/p004.jpg",
         "subjects": [
             "photos"
         ],
