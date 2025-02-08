@@ -26186,7 +26186,7 @@ export const products = [
                 "price": 1,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-01.jpg",
+                        "src": "/images/photos/photos01/p01.jpg",
                         "alt": ""
                     }
                 ],
@@ -82371,7 +82371,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-01.jpg",
+                        "src": "/images/photos/photos06/p01.jpg",
                         "alt": ""
                     }
                 ],
