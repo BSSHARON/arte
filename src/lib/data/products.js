@@ -26270,7 +26270,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-02.jpg",
+                        "src": "/images/photos/photos01/p02.jpg",
                         "alt": ""
                     }
                 ],
@@ -26354,7 +26354,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-03.jpg",
+                        "src": "/images/photos/photos01/p03.jpg",
                         "alt": ""
                     }
                 ],
@@ -26438,7 +26438,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-04.jpg",
+                        "src": "/images/photos/photos01/p04.jpg",
                         "alt": ""
                     }
                 ],
@@ -26522,7 +26522,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-05.jpg",
+                        "src": "/images/photos/photos01/p05.jpg",
                         "alt": ""
                     }
                 ],
@@ -26606,7 +26606,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-06.jpg",
+                        "src": "/images/photos/photos01/p06.jpg",
                         "alt": ""
                     }
                 ],
@@ -26690,7 +26690,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-07.jpg",
+                        "src": "/images/photos/photos01/p07.jpg",
                         "alt": ""
                     }
                 ],
@@ -26774,7 +26774,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-08.jpg",
+                        "src": "/images/photos/photos01/p08.jpg",
                         "alt": ""
                     }
                 ],
@@ -26858,7 +26858,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-09.jpg",
+                        "src": "/images/photos/photos01/p09.jpg",
                         "alt": ""
                     }
                 ],
@@ -26942,7 +26942,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-10.jpg",
+                        "src": "/images/photos/photos01/p10.jpg",
                         "alt": ""
                     }
                 ],
@@ -27026,7 +27026,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-11.jpg",
+                        "src": "/images/photos/photos01/p11.jpg",
                         "alt": ""
                     }
                 ],
@@ -27110,7 +27110,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-12.jpg",
+                        "src": "/images/photos/photos01/p12.jpg",
                         "alt": ""
                     }
                 ],
@@ -27194,7 +27194,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-13.jpg",
+                        "src": "/images/photos/photos01/p13.jpg",
                         "alt": ""
                     }
                 ],
@@ -27278,7 +27278,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-14.jpg",
+                        "src": "/images/photos/photos01/p14.jpg",
                         "alt": ""
                     }
                 ],
