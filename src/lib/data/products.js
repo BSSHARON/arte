@@ -28370,7 +28370,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-27.jpg",
+                        "src": "/images/photos/photos01/p27.jpg",
                         "alt": ""
                     }
                 ],
@@ -28454,7 +28454,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-28.jpg",
+                        "src": "/images/photos/photos01/p28.jpg",
                         "alt": ""
                     }
                 ],
@@ -28538,7 +28538,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-29.jpg",
+                        "src": "/images/photos/photos01/p29.jpg",
                         "alt": ""
                     }
                 ],
@@ -28622,7 +28622,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-30.jpg",
+                        "src": "/images/photos/photos01/p30.jpg",
                         "alt": ""
                     }
                 ],
@@ -28706,7 +28706,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-31.jpg",
+                        "src": "/images/photos/photos01/p31.jpg",
                         "alt": ""
                     }
                 ],
@@ -28790,7 +28790,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-32.jpg",
+                        "src": "/images/photos/photos01/p32.jpg",
                         "alt": ""
                     }
                 ],
@@ -28874,7 +28874,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-33.jpg",
+                        "src": "/images/photos/photos01/p33.jpg",
                         "alt": ""
                     }
                 ],
@@ -28958,7 +28958,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-34.jpg",
+                        "src": "/images/photos/photos01/p34.jpg",
                         "alt": ""
                     }
                 ],
@@ -29042,7 +29042,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-35.jpg",
+                        "src": "/images/photos/photos01/p35.jpg",
                         "alt": ""
                     }
                 ],
@@ -29126,7 +29126,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-36.jpg",
+                        "src": "/images/photos/photos01/p36.jpg",
                         "alt": ""
                     }
                 ],
@@ -29210,7 +29210,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-37.jpg",
+                        "src": "/images/photos/photos01/p37.jpg",
                         "alt": ""
                     }
                 ],
@@ -29294,7 +29294,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos01/ph-38.jpg",
+                        "src": "/images/photos/photos01/p38.jpg",
                         "alt": ""
                     }
                 ],
