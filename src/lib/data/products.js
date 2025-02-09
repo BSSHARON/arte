@@ -111617,7 +111617,7 @@ export const products = [
     {
         "id": "8000",
         "category": "photos08",
-        "header": "50*100",
+        "header": "ARTE - 50/100",
         "sub": "גלריית תמונות למכירה ",
         "image": "/images/photos/photos08/p000.jpg",
         "subjects": [
