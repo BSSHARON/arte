@@ -103301,7 +103301,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos07/PH-01.jpg",
+                        "src": "/images/photos/photos07/p01.jpg",
                         "alt": ""
                     }
                 ],
@@ -103385,7 +103385,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos07/PH-02.jpg",
+                        "src": "/images/photos/photos07/p02.jpg",
                         "alt": ""
                     }
                 ],
@@ -103469,7 +103469,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos07/PH-03.jpg",
+                        "src": "/images/photos/photos07/p03.jpg",
                         "alt": ""
                     }
                 ],
@@ -103553,7 +103553,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos07/PH-04.jpg",
+                        "src": "/images/photos/photos07/p04.jpg",
                         "alt": ""
                     }
                 ],
@@ -103637,7 +103637,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos07/PH-05.jpg",
+                        "src": "/images/photos/photos07/p05.jpg",
                         "alt": ""
                     }
                 ],
@@ -103721,7 +103721,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos07/PH-06.jpg",
+                        "src": "/images/photos/photos07/p06.jpg",
                         "alt": ""
                     }
                 ],
@@ -103805,7 +103805,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos07/PH-07.jpg",
+                        "src": "/images/photos/photos07/p07.jpg",
                         "alt": ""
                     }
                 ],
@@ -103889,7 +103889,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos07/PH-08.jpg",
+                        "src": "/images/photos/photos07/p08.jpg",
                         "alt": ""
                     }
                 ],
@@ -103973,7 +103973,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos07/PH-09.jpg",
+                        "src": "/images/photos/photos07/p09.jpg",
                         "alt": ""
                     }
                 ],
@@ -104057,7 +104057,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos07/PH-10.jpg",
+                        "src": "/images/photos/photos07/p10.jpg",
                         "alt": ""
                     }
                 ],
@@ -104141,7 +104141,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos07/PH-11.jpg",
+                        "src": "/images/photos/photos07/p11.jpg",
                         "alt": ""
                     }
                 ],
@@ -104225,7 +104225,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos07/PH-12.jpg",
+                        "src": "/images/photos/photos07/p12.jpg",
                         "alt": ""
                     }
                 ],
