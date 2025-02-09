@@ -115724,7 +115724,7 @@ export const products = [
     {
         "id": "9000",
         "category": "photos09",
-        "header": "09",
+        "header": "TRIO",
         "sub": "גלריית תמונות למכירה ",
         "image": "/images/photos/photos09/p000.jpg",
         "subjects": [
