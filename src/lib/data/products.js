@@ -115732,13 +115732,71 @@ export const products = [
         ],
         "items": [
             {
-                "category": "photos03",
-                "id": "3002",
+                "category": "photos09",
+                "id": "9001",
+                "name": "Arte's photos-01",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/photos/photos09/p01.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": " (המידה מציינת תמונה אחת מתוך השלוש) שלישיית תמונות זכוכית, ניתן להזמין בגדלים שונים. הדפסה על קנבס, זכוכית ואלומיניום, המחיר המופיע הוא בעבור כל הסט והמחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            637,
+                            0
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            727,
+                            727
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            922,
+                            922
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            1135,
+                            1135
+                        ]
+                    },
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "photos09",
+                "id": "9002",
                 "name": "Arte's photos-02",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos03/p02.jpg",
+                        "src": "/images/photos/photos09/p02.jpg",
                         "alt": ""
                     }
                 ],
