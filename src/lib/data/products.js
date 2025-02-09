@@ -103287,7 +103287,7 @@ export const products = [
     {
         "id": "7000",
         "category": "photos07",
-        "header": "07",
+        "header": "VIEW",
         "sub": "גלריית תמונות למכירה ",
         "image": "/images/photos/photos07/p000.jpg",
         "subjects": [
@@ -115732,81 +115732,55 @@ export const products = [
         ],
         "items": [
             {
-                "category": "photos09",
-                "id": "9001",
-                "name": "Arte's photos -01",
+                "category": "photos03",
+                "id": "3002",
+                "name": "Arte's photos-02",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos09/p01.jpg",
+                        "src": "/images/photos/photos03/p02.jpg",
                         "alt": ""
                     }
                 ],
-                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנבס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "description": " (המידה מציינת תמונה אחת מתוך השלוש) שלישיית תמונות זכוכית, ניתן להזמין בגדלים שונים. הדפסה על קנבס, זכוכית ואלומיניום, המחיר המופיע הוא בעבור כל הסט והמחירים כוללים מע''מ ומשלוח. ",
                 "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
                 "sizes": [
-                    {
-                        "name": "20x30",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            194,
-                            199
-                        ]
-                    },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            264,
-                            199,
-                            264
+                            637,
+                            0
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            294,
-                            223,
-                            294
+                            727,
+                            727
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            359,
-                            235,
-                            359
+                            922,
+                            922
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            430,
-                            317,
-                            430
+                            1135,
+                            1135
                         ]
                     },
-                    {
-                        "name": "70x100",
-                        "quantity": 0,
-                        "price": [
-                            0,
-                            335,
-                            0
-                        ]
-                    }
                 ],
                 "kind": [
                     {
                         "name": "הדפסה על זכוכית",
-                        "quantity": 0
-                    },
-                    {
-                        "name": "הדפסה על קנבס",
                         "quantity": 0
                     },
                     {
