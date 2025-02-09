@@ -552,81 +552,6 @@ export const products = [
                 "sizes": [],
                 "kind": []
             },
-            {
-                "category": "baton03",
-                "id": "310",
-                "name": "קערת בטון דקורטיבית - נורדי",
-                "price": 65,
-                "images": [
-                    {
-                        "src": "/images/kaarabaton01.jpg",
-                        "alt": "",
-                        "only": true
-                    },
-                    {
-                        "src": "/images/kaara0101.jpg",
-                        "alt": ""
-                    },
-                    {
-                        "src": "/images/kaara0102.jpg",
-                        "alt": ""
-                    }
-                ],
-                "description": "קערת בטון בעבודת יד. מאפיינים: עשויה בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.ניתן להזמין בגוונים: לבן בטון | אפור בטון (יתכן שינוי בטקסטורה | גוון מאחר וזו עבודת יד).",
-                "quote": "גודל הקערה: קוטר חיצוני 14.5 ס”מ קוטר פנימי 13.5 ס”מ גובה 6 ס”מ",
-                "sizes": [],
-                "kind": []
-            },
-            {
-                "category": "baton03",
-                "id": "311",
-                "name": "קערת בטון דקורטיבית - ויטה",
-                "price": 60,
-                "images": [
-                    {
-                        "src": "/images/kaarabaton01.jpg",
-                        "alt": "",
-                        "only": true
-                    },
-                    {
-                        "src": "/images/kaara0201.jpg",
-                        "alt": ""
-                    },
-                    {
-                        "src": "/images/kaara0202.jpg",
-                        "alt": ""
-                    }
-                ],
-                "description": "קערת בטון בעבודת יד.מאפיינים: עשויה בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.ניתן להזמין בגוונים: לבן בטון | אפור בטון (יתכן שינוי בטקסטורה | גוון מאחר וזו עבודת יד).",
-                "quote": "גודל הקערה: קוטר חיצוני 18 ס”מ קוטר פנימי 17 ס”מ גובה 6 ס”מ",
-                "sizes": [],
-                "kind": []
-            },
-            {
-                "category": "baton03",
-                "id": "312",
-                "name": "קערת בטון דקורטיבית - פירנצה",
-                "price": 70,
-                "images": [
-                    {
-                        "src": "/images/kaarabaton01.jpg",
-                        "alt": "",
-                        "only": true
-                    },
-                    {
-                        "src": "/images/kaara0301.jpg",
-                        "alt": ""
-                    },
-                    {
-                        "src": "/images/kaara0302.jpg",
-                        "alt": ""
-                    }
-                ],
-                "description": "קערת בטון בעבודת יד. מאפיינים: עשויה בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.\ ניתן להזמין בגוונים: לבן בטון / אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
-                "quote": "גודל הקערה: קוטר חיצוני 25 ס”מ קוטר פנימי 23.5 ס”מ גובה 9 ס”מ",
-                "sizes": [],
-                "kind": []
-            }
         ]
     },
     {
@@ -721,16 +646,16 @@ export const products = [
                 "price": 50,
                 "images": [
                     {
-                        "src": "/images/kaarabaton01.jpg",
+                        "src": "/images/pamotim04.jpg",
                         "alt": "",
                         "only": true
                     },
                     {
-                        "src": "/images/pamotim04.jpg",
+                        "src": "/images/pamotim04.01.jpg",
                         "alt": ""
                     },
                     {
-                        "src": "/images/pamotim04.jpg",
+                        "src": "/images/pamotim04.02.jpg",
                         "alt": ""
                     }
                 ],
@@ -746,16 +671,16 @@ export const products = [
                 "price": 70,
                 "images": [
                     {
-                        "src": "/images/kaarabaton01.jpg",
+                        "src": "/images/pamotim05.jpg",
                         "alt": "",
                         "only": true
                     },
                     {
-                        "src": "/images/pamotim05.jpg",
+                        "src": "/images/pamotim0501.jpg",
                         "alt": ""
                     },
                     {
-                        "src": "/images/pamotim05.jpg",
+                        "src": "/images/pamotim0501.jpg",
                         "alt": ""
                     }
                 ],
@@ -771,7 +696,7 @@ export const products = [
                 "price": 60,
                 "images": [
                     {
-                        "src": "/images/kaarabaton01.jpg",
+                        "src": "/images/pamotim06.jpg",
                         "alt": "",
                         "only": true
                     },
@@ -796,7 +721,7 @@ export const products = [
                 "price": 45,
                 "images": [
                     {
-                        "src": "/images/kaarabaton01.jpg",
+                        "src": "/images/pamotim07.jpg",
                         "alt": "",
                         "only": true
                     },
@@ -896,7 +821,7 @@ export const products = [
                         "alt": ""
                     }
                 ],
-                "description": "זוג פסלוני בטון בעבודת יד. מאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתית - צבעים ניטרליים.ניתן להזמין בגוונים: לבן בטון | אפור בטון (יתכן שינוי בטקסטורה |גוון מאחר וזו עבודת יד).",
+                "description": "זוג פסלוני בטון בעבודת יד. מאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתי - צבעים ניטרליים.ניתן להזמין בגוונים: לבן בטון | אפור בטון (יתכן שינוי בטקסטורה |גוון מאחר וזו עבודת יד).",
                 "quote": "גודל הפסלונים: קוטר חיצוני 5 ס”מ גובה 9.5 ס”מ",
                 "sizes": [],
                 "kind": []
