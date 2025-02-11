@@ -3655,7 +3655,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 02.jpg",
+                        "src": "/images/digital/digital02/arte - 02.jpg",
                         "alt": ""
                     }
                 ],
