@@ -1375,7 +1375,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 01.jpg",
+                        "src": "/images/digital/digital01/01.jpg",
                         "alt": ""
                     }
                 ],
@@ -1459,7 +1459,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 02.jpg",
+                        "src": "/images/digital/digital01/02.jpg",
                         "alt": ""
                     }
                 ],
@@ -1543,7 +1543,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 03.jpg",
+                        "src": "/images/digital/digital01/03.jpg",
                         "alt": ""
                     }
                 ],
@@ -1627,7 +1627,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 04.jpg",
+                        "src": "/images/digital/digital01/04.jpg",
                         "alt": ""
                     }
                 ],
@@ -1711,7 +1711,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 05.jpg",
+                        "src": "/images/digital/digital01/05.jpg",
                         "alt": ""
                     }
                 ],
@@ -1795,7 +1795,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 06.jpg",
+                        "src": "/images/digital/digital01/06.jpg",
                         "alt": ""
                     }
                 ],
@@ -1879,7 +1879,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 07.jpg",
+                        "src": "/images/digital/digital01/07.jpg",
                         "alt": ""
                     }
                 ],
@@ -1963,7 +1963,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 08.jpg",
+                        "src": "/images/digital/digital01/08.jpg",
                         "alt": ""
                     }
                 ],
@@ -2047,7 +2047,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 09.jpg",
+                        "src": "/images/digital/digital01/09.jpg",
                         "alt": ""
                     }
                 ],
@@ -2131,7 +2131,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 10.jpg",
+                        "src": "/images/digital/digital01/10.jpg",
                         "alt": ""
                     }
                 ],
@@ -2215,7 +2215,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 11.jpg",
+                        "src": "/images/digital/digital01/11.jpg",
                         "alt": ""
                     }
                 ],
@@ -2299,7 +2299,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 12.jpg",
+                        "src": "/images/digital/digital01/12.jpg",
                         "alt": ""
                     }
                 ],
@@ -2383,7 +2383,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 13.jpg",
+                        "src": "/images/digital/digital01/13.jpg",
                         "alt": ""
                     }
                 ],
@@ -2467,7 +2467,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 14.jpg",
+                        "src": "/images/digital/digital01/14.jpg",
                         "alt": ""
                     }
                 ],
@@ -2551,7 +2551,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 15.jpg",
+                        "src": "/images/digital/digital01/15.jpg",
                         "alt": ""
                     }
                 ],
@@ -2635,7 +2635,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 16.jpg",
+                        "src": "/images/digital/digital01/16.jpg",
                         "alt": ""
                     }
                 ],
@@ -2719,7 +2719,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 17.jpg",
+                        "src": "/images/digital/digital01/17.jpg",
                         "alt": ""
                     }
                 ],
@@ -2803,7 +2803,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 18.jpg",
+                        "src": "/images/digital/digital01/18.jpg",
                         "alt": ""
                     }
                 ],
@@ -2887,7 +2887,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 19.jpg",
+                        "src": "/images/digital/digital01/19.jpg",
                         "alt": ""
                     }
                 ],
@@ -2971,7 +2971,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 20.jpg",
+                        "src": "/images/digital/digital01/20.jpg",
                         "alt": ""
                     }
                 ],
@@ -3055,7 +3055,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 21.jpg",
+                        "src": "/images/digital/digital01/21.jpg",
                         "alt": ""
                     }
                 ],
@@ -3139,7 +3139,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 22.jpg",
+                        "src": "/images/digital/digital01/22.jpg",
                         "alt": ""
                     }
                 ],
@@ -3223,7 +3223,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 23.jpg",
+                        "src": "/images/digital/digital01/23.jpg",
                         "alt": ""
                     }
                 ],
@@ -3307,7 +3307,259 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/arte - 24.jpg",
+                        "src": "/images/digital/digital01/24.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנבס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנבס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50025",
+                "name": "Arte's Art -25",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/25.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנבס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנבס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50026",
+                "name": "Arte's Art -26",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/26.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנבס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנבס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50027",
+                "name": "Arte's Art -27",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/27.jpg",
                         "alt": ""
                     }
                 ],
@@ -3391,7 +3643,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/PH-28.jpg",
+                        "src": "/images/digital/digital01/28.jpg",
                         "alt": ""
                     }
                 ],
@@ -3470,12 +3722,12 @@ export const products = [
             },
             {
                 "category": "digitalart01",
-                "id": "50099",
-                "name": "Arte's Art -99",
+                "id": "50029",
+                "name": "Arte's Art -29",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital01/ARTE-01.jpg",
+                        "src": "/images/digital/digital01/29.jpg",
                         "alt": ""
                     }
                 ],
@@ -3487,44 +3739,44 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            294,
-                            299
+                            194,
+                            199
                         ]
                     },
                     {
                         "name": "30x45",
                         "quantity": 0,
                         "price": [
-                            364,
-                            299,
-                            364
+                            264,
+                            199,
+                            264
                         ]
                     },
                     {
                         "name": "40x60",
                         "quantity": 0,
                         "price": [
-                            394,
-                            323,
-                            394
+                            294,
+                            223,
+                            294
                         ]
                     },
                     {
                         "name": "50x70",
                         "quantity": 0,
                         "price": [
-                            459,
-                            335,
-                            459
+                            359,
+                            235,
+                            359
                         ]
                     },
                     {
                         "name": "60x90",
                         "quantity": 0,
                         "price": [
-                            530,
-                            417,
-                            530
+                            430,
+                            317,
+                            430
                         ]
                     },
                     {
@@ -3532,7 +3784,679 @@ export const products = [
                         "quantity": 0,
                         "price": [
                             0,
-                            435,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנבס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50030",
+                "name": "Arte's Art -30",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/30.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנבס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנבס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50031",
+                "name": "Arte's Art -31",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/31.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנבס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנבס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50032",
+                "name": "Arte's Art -32",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/32.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנבס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנבס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50033",
+                "name": "Arte's Art -33",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/33.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנבס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנבס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50034",
+                "name": "Arte's Art -34",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/34.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנבס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנבס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50035",
+                "name": "Arte's Art -35",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/35.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנבס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנבס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50036",
+                "name": "Arte's Art -36",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/36.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנבס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנבס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart01",
+                "id": "50037",
+                "name": "Arte's Art -37",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital01/37.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנבס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
                             0
                         ]
                     }
@@ -3571,7 +4495,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital02/arte - 01.jpg",
+                        "src": "/images/digital/digital02/01.jpg",
                         "alt": ""
                     }
                 ],
@@ -3655,7 +4579,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital02/arte - 02.jpg",
+                        "src": "/images/digital/digital02/02.jpg",
                         "alt": ""
                     }
                 ],
@@ -3739,7 +4663,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital02/arte - 03.jpg",
+                        "src": "/images/digital/digital02/03.jpg",
                         "alt": ""
                     }
                 ],
@@ -3823,7 +4747,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital02/arte - 04.jpg",
+                        "src": "/images/digital/digital02/04.jpg",
                         "alt": ""
                     }
                 ],
@@ -3907,7 +4831,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital02/arte - 05.jpg",
+                        "src": "/images/digital/digital02/05.jpg",
                         "alt": ""
                     }
                 ],
@@ -3991,7 +4915,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital02/arte - 24.jpg",
+                        "src": "/images/digital/digital02/06.jpg",
                         "alt": ""
                     }
                 ],
@@ -4075,7 +4999,175 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital02/arte - 24.jpg",
+                        "src": "/images/digital/digital02/07.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנבס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנבס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart02",
+                "id": "60008",
+                "name": "Arte's Art -08",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital02/08.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "  ניתן להזמין בגדלים שונים. הדפסה על קנבס, זכוכית ואלומיניום, המחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "20x30",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            194,
+                            199
+                        ]
+                    },
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            264,
+                            199,
+                            264
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            294,
+                            223,
+                            294
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            359,
+                            235,
+                            359
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            430,
+                            317,
+                            430
+                        ]
+                    },
+                    {
+                        "name": "70x100",
+                        "quantity": 0,
+                        "price": [
+                            0,
+                            335,
+                            0
+                        ]
+                    }
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": "הדפסה על קנבס",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "digitalart02",
+                "id": "60009",
+                "name": "Arte's Art -09",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/digital/digital02/09.jpg",
                         "alt": ""
                     }
                 ],
@@ -4171,7 +5263,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-01.jpg",
+                        "src": "/images/digital/digital03/01.jpg",
                         "alt": ""
                     }
                 ],
@@ -4255,7 +5347,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-02.jpg",
+                        "src": "/images/digital/digital03/02.jpg",
                         "alt": ""
                     }
                 ],
@@ -4339,7 +5431,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-03.jpg",
+                        "src": "/images/digital/digital03/03.jpg",
                         "alt": ""
                     }
                 ],
@@ -4423,7 +5515,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-04.jpg",
+                        "src": "/images/digital/digital03/04.jpg",
                         "alt": ""
                     }
                 ],
@@ -4507,7 +5599,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-05.jpg",
+                        "src": "/images/digital/digital03/05.jpg",
                         "alt": ""
                     }
                 ],
@@ -4591,7 +5683,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-06.jpg",
+                        "src": "/images/digital/digital03/06.jpg",
                         "alt": ""
                     }
                 ],
@@ -4675,7 +5767,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-07.jpg",
+                        "src": "/images/digital/digital03/07.jpg",
                         "alt": ""
                     }
                 ],
@@ -4759,7 +5851,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-08.jpg",
+                        "src": "/images/digital/digital03/08.jpg",
                         "alt": ""
                     }
                 ],
@@ -4843,7 +5935,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-09.jpg",
+                        "src": "/images/digital/digital03/09.jpg",
                         "alt": ""
                     }
                 ],
@@ -4927,7 +6019,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-10.jpg",
+                        "src": "/images/digital/digital03/10.jpg",
                         "alt": ""
                     }
                 ],
@@ -5011,7 +6103,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-11.jpg",
+                        "src": "/images/digital/digital03/11.jpg",
                         "alt": ""
                     }
                 ],
@@ -5095,7 +6187,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-12.jpg",
+                        "src": "/images/digital/digital03/12.jpg",
                         "alt": ""
                     }
                 ],
@@ -5179,7 +6271,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-13.jpg",
+                        "src": "/images/digital/digital03/13.jpg",
                         "alt": ""
                     }
                 ],
@@ -5263,7 +6355,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/digital/digital03/PH-14.jpg",
+                        "src": "/images/digital/digital03/14.jpg",
                         "alt": ""
                     }
                 ],
