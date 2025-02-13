@@ -5271,7 +5271,7 @@ export const products = [
                 "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
                 "sizes": [
                     {
-                        "name": "20x30",
+                        "name": "30x30",
                         "quantity": 0,
                         "price": [
                             0,
@@ -5280,7 +5280,7 @@ export const products = [
                         ]
                     },
                     {
-                        "name": "30x45",
+                        "name": "40x40",
                         "quantity": 0,
                         "price": [
                             264,
@@ -5289,7 +5289,7 @@ export const products = [
                         ]
                     },
                     {
-                        "name": "40x60",
+                        "name": "50x50",
                         "quantity": 0,
                         "price": [
                             294,
@@ -5298,7 +5298,7 @@ export const products = [
                         ]
                     },
                     {
-                        "name": "50x70",
+                        "name": "60x60",
                         "quantity": 0,
                         "price": [
                             359,
@@ -5307,7 +5307,7 @@ export const products = [
                         ]
                     },
                     {
-                        "name": "60x90",
+                        "name": "70x70",
                         "quantity": 0,
                         "price": [
                             430,
@@ -5316,7 +5316,7 @@ export const products = [
                         ]
                     },
                     {
-                        "name": "70x100",
+                        "name": "80x80",
                         "quantity": 0,
                         "price": [
                             0,
