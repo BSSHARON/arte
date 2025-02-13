@@ -1206,7 +1206,7 @@ export const products = [
         "id": "100",
         "category": "oilpaintings",
         "header": "ציורי שמן",
-        "image": "/images/oilpaintings02.jpg",
+        "image": "/images/oilpaintings01.jpg",
         "sub": "ציור בצבעי שמן על בד קנבס,",
         "subjects": [
             "oilpaintings"
@@ -1219,7 +1219,7 @@ export const products = [
                 "price": 3050,
                 "images": [
                     {
-                        "src": "/images/oilpaintings01.jpg",
+                        "src": "/images/oilpaintings02.jpg",
                         "alt": ""
                     }
                 ],
@@ -1235,7 +1235,7 @@ export const products = [
                 "price": 3050,
                 "images": [
                     {
-                        "src": "/images/oilpaintings02.jpg",
+                        "src": "/images/oilpaintings03.jpg",
                         "alt": ""
                     }
                 ],
@@ -1251,7 +1251,7 @@ export const products = [
                 "price": 3200,
                 "images": [
                     {
-                        "src": "/images/oilpaintings03.jpg",
+                        "src": "/images/oilpaintings04.jpg",
                         "alt": ""
                     }
                 ],
@@ -1267,7 +1267,7 @@ export const products = [
                 "price": 4050,
                 "images": [
                     {
-                        "src": "/images/oilpaintings04.jpg",
+                        "src": "/images/oilpaintings05.jpg",
                         "alt": ""
                     }
                 ],
@@ -1315,7 +1315,7 @@ export const products = [
                 "price": 3100,
                 "images": [
                     {
-                        "src": "/images/oilpaintings07.jpg",
+                        "src": "/images/oilpaintings05.jpg",
                         "alt": ""
                     }
                 ],
