@@ -1299,7 +1299,7 @@ export const products = [
                 "price": 3050,
                 "images": [
                     {
-                        "src": "/images/oilpaintings05.jpg",
+                        "src": "/images/oilpaintings06.jpg",
                         "alt": ""
                     }
                 ],
@@ -1331,7 +1331,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/oilpaintings05.jpg",
+                        "src": "/images/oilpaintings06.jpg",
                         "alt": ""
                     }
                 ],
@@ -1347,7 +1347,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/oilpaintings05.jpg",
+                        "src": "/images/oilpaintings06.jpg",
                         "alt": ""
                     }
                 ],
