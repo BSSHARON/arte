@@ -1219,7 +1219,7 @@ export const products = [
                 "price": 3050,
                 "images": [
                     {
-                        "src": "/images/oilpaintings02.jpg",
+                        "src": "/images/oilpaintings01.jpg",
                         "alt": ""
                     }
                 ],
@@ -1235,7 +1235,7 @@ export const products = [
                 "price": 3050,
                 "images": [
                     {
-                        "src": "/images/oilpaintings03.jpg",
+                        "src": "/images/oilpaintings02.jpg",
                         "alt": ""
                     }
                 ],
@@ -1251,7 +1251,7 @@ export const products = [
                 "price": 3200,
                 "images": [
                     {
-                        "src": "/images/oilpaintings04.jpg",
+                        "src": "/images/oilpaintings03.jpg",
                         "alt": ""
                     }
                 ],
@@ -1267,7 +1267,7 @@ export const products = [
                 "price": 4050,
                 "images": [
                     {
-                        "src": "/images/oilpaintings05.jpg",
+                        "src": "/images/oilpaintings04.jpg",
                         "alt": ""
                     }
                 ],
@@ -1299,7 +1299,7 @@ export const products = [
                 "price": 3050,
                 "images": [
                     {
-                        "src": "/images/oilpaintings06.jpg",
+                        "src": "/images/oilpaintings05.jpg",
                         "alt": ""
                     }
                 ],
@@ -1331,7 +1331,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/oilpaintings08.jpg",
+                        "src": "/images/oilpaintings05.jpg",
                         "alt": ""
                     }
                 ],
@@ -1347,7 +1347,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/oilpaintings09.jpg",
+                        "src": "/images/oilpaintings05.jpg",
                         "alt": ""
                     }
                 ],
