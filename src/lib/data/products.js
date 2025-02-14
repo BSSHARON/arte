@@ -685,7 +685,7 @@ export const products = [
                     }
                 ],
                 "description": "שלישית פמוטים נר עומד בטון בעבודת יד. מאפיינים: עשוי בטון עמיד ואיכותי - צבעים ניטרליים. ניתן להזמין בגוונים: לבן בטון | אפור בטון (יתכן שינוי בטקסטורה | גוון מאחר וזו עבודת יד).",
-                "quote": "גודל זוג פמוטים: קוטר חיצוני 4.5 ס”מ גובה 8/6/4 ס”מ",
+                "quote": "גודל שלישית פמוטים: קוטר חיצוני 4.5 ס”מ גובה 8/6/4 ס”מ",
                 "sizes": [],
                 "kind": []
             },
@@ -1128,22 +1128,18 @@ export const products = [
             {
                 "category": "baton07",
                 "id": "701",
-                "name": "אגרטל בטון דקורטיבית - סתיו",
-                "price": 70,
+                "name": "Lovely White 1",
+                "price": 170,
                 "images": [
                     {
-                        "src": "/images/agratebaton01.jpg",
+                        "src": "/images/Lovely White1.jpg",
                         "alt": "",
                         "only": true
                     },
                     {
-                        "src": "/images/agratel0101.jpg",
+                        "src": "/images/Lovely White1.jpg",
                         "alt": ""
                     },
-                    {
-                        "src": "/images/agratel0102.jpg",
-                        "alt": ""
-                    }
                 ],
                 "description": "אגרטל בטון בעבודת יד. מאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתי - צבעים ניטרליים. ניתן להזמין בגוונים: לבן בטון | אפור בטון (יתכן שינוי בטקסטורה | גוון מאחר וזו עבודת יד).",
                 "quote": "גודל האגרטל: קוטר חיצוני 7.5 ס”מ גובה 17.5 ס”מ",
@@ -1153,22 +1149,18 @@ export const products = [
             {
                 "category": "baton07",
                 "id": "702",
-                "name": "אגרטל בטון דקורטיבי - יובל",
-                "price": 70,
+                "name": "Lovely White 2",
+                "price": 130,
                 "images": [
                     {
-                        "src": "/images/agratebaton02.jpg",
+                        "src": "/images/Lovely White2.jpg",
                         "alt": "",
                         "only": true
                     },
                     {
-                        "src": "/images/agratel0201.jpg",
+                        "src": "/Lovely White2.jpg",
                         "alt": ""
                     },
-                    {
-                        "src": "/images/agratel0202.jpg",
-                        "alt": ""
-                    }
                 ],
                 "description": "אגרטל בטון בעבודת יד. מאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתי - צבעים ניטרליים. ניתן להזמין בגוונים: לבן בטון | אפור בטון (יתכן שינוי בטקסטורה | גוון מאחר וזו עבודת יד).",
                 "quote": "גודל האגרטל: קוטר חיצוני 10 ס”מ גובה 14 ס”מ",
@@ -1178,22 +1170,81 @@ export const products = [
             {
                 "category": "baton04",
                 "id": "134",
-                "name": "אגרטל בטון דקורטיבי - תאיר",
-                "price": 70,
+                "name": "Minimal Moods 1",
+                "price": 170,
                 "images": [
                     {
-                        "src": "/images/agratebaton03.jpg",
+                        "src": "/images/MinimalMoods1.jpg",
                         "alt": "",
                         "only": true
                     },
                     {
-                        "src": "/images/agratel0301.jpg",
+                        "src": "/MinimalMoods1.jpg",
                         "alt": ""
                     },
+                ],
+                "description": "אגרטל בטון בעבודת יד. מאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתי - צבעים ניטרליים. ניתן להזמין בגוונים: לבן בטון | אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
+                "quote": "גודל האגרטל:\\nקוטר חיצוני 16.5 ס”מ\\nגובה 13 ס”מ",
+                "sizes": [],
+                "kind": []
+            },
+            {
+                "category": "baton04",
+                "id": "134",
+                "name": "Minimal Moods 2",
+                "price": 130,
+                "images": [
                     {
-                        "src": "/images/agratel0302.jpg",
+                        "src": "/images/MinimalMoods2.jpg",
+                        "alt": "",
+                        "only": true
+                    },
+                    {
+                        "src": "/MinimalMoods2.jpg",
                         "alt": ""
-                    }
+                    },
+                ],
+                "description": "אגרטל בטון בעבודת יד. מאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתי - צבעים ניטרליים. ניתן להזמין בגוונים: לבן בטון | אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
+                "quote": "גודל האגרטל:\\nקוטר חיצוני 16.5 ס”מ\\nגובה 13 ס”מ",
+                "sizes": [],
+                "kind": []
+            },
+            {
+                "category": "baton04",
+                "id": "134",
+                "name": "Minimal Moods1",
+                "price": 170,
+                "images": [
+                    {
+                        "src": "/images/MinimalMoods1.jpg",
+                        "alt": "",
+                        "only": true
+                    },
+                    {
+                        "src": "/MinimalMoods1.jpg",
+                        "alt": ""
+                    },
+                ],
+                "description": "אגרטל בטון בעבודת יד. מאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתי - צבעים ניטרליים. ניתן להזמין בגוונים: לבן בטון | אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
+                "quote": "גודל האגרטל:\\nקוטר חיצוני 16.5 ס”מ\\nגובה 13 ס”מ",
+                "sizes": [],
+                "kind": []
+            },
+            {
+                "category": "baton04",
+                "id": "134",
+                "name": "Minimal Moods1",
+                "price": 170,
+                "images": [
+                    {
+                        "src": "/images/MinimalMoods1.jpg",
+                        "alt": "",
+                        "only": true
+                    },
+                    {
+                        "src": "/MinimalMoods1.jpg",
+                        "alt": ""
+                    },
                 ],
                 "description": "אגרטל בטון בעבודת יד. מאפיינים: עשוי בטון עמיד ואיכותי - רב תכליתי - צבעים ניטרליים. ניתן להזמין בגוונים: לבן בטון | אפור בטון (יתכן שינוי בטקסטורה/גוון מאחר וזו עבודת יד).",
                 "quote": "גודל האגרטל:\\nקוטר חיצוני 16.5 ס”מ\\nגובה 13 ס”מ",
