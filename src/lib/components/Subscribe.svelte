@@ -32,8 +32,8 @@ let a = $state(false)
             <div class="row">
                 <div class="col-lg-8">
                     <div class="section-heading">
-                        <h2>מוזמנים ליצור איתי קשר </h2>
-                        <span>מידע נוסף מוזמנים לדבר איתי בווטסאפ - 050-2374217</span>
+                        <h2>  יצירת קשר </h2>
+                        <span>    זמין לשאלות בווטסאפ - 050-2374217</span>
                     </div>
                     <form id="subscribe" action="" method="get">
                         <div class="row">
