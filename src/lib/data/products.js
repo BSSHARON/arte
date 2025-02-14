@@ -1169,17 +1169,17 @@ export const products = [
             },
             {
                 "category": "baton04",
-                "id": "134",
-                "name": "Minimal Moods 1",
+                "id": "703",
+                "name": "MinimalMoods 2",
                 "price": 170,
                 "images": [
                     {
-                        "src": "/images/MinimalMoods1.jpg",
+                        "src": "/images/MinimalMoods2.jpg",
                         "alt": "",
                         "only": true
                     },
                     {
-                        "src": "/MinimalMoods1.jpg",
+                        "src": "/MinimalMoods2.jpg",
                         "alt": ""
                     },
                 ],
@@ -1190,7 +1190,7 @@ export const products = [
             },
             {
                 "category": "baton04",
-                "id": "134",
+                "id": "704",
                 "name": "Minimal Moods 2",
                 "price": 130,
                 "images": [
@@ -1211,17 +1211,17 @@ export const products = [
             },
             {
                 "category": "baton04",
-                "id": "134",
-                "name": "Minimal Moods1",
-                "price": 170,
+                "id": "705",
+                "name": "Neutral Vibes",
+                "price": 130,
                 "images": [
                     {
-                        "src": "/images/MinimalMoods1.jpg",
+                        "src": "/images/Neutral Vibes.jpg",
                         "alt": "",
                         "only": true
                     },
                     {
-                        "src": "/MinimalMoods1.jpg",
+                        "src": "/Neutral Vibes.jpg",
                         "alt": ""
                     },
                 ],
@@ -1232,7 +1232,7 @@ export const products = [
             },
             {
                 "category": "baton04",
-                "id": "134",
+                "id": "706",
                 "name": "Minimal Moods1",
                 "price": 170,
                 "images": [
