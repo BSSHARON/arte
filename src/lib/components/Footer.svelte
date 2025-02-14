@@ -25,8 +25,8 @@
             <div class="col-lg-3">
                 <h4>מארזים ומתנות </h4>
                 <ul>
-                    <li><a href="/me'arzim01">מארזים - בטון</a></li>
-                    <li><a href="/Candles">נרות, מבשמים ואווירה</a></li>
+                    <li><a href="/baton07">מארזים - בטון</a></li>
+                    <li><a href="/baton06">נרות, מבשמים ואווירה</a></li>
                     <li><a href="/Candles"> SALE</a></li>
                 </ul>
             </div>
