@@ -8,7 +8,7 @@
                     </div>
                     <ul  dir="rtl">
                         <li  dir="rtl"><a href="#">BE YOU. DO YOU. FOR YOU</a></li>
-                        <li><a href="https://wa.me/972502374217">דברו איתי בווטסאפ</a></li>
+                        <li><a href="https://wa.me/972502374217">זמין לכם בווטסאפ</a></li>
                         <li><a href="tel:+9720502374217">050-2374217</a></li>
                     </ul>
                 </div>

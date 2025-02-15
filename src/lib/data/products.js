@@ -1158,7 +1158,7 @@ export const products = [
                         "only": true
                     },
                     {
-                        "src": "/Lovely White2.jpg",
+                        "src": "/images/Lovely White2.jpg",
                         "alt": ""
                     },
                 ],
