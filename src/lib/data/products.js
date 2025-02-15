@@ -1170,16 +1170,16 @@ export const products = [
             {
                 "category": "baton04",
                 "id": "703",
-                "name": "MinimalMoods 2",
+                "name": "MinimalMoods 1",
                 "price": 170,
                 "images": [
                     {
-                        "src": "/images/MinimalMoods2.jpg",
+                        "src": "/images/MinimalMoods1.jpg",
                         "alt": "",
                         "only": true
                     },
                     {
-                        "src": "/MinimalMoods2.jpg",
+                        "src": "/images/MinimalMoods1.jpg",
                         "alt": ""
                     },
                 ],
@@ -1232,17 +1232,17 @@ export const products = [
             },
             {
                 "category": "baton04",
-                "id": "706",
-                "name": "Minimal Moods1",
-                "price": 170,
+                "id": "705",
+                "name": "Neutral Vibes",
+                "price": 130,
                 "images": [
                     {
-                        "src": "/images/MinimalMoods1.jpg",
+                        "src": "/images/Neutral Vibes.jpg",
                         "alt": "",
                         "only": true
                     },
                     {
-                        "src": "/MinimalMoods1.jpg",
+                        "src": "/Neutral Vibes.jpg",
                         "alt": ""
                     },
                 ],
