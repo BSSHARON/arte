@@ -33,7 +33,7 @@ let a = $state(false)
                 <div class="col-lg-8">
                     <div class="section-heading">
                         <h2>  יצירת קשר </h2>
-                        <span>    זמין לשאלות בווטסאפ - 050-2374217</span>
+                        <span>    זמין לכם בווטסאפ - 050-2374217</span>
                     </div>
                     <form id="subscribe" action="" method="get">
                         <div class="row">
@@ -63,15 +63,15 @@ let a = $state(false)
                     <div class="row">
                         <div class="col-6">
                             <ul>
-                                <li>כתובתנו <br><span>ראשון לציון בתיאום מראש בלבד</span></li>
+                                <li>כתובתנו <br><span>ראשון לציון </span></li>
                                 <li>טלפון | ווצאפ<br><span>050-2374217</span></li>
-                                <li>. . .<br><span>. . . .</span></li>
+                                <li>דוא"ל<br><span><a href="mailto:s0528844911@gmail.com">arte.bs10@gmail.com</a></span></li>
                             </ul>
                         </div>
                         <div class="col-6">
                             <ul>
                                 <li>שעות פעילות:<br><span>08:00  - 20:00 </span></li>
-                                <li>דוא"ל<br><span><a href="mailto:s0528844911@gmail.com">arte.bsharon@gmail.com</a></span></li>
+                                <li>כתובתנו <br><span>ראשון לציון </span></li>
                                 <li>רשתות חברתיות<br><span><a href="https://www.facebook.com/profile.php?id=61557695587039">Facebook</a>, <a href="https://www.instagram.com/arte.bsharon/">Instagram</a>, 
                             </ul>
                         </div>
