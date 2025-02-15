@@ -69,7 +69,7 @@
                                             <h4>אומנות דיגיטלית</h4>
                                             <p>אומנות דיגיטלית יחודית - תמונות וציורים</p>
                                             <div class="main-border-button">
-                                                <a href="/subject/art">קרא עוד</a>
+                                                <a href="/subject/photos">קרא עוד</a>
                                             </div>
                                         </div>
                                     </div>
