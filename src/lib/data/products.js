@@ -83941,7 +83941,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-21.jpg",
+                        "src": "/images/photos/photos06/P21.jpg",
                         "alt": ""
                     }
                 ],
@@ -84025,7 +84025,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-22.jpg",
+                        "src": "/images/photos/photos06/P22.jpg",
                         "alt": ""
                     }
                 ],
@@ -84109,7 +84109,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-23.jpg",
+                        "src": "/images/photos/photos06/P23.jpg",
                         "alt": ""
                     }
                 ],
@@ -84193,7 +84193,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-24.jpg",
+                        "src": "/images/photos/photos06/P24.jpg",
                         "alt": ""
                     }
                 ],
@@ -84277,7 +84277,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-25.jpg",
+                        "src": "/images/photos/photos06/P25.jpg",
                         "alt": ""
                     }
                 ],
@@ -84361,7 +84361,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-26.jpg",
+                        "src": "/images/photos/photos06/P26.jpg",
                         "alt": ""
                     }
                 ],
@@ -84445,7 +84445,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-27.jpg",
+                        "src": "/images/photos/photos06/P27.jpg",
                         "alt": ""
                     }
                 ],
@@ -84529,7 +84529,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-28.jpg",
+                        "src": "/images/photos/photos06/P28.jpg",
                         "alt": ""
                     }
                 ],
@@ -84613,7 +84613,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-29.jpg",
+                        "src": "/images/photos/photos06/P29.jpg",
                         "alt": ""
                     }
                 ],
@@ -84697,7 +84697,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-30.jpg",
+                        "src": "/images/photos/photos06/P30.jpg",
                         "alt": ""
                     }
                 ],
@@ -84781,7 +84781,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-31.jpg",
+                        "src": "/images/photos/photos06/P31.jpg",
                         "alt": ""
                     }
                 ],
@@ -84865,7 +84865,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-32.jpg",
+                        "src": "/images/photos/photos06/P32.jpg",
                         "alt": ""
                     }
                 ],
@@ -84949,7 +84949,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-33.jpg",
+                        "src": "/images/photos/photos06/P33.jpg",
                         "alt": ""
                     }
                 ],
@@ -85033,7 +85033,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-34.jpg",
+                        "src": "/images/photos/photos06/P34.jpg",
                         "alt": ""
                     }
                 ],
@@ -85117,7 +85117,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-35.jpg",
+                        "src": "/images/photos/photos06/P35.jpg",
                         "alt": ""
                     }
                 ],
@@ -85201,7 +85201,7 @@ export const products = [
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos06/PH-36.jpg",
+                        "src": "/images/photos/photos06/P36.jpg",
                         "alt": ""
                     }
                 ],
@@ -103829,12 +103829,360 @@ export const products = [
             },
             {
                 "category": "photos09",
-                "id": "9009",
-                "name": "Arte's photos-09",
+                "id": "9012",
+                "name": "Arte's photos-12",
                 "price": 0,
                 "images": [
                     {
-                        "src": "/images/photos/photos09/p09.jpg",
+                        "src": "/images/photos/photos09/p12.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "         שלישיית תמונות דיגיטליות בהדפסה איכותית (זכוכית/אלומיניום). ניתן להזמין בגדלים שונים(המידה מציינת גודל של יחידה אחת מתוך השלוש). המחיר עבור סט שלושה חלקים. והמחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            637,
+                            0
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            727,
+                            727
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            922,
+                            922
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            1135,
+                            1135
+                        ]
+                    },
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "photos09",
+                "id": "9013",
+                "name": "Arte's photos-13",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/photos/photos09/p13.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "         שלישיית תמונות דיגיטליות בהדפסה איכותית (זכוכית/אלומיניום). ניתן להזמין בגדלים שונים(המידה מציינת גודל של יחידה אחת מתוך השלוש). המחיר עבור סט שלושה חלקים. והמחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            637,
+                            0
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            727,
+                            727
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            922,
+                            922
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            1135,
+                            1135
+                        ]
+                    },
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "photos09",
+                "id": "9014",
+                "name": "Arte's photos-14",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/photos/photos09/p14.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "         שלישיית תמונות דיגיטליות בהדפסה איכותית (זכוכית/אלומיניום). ניתן להזמין בגדלים שונים(המידה מציינת גודל של יחידה אחת מתוך השלוש). המחיר עבור סט שלושה חלקים. והמחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            637,
+                            0
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            727,
+                            727
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            922,
+                            922
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            1135,
+                            1135
+                        ]
+                    },
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "photos09",
+                "id": "9015",
+                "name": "Arte's photos-15",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/photos/photos09/p15.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "         שלישיית תמונות דיגיטליות בהדפסה איכותית (זכוכית/אלומיניום). ניתן להזמין בגדלים שונים(המידה מציינת גודל של יחידה אחת מתוך השלוש). המחיר עבור סט שלושה חלקים. והמחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            637,
+                            0
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            727,
+                            727
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            922,
+                            922
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            1135,
+                            1135
+                        ]
+                    },
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "photos09",
+                "id": "9016",
+                "name": "Arte's photos-16",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/photos/photos09/p16.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "         שלישיית תמונות דיגיטליות בהדפסה איכותית (זכוכית/אלומיניום). ניתן להזמין בגדלים שונים(המידה מציינת גודל של יחידה אחת מתוך השלוש). המחיר עבור סט שלושה חלקים. והמחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            637,
+                            0
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            727,
+                            727
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            922,
+                            922
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            1135,
+                            1135
+                        ]
+                    },
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "photos09",
+                "id": "9016",
+                "name": "Arte's photos-16",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/photos/photos09/p16.jpg",
+                        "alt": ""
+                    }
+                ],
+                "description": "         שלישיית תמונות דיגיטליות בהדפסה איכותית (זכוכית/אלומיניום). ניתן להזמין בגדלים שונים(המידה מציינת גודל של יחידה אחת מתוך השלוש). המחיר עבור סט שלושה חלקים. והמחירים כוללים מע''מ ומשלוח. ",
+                "quote": "תמונות להדפסה, הפוך את הבית שלך לגלריה - פריטים ייחודיים לאוהבי אמנות.",
+                "sizes": [
+                    {
+                        "name": "30x45",
+                        "quantity": 0,
+                        "price": [
+                            637,
+                            0
+                        ]
+                    },
+                    {
+                        "name": "40x60",
+                        "quantity": 0,
+                        "price": [
+                            727,
+                            727
+                        ]
+                    },
+                    {
+                        "name": "50x70",
+                        "quantity": 0,
+                        "price": [
+                            922,
+                            922
+                        ]
+                    },
+                    {
+                        "name": "60x90",
+                        "quantity": 0,
+                        "price": [
+                            1135,
+                            1135
+                        ]
+                    },
+                ],
+                "kind": [
+                    {
+                        "name": "הדפסה על זכוכית",
+                        "quantity": 0
+                    },
+                    {
+                        "name": " הדפסה על אלומיניום  ",
+                        "quantity": 0
+                    }
+                ]
+            },
+            {
+                "category": "photos09",
+                "id": "9016",
+                "name": "Arte's photos-16",
+                "price": 0,
+                "images": [
+                    {
+                        "src": "/images/photos/photos09/p16.jpg",
                         "alt": ""
                     }
                 ],
