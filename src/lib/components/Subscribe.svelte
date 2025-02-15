@@ -71,7 +71,7 @@ let a = $state(false)
                         <div class="col-6">
                             <ul>
                                 <li>שעות פעילות:<br><span>08:00  - 20:00 </span></li>
-                                <li>כתובתנו <br><span>ראשון לציון </span></li>
+                                <li>ARTE  <br><span>ART & DESIGN </span></li>
                                 <li>רשתות חברתיות<br><span><a href="https://www.facebook.com/profile.php?id=61557695587039">Facebook</a>, <a href="https://www.instagram.com/arte.bsharon/">Instagram</a>, 
                             </ul>
                         </div>
