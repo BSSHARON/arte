@@ -59,7 +59,7 @@
                     </ul>
                     <span>{item?.description}</span>
                     <div class="quote">
-                        <i class="fa fa-quote-left"></i><p>{item?.quote}</p>
+                        <i class="fa "></i><p>{item?.quote}</p>
                     </div>
                     <br>
                     <div class="">

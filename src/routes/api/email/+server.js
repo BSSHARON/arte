@@ -10,7 +10,7 @@ async function sendMail(name = "",phone = "",client={},cart=[],kind=true){
   const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-  user: "s0528844911@gmail.com",
+  user: "arte.bs10@gmail.com",
   pass: import.meta.env.VITE_PASSWORD
 }
   });
@@ -29,8 +29,8 @@ async function sendMail(name = "",phone = "",client={},cart=[],kind=true){
   console.log(28,kind)
 
   const options = {
-    from:"s0528844911@gmail.com",
-    to: 's0528844911@gmail.com',
+    from:"arte.bs10@gmail.com",
+    to: 'arte.bs10@gmail.com',
     subject: 'פניה חדשה',
     html: emailHtml
   };
