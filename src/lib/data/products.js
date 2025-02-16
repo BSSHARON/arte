@@ -1267,7 +1267,7 @@ export const products = [
                 "category": "oilpaintings",
                 "id": "101",
                 "name": "oil paintings01 90X90",
-                "price": 3050,
+                "price": 3200,
                 "images": [
                     {
                         "src": "/images/oilpaintings01.jpg",
@@ -1283,7 +1283,7 @@ export const products = [
                 "category": "oilpaintings",
                 "id": "102",
                 "name": "oil paintings02 90X90 ",
-                "price": 3050,
+                "price": 3200,
                 "images": [
                     {
                         "src": "/images/oilpaintings02.jpg",
@@ -1299,7 +1299,7 @@ export const products = [
                 "category": "oilpaintings",
                 "id": "103",
                 "name": "oil paintings03 90X90",
-                "price": 3200,
+                "price": 2900,
                 "images": [
                     {
                         "src": "/images/oilpaintings03.jpg",
@@ -1315,7 +1315,7 @@ export const products = [
                 "category": "oilpaintings",
                 "id": "104",
                 "name": "oil paintings04 90X90",
-                "price": 4050,
+                "price": 3000,
                 "images": [
                     {
                         "src": "/images/oilpaintings04.jpg",
@@ -1331,7 +1331,7 @@ export const products = [
                 "category": "oilpaintings",
                 "id": "105",
                 "name": "Oil painting05 90×90",
-                "price": 3700,
+                "price": 3000,
                 "images": [
                     {
                         "src": "/images/oilpaintings05.jpg",
@@ -1347,7 +1347,7 @@ export const products = [
                 "category": "oilpaintings",
                 "id": "106",
                 "name": "Oil painting06 90×90",
-                "price": 3050,
+                "price": 0,
                 "images": [
                     {
                         "src": "/images/oilpaintings06.jpg",
@@ -1363,7 +1363,7 @@ export const products = [
                 "category": "oilpaintings",
                 "id": "107",
                 "name": "oilpaintings01",
-                "price": 3100,
+                "price": 0,
                 "images": [
                     {
                         "src": "/images/oilpaintings05.jpg",
