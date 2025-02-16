@@ -1347,10 +1347,10 @@ export const products = [
                 "category": "oilpaintings",
                 "id": "106",
                 "name": "Oil painting06 90×90",
-                "price": 0,
+                "price": 2900,
                 "images": [
                     {
-                        "src": "/images/oilpaintings06.jpg",
+                        "src": "/images/oilpaintings07.jpg",
                         "alt": ""
                     }
                 ],
