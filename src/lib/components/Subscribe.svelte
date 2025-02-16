@@ -64,7 +64,7 @@ let a = $state(false)
                         <div class="col-6">
                             <ul>
                                 <li>כתובתנו <br><span>ראשון לציון </span></li>
-                                <li>טלפון | ווצאפ<br><span>050-2374217</span></li>
+                                <li>טלפון | ווטסאפ <br><span>050-2374217</span></li>
                                 <li>דוא"ל<br><span><a href="mailto:arte.bs10@gmail.com">arte.bs10@gmail.com</a></span></li>
                             </ul>
                         </div>
