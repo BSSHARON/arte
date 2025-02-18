@@ -1,64 +1,82 @@
    <script>
     let phone = $state('') , name = $state('')
+    let a = $state(false)
+    let successMessage = $state(false)
+
     async function sendToMail(){
-  if(phone && name){
-    a = true
-    let data = {name,phone}
-    await fetch('api/email',{
-  method: 'POST', 
-  headers: {
-    'Content-Type': 'application/json',
-  },
-  body: JSON.stringify(data),
-})
-  .then((response) => response)
-  .then((data) => {
-    console.log('Success:', data);
-    a= false
-  })
-  .catch((error) => {
-    console.error('Error:', error);
-    alert('error')
-  })
-  }else {
-    alert('כדאי למלא שם וטלפון ולנסות שוב')
-  }
-}
-let a = $state(false)
+        if(phone && name){
+            a = true
+            let data = {name,phone}
+            try {
+                const response = await fetch('api/email', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(data),
+                })
+                if (response.ok) {
+                    console.log('Success:', response)
+                    successMessage = true
+                    // Reset form
+                    name = ''
+                    phone = ''
+                } else {
+                    throw new Error('Network response was not ok')
+                }
+            } catch (error) {
+                console.error('Error:', error)
+                alert('אירעה שגיאה, אנא נסו שוב')
+            } finally {
+                a = false
+            }
+        } else {
+            alert('כדאי למלא שם וטלפון ולנסות שוב')
+        }
+    }
    </script>
    
-   <div class="subscribe">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8">
-                    <div class="section-heading">
-                        <h2>  יצירת קשר </h2>
-                        <span>    זמין לכם בווטסאפ - 050-2374217</span>
-                    </div>
-                    <form id="subscribe" action="" method="get">
-                        <div class="row">
-                          {#if !a}
-
+  
+<div class="subscribe">
+  <div class="container">
+      <div class="row">
+          <div class="col-lg-8">
+              <div class="section-heading">
+                  <h2>יצירת קשר</h2>
+                  <span>זמין לכם בווטסאפ - 050-2374217</span>
+              </div>
+              <form id="subscribe" action="" method="get">
+                  <div class="row">
+                      {#if successMessage}
+                          <div class="success-message">
+                              תודה! פנייתך התקבלה בהצלחה, ניצור איתך קשר בהקדם
+                          </div>
+                      {:else if !a}
                           <div class="col-lg-5">
-                            <fieldset>
-                              <input bind:value={name} name="name" type="text" id="name" placeholder="שם מלא">
-                            </fieldset>
+                              <fieldset>
+                                  <input bind:value={name} name="name" type="text" id="name" placeholder="שם מלא">
+                              </fieldset>
                           </div>
                           <div class="col-lg-5">
-                            <fieldset>
-                              <input bind:value={phone} name="phone" type="text" id="phone" placeholder="מספר טלפון לחזרה">
-                            </fieldset>
+                              <fieldset>
+                                  <input bind:value={phone} name="phone" type="text" id="phone" placeholder="מספר טלפון לחזרה">
+                              </fieldset>
                           </div>
                           <div class="col-lg-2">
-                            <fieldset>
-                              <button onclick={sendToMail} type="submit" id="form-submit" class="main-dark-button"><i class="fa fa-paper-plane"></i></button>
-                            </fieldset>
+                              <fieldset>
+                                  <button onclick={sendToMail} type="submit" id="form-submit" class="main-dark-button">
+                                      <i class="fa fa-paper-plane"></i>
+                                  </button>
+                              </fieldset>
                           </div>
-                          {/if}
-
-                        </div>
-                    </form>
-                </div>
+                      {:else}
+                          <div class="loading-message">
+                              שולח...
+                          </div>
+                      {/if}
+                  </div>
+              </form>
+          </div>
                 <div class="col-lg-4">
                     <div class="row">
                         <div class="col-6">
@@ -82,7 +100,26 @@ let a = $state(false)
     </div>
 
 <style>
-  .subscribe {
+   .success-message {
+        width: 100%;
+        padding: 15px;
+        background-color: #dff0d8;
+        color: #3c763d;
+        border-radius: 4px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .loading-message {
+        width: 100%;
+        padding: 15px;
+        background-color: #f5f5f5;
+        color: #666;
+        border-radius: 4px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+      .subscribe {
     padding: 80px 0px;
   }
   .section-heading {
