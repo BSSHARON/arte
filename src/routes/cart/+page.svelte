@@ -94,19 +94,35 @@ const calculatePrice = (item) => {
 </script>
 <div class="cart-list" style="margin-top: 100px;">
 	<h1>עגלת קניות</h1>
-
 	{#each cart.cart as item }
-		<div class="cart-item">
-			<p>{item.name}</p>
-			<img width="50" src={item.images[0].src} alt={item.name}/>
-				<div class="quantity buttons_added">
-					<input type="button" value="-" class="minus" onclick={() => {minusItem(item)}}>
-					<input type="number" step="1" min="1" max="" name="quantity" bind:value="{item.quantity}" title="Qty" class="input-text qty text" size="4" pattern="" inputmode="">
-					<input type="button" value="+" class="plus" onclick={() => plusItem(item)}>
-				</div>
-			<p>₪{calculatePrice(item) * item.quantity}</p>
-		</div>
-	{/each}
+    <div class="cart-item">
+        <div class="item-main-info">
+            <img width="50" src={item.images[0].src} alt={item.name}/>
+            <div class="item-details">
+                <h3>{item.name}</h3>
+                {#if item.sizes?.length > 0}
+                    <div class="item-options">
+                        <span>גודל: {item.sizes.find(s => s.quantity > 0)?.name || '-'}</span>
+                        {#if item.kind?.length > 0}
+                            <span>סוג: {item.kind.find(k => k.quantity > 0)?.name || '-'}</span>
+                        {/if}
+                        {#if item.spacers?.length > 0}
+						<span>ספייסר:  {item.spacers.find(k => k.quantity > 0)?.name || '-'}</span>
+                        {/if}
+                    </div>
+                {/if}
+            </div>
+        </div>
+        <div class="item-controls">
+            <div class="quantity buttons_added">
+                <input type="button" value="-" class="minus" onclick={() => minusItem(item)}>
+                <input type="number" min="1" bind:value={item.quantity} class="qty">
+                <input type="button" value="+" class="plus" onclick={() => plusItem(item)}>
+            </div>
+            <p class="item-price">₪{calculatePrice(item) * item.quantity}</p>
+        </div>
+    </div>
+{/each}
 	<div class="delivery-option">
 		<label>
 			<input type="checkbox" bind:checked={includeDelivery}>
@@ -178,6 +194,9 @@ const calculatePrice = (item) => {
         width: 100%;
         max-width: 400px;
         box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+
+		margin-left: auto;
+        margin-right: auto;
     }
 
     .summary-row {
@@ -238,5 +257,116 @@ const calculatePrice = (item) => {
 		background-color: #f7f7f7;
 		border-radius: 5px;
 		box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
+		max-width: 1200px;
+        margin: 100px auto;
+        padding: 20px;
+        width: 100%;
 	}
+	.cart-item {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        border: 1px solid #ddd;
+        padding: 1rem;
+        width: 100%;
+        background-color: #fff;
+        border-radius: 8px;
+    }
+
+    @media (min-width: 768px) {
+        .cart-item {
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+        }
+    }
+
+    .item-main-info {
+        display: flex;
+        gap: 1rem;
+        align-items: start;
+    }
+
+    .item-details {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .item-details h3 {
+        margin: 0;
+        font-size: 1.1rem;
+        font-weight: 600;
+    }
+
+    .item-options {
+        display: flex;
+        flex-direction: column;
+        gap: 0.25rem;
+        font-size: 0.9rem;
+        color: #666;
+    }
+
+    @media (min-width: 768px) {
+        .item-options {
+            flex-direction: row;
+            gap: 1rem;
+        }
+    }
+
+    .item-controls {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 1rem;
+        width: 100%;
+    }
+
+    @media (max-width: 768px) {
+        .cart-list {
+            padding: 10px;
+        }
+
+        .summary-section {
+            max-width: 100%;
+        }
+    }
+    @media (min-width: 768px) {
+        .item-controls {
+            width: auto;
+        }
+    }
+
+    .quantity.buttons_added {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    .quantity input {
+        width: 40px;
+        text-align: center;
+        padding: 0.25rem;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+    }
+
+    .quantity input[type="button"] {
+        background-color: #f0f0f0;
+        cursor: pointer;
+        width: 30px;
+    }
+
+    .quantity input[type="button"]:hover {
+        background-color: #e0e0e0;
+    }
+
+    .item-price {
+        font-weight: 600;
+        font-size: 1.1rem;
+        color: #2c3e50;
+        margin: 0;
+    }
+
 </style>
