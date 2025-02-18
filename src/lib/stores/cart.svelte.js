@@ -35,7 +35,7 @@ export const cart = $state(/** @type {CartState} */{ cart: [] });
  * @param {number} [quantity=1] - The quantity to add (optional, default is 1).
  * @param {number} [sizeIndex=0] - The index of the selected size (optional, default is 0).
  */
-export function addToCart(product, quantity = 1, sizeIndex = 0, kindIndex = 0) {
+export function addToCart(product, quantity = 1, sizeIndex = 0, kindIndex = 0, spacersIndex = 0) {
     console.log(product, quantity, sizeIndex);
     const existingProductIndex = cart.cart.findIndex((p) => p.id === product.id);
   
@@ -49,6 +49,7 @@ export function addToCart(product, quantity = 1, sizeIndex = 0, kindIndex = 0) {
         existingProduct.sizes[sizeIndex].quantity =
           (existingProduct.sizes[sizeIndex].quantity || 0) + quantity;
       }
+      
     } else {
       // Product is new to the cart
       const newProduct = { ...product, quantity };
@@ -59,6 +60,9 @@ export function addToCart(product, quantity = 1, sizeIndex = 0, kindIndex = 0) {
       }
       if (newProduct.kind && newProduct.kind.length > 0) {
         newProduct.kind[kindIndex].quantity = quantity;
+      }
+      if (newProduct.spacers && newProduct.spacers.length > 0) {
+        newProduct.spacers[spacersIndex].quantity = quantity;
       }
       cart.cart = [...cart.cart, newProduct];
     }

@@ -15,13 +15,13 @@
         itemQuantity = Math.max(1, itemQuantity - 1,1);
     }
 
-    function handleAddToCart(item, itemQuantity = 1, sizeIndex = 0, kindIndex = 0) {
+    function handleAddToCart(item, itemQuantity = 1, sizeIndex = 0, kindIndex = 0, spacersIndex = 0) {
         const existingItem = cart.cart.find(p => p.id === item.id);
         if (existingItem) {
             updateQuantity(item,  itemQuantity);
         } else {
             console.log(itemQuantity)
-            addToCart(item, itemQuantity, sizeIndex, kindIndex);
+            addToCart(item, itemQuantity, sizeIndex, kindIndex, spacersIndex);
         }
     }
 
@@ -35,7 +35,8 @@
     }
     let sizeIndex = $state(0)
     let kindIndex = $state(0)
-</script>
+    let spacersIndex = $state(0)
+    </script>
 
     <section style="margin-top: 120px;" class="section" id="product">
         <div class="container">
@@ -89,6 +90,16 @@
                             </select>
                             </div>
                             {/if}
+                            {#if item?.spacers.length > 0}
+                            <div class="kind-select">
+                            <h5 class="quantity-content-h5">בחירת צבע</h5>
+                            <select bind:value={spacersIndex} class="quantity-content-select select-arrow-padding">
+                                    {#each item?.spacers as kind, i}
+                                        <option class="quantity-content-option" value={i}>{kind}</option>
+                                    {/each}
+                            </select>
+                            </div>
+                            {/if}
 
                         </div>
                         <div  class="right-content">
@@ -104,7 +115,7 @@
                                     {#if item && cart.cart && cart.cart.find(p => p.id === item.id)}
                                         <button class="active" onclick={() => goto('/cart')}>להשלמת הרכישה</button>
                                     {:else if item}
-                                        <button onclick={() => handleAddToCart(item, itemQuantity, sizeIndex,kindIndex)}>הוסף לסל</button>
+                                        <button onclick={() => handleAddToCart(item, itemQuantity, sizeIndex,spacersIndex)}>הוסף לסל</button>
                                     {/if}
                                 </div>
                             </div>
