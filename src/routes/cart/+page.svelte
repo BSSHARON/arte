@@ -144,6 +144,10 @@ const calculatePrice = (item) => {
         <span>הוסף משלוח</span>
         <span class="delivery-price">₪{calculateDeliveryPrice()}</span>
     </label>
+	    <div class="delivery-info">
+        <p>המשלוח יתבצע באמצעות חברת שליחויות ויגיע תוך 3-5 ימי עסקים</p>
+        <p>משלוח כלול בקנייה של תמונות</p>
+    </div>
 </div>
 
 <div class="summary-section">
@@ -176,7 +180,16 @@ const calculatePrice = (item) => {
 </div>
 
 <style>
-  
+  .delivery-info {
+    margin-top: 10px;
+    font-size: 0.9rem;
+    color: #666;
+    text-align: right;
+}
+
+.delivery-info p {
+    margin: 5px 0;
+}
   .delivery-option {
         margin: 15px 0;
         padding: 15px;
