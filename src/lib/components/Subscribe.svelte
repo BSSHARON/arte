@@ -43,8 +43,11 @@
           <div class="col-lg-8">
               <div class="section-heading">
                   <h2>יצירת קשר</h2>
-                  <span>זמין לכם בווטסאפ - 050-2374217</span>
-              </div>
+                  <span>
+                    <a href="https://wa.me/972502374217?text=שלום,%20אשמח%20לפרטים%%" target="_blank" style="color: inherit; text-decoration: none;">
+                      זמין לכם בווטסאפ - 050-2374217
+                    </a>
+                  </span>   </div>
               <form id="subscribe" action="" method="get">
                   <div class="row">
                       {#if successMessage}
