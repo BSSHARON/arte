@@ -13630,7 +13630,7 @@ export const products = [
     {
         "id": "1000",
         "category": "photos01",
-        "header": "ABSTRACT",
+        "header": "ARTISTIC",
         "sub": "גלריית תמונות למכירה ",
         "image": "/images/photos/photos01/p001.jpg",
         "subjects": [
@@ -31542,7 +31542,7 @@ export const products = [
     {
         "id": "2000",
         "category": "photos02",
-        "header": "ARTISTIC",
+        "header": "ABSTRACT",
         "sub": "גלריית תמונות למכירה ",
         "image": "/images/photos/photos02/p002.jpg",
         "subjects": [
