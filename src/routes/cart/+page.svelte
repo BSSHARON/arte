@@ -34,8 +34,36 @@
 					}
 	}
 
-	let total = $derived(cart.cart.reduce((sum, item) => sum + calculatePrice(item) * item.quantity, 0));
 
+    let includeDelivery = $state(false);
+
+    const calculateDeliveryPrice = () => {
+        let maxDelivery = 0;
+        
+        for (let item of cart.cart) {
+            // בדיקת ה-delivery הכללי של המוצר
+            if (item.delivery > maxDelivery) {
+                maxDelivery = item.delivery;
+            }
+
+            // בדיקת ה-delivery בתוך ה-sizes
+            if (item.sizes && item.sizes.length > 0) {
+                for (let size of item.sizes) {
+                    if (size.quantity > 0 && size.delivery > maxDelivery) {
+                        maxDelivery = size.delivery;
+                    }
+                }
+            }
+        }
+        
+        return maxDelivery;
+    };
+
+    // עדכון חישוב הסכום הכולל
+    let total = $derived(
+        cart.cart.reduce((sum, item) => sum + calculatePrice(item) * item.quantity, 0) + 
+        (includeDelivery ? calculateDeliveryPrice() : 0)
+    );
  function close(){
 	console.log("yy")
   check = false;
@@ -79,8 +107,31 @@ const calculatePrice = (item) => {
 			<p>₪{calculatePrice(item) * item.quantity}</p>
 		</div>
 	{/each}
-	<div dir="rtl" class="total">
-		<h4>סך הכל:  ₪{total}</h4>
+	<div class="delivery-option">
+		<label>
+			<input type="checkbox" bind:checked={includeDelivery}>
+			<span>הוסף משלוח</span>
+			<span class="delivery-price">₪{calculateDeliveryPrice()}</span>
+		</label>
+	</div>
+	
+	<div class="summary-section">
+		<div class="summary-row">
+			<span>סכום ביניים:</span>
+			<span>₪{cart.cart.reduce((sum, item) => sum + calculatePrice(item) * item.quantity, 0)}</span>
+		</div>
+		
+		{#if includeDelivery}
+		<div class="summary-row">
+			<span>משלוח:</span>
+			<span>₪{calculateDeliveryPrice()}</span>
+		</div>
+		{/if}
+		
+		<div class="summary-row total">
+			<span>סך הכל לתשלום:</span>
+			<span>₪{total}</span>
+		</div>
 	</div>
 </div>
 <div style="max-width: 90%; margin: 0 auto;">
@@ -88,13 +139,66 @@ const calculatePrice = (item) => {
     {#if check == false}
 <button class="w-100 btn btn-primary btn-lg" onclick={()=>check = true} >ביצוע הזמנה</button>
     {:else}
-    <Check amount={total}/>
+    <Check amount={total} />
     {/if}
 	{/if}
 </div>
 
 <style>
   
+  .delivery-option {
+        margin: 15px 0;
+        padding: 15px;
+        background-color: #fff;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        text-align: right;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+
+    .delivery-option label {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        cursor: pointer;
+    }
+
+    .delivery-price {
+        font-weight: 600;
+        color: #2c3e50;
+    }
+
+    .summary-section {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        border: 1px solid #ddd;
+        margin-top: 20px;
+        width: 100%;
+        max-width: 400px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+
+    .summary-row {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 8px 0;
+        color: #2c3e50;
+    }
+
+    .summary-row.total {
+        margin-top: 10px;
+        padding-top: 15px;
+        border-top: 2px solid #eee;
+        font-weight: bold;
+        font-size: 1.1em;
+    }
+	    .delivery-option input[type="checkbox"] {
+        width: 18px;
+        height: 18px;
+    }
 
     .cart-item {
         display: grid;
