@@ -3,7 +3,7 @@ import Hello from '$lib/emails/welcome.svelte';
 import nodemailer from 'nodemailer';
 import { asClassComponent } from 'svelte/legacy';
 import Finnish from '$lib/emails/finnish.svelte';
-async function sendMail(name = "",phone = "",client={},cart=[],kind=true){
+async function sendMail(name = "",phone = "",client={},cart=[],kind=true,delivery=null) {
 
 
   console.log(import.meta.env.VITE_PASSWORD,kind)
@@ -23,7 +23,8 @@ async function sendMail(name = "",phone = "",client={},cart=[],kind=true){
     } : {
       client: client,
       cart: cart,
-      paymentId: phone
+      paymentId: phone,
+      delivery: delivery
     }
   });
   console.log(28,kind)
@@ -57,8 +58,8 @@ const phone = data.phone || ""
 const cart = typeof data.cart === 'string' ? JSON.parse(data.cart) : data.cart || []
 const client = typeof data.client === 'string' ? JSON.parse(data.client) : data.client || {}
 const kind = data.kind === false ? false : (data.kind === 'false' ? false : true)
-
- const ds = await sendMail(name,phone,client,cart,kind)
+const delivery = data.delivery || null
+ const ds = await sendMail(name,phone,client,cart,kind,delivery)
 .then()
   
 return new Response(ds);

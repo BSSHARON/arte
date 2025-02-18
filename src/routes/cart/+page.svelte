@@ -3,7 +3,18 @@
      * @type {any[]}
      */
    import { cart } from '$lib/stores/cart.svelte.js';
+   import { delivery, deliveryTrue, deliveryFalse } from '$lib/stores/delivery.svelte.js';
+    // ...existing code...
 
+    // פונקציה חדשה לטיפול בשינוי מצב המשלוח
+    function handleDeliveryToggle(checked) {
+        const deliveryPrice = calculateDeliveryPrice();
+        if (checked) {
+            deliveryTrue(deliveryPrice);
+        } else {
+            deliveryFalse();
+        }
+    }
    let cartPay = false;
   console.log(cart.cart)
 	import Check from '$lib/components/Check.svelte';
@@ -60,9 +71,9 @@
     };
 
     // עדכון חישוב הסכום הכולל
-    let total = $derived(
+	let total = $derived(
         cart.cart.reduce((sum, item) => sum + calculatePrice(item) * item.quantity, 0) + 
-        (includeDelivery ? calculateDeliveryPrice() : 0)
+        (delivery.delivery ? delivery.amount : 0)
     );
  function close(){
 	console.log("yy")
@@ -123,32 +134,36 @@ const calculatePrice = (item) => {
         </div>
     </div>
 {/each}
-	<div class="delivery-option">
-		<label>
-			<input type="checkbox" bind:checked={includeDelivery}>
-			<span>הוסף משלוח</span>
-			<span class="delivery-price">₪{calculateDeliveryPrice()}</span>
-		</label>
-	</div>
-	
-	<div class="summary-section">
-		<div class="summary-row">
-			<span>סכום ביניים:</span>
-			<span>₪{cart.cart.reduce((sum, item) => sum + calculatePrice(item) * item.quantity, 0)}</span>
-		</div>
-		
-		{#if includeDelivery}
-		<div class="summary-row">
-			<span>משלוח:</span>
-			<span>₪{calculateDeliveryPrice()}</span>
-		</div>
-		{/if}
-		
-		<div class="summary-row total">
-			<span>סך הכל לתשלום:</span>
-			<span>₪{total}</span>
-		</div>
-	</div>
+<div class="delivery-option">
+    <label>
+        <input 
+            type="checkbox" 
+            checked={delivery.delivery}
+            onchange={(e) => handleDeliveryToggle(e.target.checked)}
+        >
+        <span>הוסף משלוח</span>
+        <span class="delivery-price">₪{calculateDeliveryPrice()}</span>
+    </label>
+</div>
+
+<div class="summary-section">
+    <div class="summary-row">
+        <span>סכום ביניים:</span>
+        <span>₪{cart.cart.reduce((sum, item) => sum + calculatePrice(item) * item.quantity, 0)}</span>
+    </div>
+    
+    {#if delivery.delivery}
+    <div class="summary-row">
+        <span>משלוח:</span>
+        <span>₪{delivery.amount}</span>
+    </div>
+    {/if}
+    
+    <div class="summary-row total">
+        <span>סך הכל לתשלום:</span>
+        <span>₪{total}</span>
+    </div>
+</div>
 </div>
 <div style="max-width: 90%; margin: 0 auto;">
 	{#if total > 0}

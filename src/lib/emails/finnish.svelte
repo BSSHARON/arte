@@ -4,6 +4,7 @@
 	export let client;
 	export let cart;
     export let paymentId
+    export let delivery;
 	const fontFamily =
 		'-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif';
 
@@ -131,14 +132,25 @@ let totalPrice = 0;
                     <Text style={paragraph}>- {kind.name}</Text>
                 {/each}
             {/if}
+            {#if item.spacers && item.spacers.filter(k => k.quantity > 0).length > 0}
+            <Text style={paragraph}>spacers:</Text>
+            {#each item.spacers.filter(k => k.quantity > 0) as kind}
+                <Text style={paragraph}>- {kind.name}</Text>
+            {/each}
+        {/if}
             <Hr style={hr} />
         {/each}
 
         <Text style={paragraph}>סה"כ: {totalPrice} ₪</Text>
 
-
-            <Text style={paragraph}>מספר תשלום: {paymentId}</Text>
-
+        {#if delivery.delivery}
+        <Text style={paragraph}>דמי משלוח: {delivery.amount} ₪</Text>
+        <Text style={paragraph}>סה"כ כולל משלוח: {totalPrice + delivery.amount} ₪</Text>
+    {:else}
+        <Text style={paragraph}>איסוף עצמי</Text>
+    {/if}
+    
+    <Text style={paragraph}>מספר תשלום: {paymentId}</Text>
         <Text style={paragraph}>!יום טוב</Text>
           
             

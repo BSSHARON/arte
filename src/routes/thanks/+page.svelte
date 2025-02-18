@@ -16,7 +16,7 @@ import { goto } from '$app/navigation';
                     headers: {
                         'Content-Type': 'application/json'
                     },
-                    body: JSON.stringify({ cart: localStorage.getItem('cart'),client: localStorage.getItem('client'), kind: false, phone: localStorage.getItem('lastPaymentId') })
+                    body: JSON.stringify({ cart: localStorage.getItem('cart'),client: localStorage.getItem('client'), kind: false, phone: localStorage.getItem('lastPaymentId'),delivery: localStorage.getItem('delivery') })
                 });
                 if (!response.ok) {
                     console.error('Failed to send email');
