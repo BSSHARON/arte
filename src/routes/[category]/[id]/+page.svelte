@@ -95,7 +95,7 @@
                             <h5 class="quantity-content-h5">בחירת צבע</h5>
                             <select bind:value={spacersIndex} class="quantity-content-select select-arrow-padding">
                                     {#each item?.spacers as kind, i}
-                                        <option class="quantity-content-option" value={i}>{kind}</option>
+                                        <option class="quantity-content-option" value={i}>{kind.name}</option>
                                     {/each}
                             </select>
                             </div>
