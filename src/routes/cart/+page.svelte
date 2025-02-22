@@ -108,7 +108,7 @@ const calculatePrice = (item) => {
 	{#each cart.cart as item }
     <div class="cart-item">
         <div class="item-main-info">
-            <img width="50" src={item.images[0].src} alt={item.name}/>
+            <img width="40" src={item.images[0].src} alt={item.name}/>
             <div class="item-details">
                 <h3>{item.name}</h3>
                 {#if item.sizes?.length > 0}
@@ -145,8 +145,8 @@ const calculatePrice = (item) => {
         <span class="delivery-price">₪{calculateDeliveryPrice()}</span>
     </label>
 	    <div class="delivery-info">
-        <p>המשלוח יתבצע באמצעות חברת שליחויות ויגיע תוך 3-5 ימי עסקים</p>
-        <p>משלוח כלול בקנייה של תמונות</p>
+        <p>בהזמנת תמונות לא נדרש תשלום נוסף עבור המשלוח,  המחיר מגולם במחיר התמונה." </p>
+        <p>בהזמנת כלי בטון, ניתן לבחור בין איסוף עצמי בתיאום מראש או משלוח בתוספת תשלום." </p>
     </div>
 </div>
 

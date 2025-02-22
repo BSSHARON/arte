@@ -58,7 +58,7 @@
                     <span class="price"> {(item?.sizes.length > 0 ? item?.sizes[sizeIndex]?.price[kindIndex] : item?.price)} ₪</span>
                     <ul class="stars">
                     </ul>
-                    <span>{item?.description}</span>
+                    <span dir="rtl" style="direction: rtl; text-align: right;">{item?.description}</span>
                     <div class="quote">
                         <i class="fa "></i><p>{item?.quote}</p>
                     </div>

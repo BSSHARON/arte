@@ -33,7 +33,7 @@
             <div class="col-lg-3">
                 <h4>מידע נוסף</h4>
                 <ul>
-                    <li><a href="/deliveries">שאלות נפוצות</a></li>
+                    <li><a href="/qa">שאלות נפוצות</a></li>
                     <li><a href="/deliveries">תקנון משלוחים</a></li>
                 </ul>
             </div>
