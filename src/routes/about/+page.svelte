@@ -15,7 +15,7 @@
     <!-- ***** Main Banner Area End ***** -->
 
     <!-- ***** About Area Starts ***** -->
-    <div class="about-us">
+    <div dir="rtl" style="direction: rtl; text-align: right;" class="about-us">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
