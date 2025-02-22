@@ -15,7 +15,7 @@
     <!-- ***** Main Banner Area End ***** -->
 
     <!-- ***** About Area Starts ***** -->
-    <div dir="rtl" style="direction: rtl; text-align: right;" class="about-us">
+    <div style="direction: rtl; text-align: right;" class="about-us">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
@@ -39,7 +39,7 @@
                             <li><a href="https://www.facebook.com/profile.php?id=61557695587039"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="https://www.instagram.com/arte.bsharon/"><i class="fa fa-instagram"></i></a></li>
                             <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-                            <li><a href="#"><i class="fa fa-tiktok"></i></a></li>
+                            <li><a href="#"><i class="fab fa-tiktok"></i></a></li>
                         </ul>
                     </div>
                 </div>
