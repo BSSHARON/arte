@@ -36,7 +36,9 @@
     let sizeIndex = $state(0)
     let kindIndex = $state(0)
     let spacersIndex = $state(0)
-    </script>
+    import Seo from '$lib/components/seo/seo.svelte';
+</script>
+<Seo />
 
     <section style="margin-top: 120px;" class="section" id="product">
         <div class="container">
