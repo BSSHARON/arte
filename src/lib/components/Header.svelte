@@ -40,7 +40,7 @@
 						<li class="scroll-to-section"><a href="/" class:active={page.url.pathname === '/'}>דף הבית</a></li>
 						<li class="scroll-to-section"><a href="/about" class:active={page.url.pathname === '/about'}>אודות</a></li>
 						<li class="scroll-to-section"><a href="/oilpaintings" class:active={page.url.pathname === '/oilpaintings'}>ציורי שמן</a></li>
-						<li class="scroll-to-section"><a href="/baton07" class:active={page.url.pathname === '/subject/art'}>מארזי בטון  </a></li>
+						<li class="scroll-to-section"><a href="/baton07" class:active={page.url.pathname === '/subject/art'}>מארזים בטון  </a></li>
 					<!---	אפשר להשתמש בזה אם תרצה עוד תפריט נפתח
 					<li class="submenu" onclick={toggleSubMenu1}>
 						<a >בטון - עבודת יד</a>
