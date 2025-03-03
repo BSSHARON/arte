@@ -16,7 +16,7 @@
             <div class="col-lg-3">
                 <h4> מפת נווט באתר</h4>
                 <ul>
-                    <li><a href="/subject/art">אומנות דיגיטלית</a></li>
+                    <li><a href="/subject/photos">אומנות דיגיטלית</a></li>
                     <li><a href="/oilpaintings">ציורי שמן</a></li>
                     <li><a href="/subject/baton">בטון - עבודת יד</a></li>
                     <li><a href="/subject/photos"> תמונות להדפסה</a></li>
