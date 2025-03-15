@@ -80,3 +80,11 @@
 		</div>
 	</div>
 </header>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-503F8K6QYR');
+  </script>
+  
