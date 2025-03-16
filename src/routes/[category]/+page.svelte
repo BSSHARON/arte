@@ -72,9 +72,9 @@
   {/key}
   <style>
     .linkhover:hover{
-        color: #53534f !important;
+        color: #d6d688 !important;
     }
     .active{
-        color: #7e7b72;
+        color: #fcdb7a;
       }
     </style>
