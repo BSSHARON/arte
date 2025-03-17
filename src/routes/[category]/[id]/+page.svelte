@@ -41,7 +41,7 @@
 <Seo 
   title={`Arte | אמנות | ${item?.name}`}
   description={item?.description}
-  url={`https://${page.url.hostname}${page.url.pathname}`}
+  url={`${page.url.pathname}`}
   keywords="art, אומנות, אמנות, ציורי שמן"
   image1={`https://${page.url.hostname}${item?.images[0]?.src}`}
   image2={`https://${page.url.hostname}${item?.images[1]?.src}`}
