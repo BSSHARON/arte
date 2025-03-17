@@ -39,14 +39,14 @@
     import Seo from '$lib/components/seo/seo.svelte';
 </script>
 <Seo 
-title ={`Arte | אמנות | ${item?.name}`}
-description ={item?.description}
-url ={page.url.hostname + page.url.pathname}
-keywords="art, אומנות, אמנות, ציורי שמן"
-image1 ={page.url.host + item?.images[0]?.src}
-  image2 = {page.url.host+item?.images[0]?.src}
-  image3 ={page.url.host + item?.images[0]?.src} 
-  image4 = { page.url.host + item?.images[0]?.src} 
+  title={`Arte | אמנות | ${item?.name}`}
+  description={item?.description}
+  url={`https://${page.url.hostname}${page.url.pathname}`}
+  keywords="art, אומנות, אמנות, ציורי שמן"
+  image1={`https://${page.url.hostname}${item?.images[0]?.src}`}
+  image2={`https://${page.url.hostname}${item?.images[1]?.src}`}
+  image3={`https://${page.url.hostname}${item?.images[2]?.src}`} 
+  image4={`https://${page.url.hostname}${item?.images[3]?.src}`} 
 />
     <section style="margin-top: 120px;" class="section" id="product">
         <div class="container">
