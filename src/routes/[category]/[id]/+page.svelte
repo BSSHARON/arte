@@ -43,10 +43,10 @@ title ={`Arte | אמנות | ${item?.name}`}
 description ={item?.description}
 url ={page.url.hostname + page.url.pathname}
 keywords="art, אומנות, אמנות, ציורי שמן"
-image1 ={item?.images[0]?.src}
-  image2 = {item?.images[0]?.src}
-  image3 ={item?.images[0]?.src}
-  image4 = {item?.images[0]?.src}
+image1 ={page.url.host + item?.images[0]?.src}
+  image2 = {page.url.host+item?.images[0]?.src}
+  image3 ={page.url.host + item?.images[0]?.src} 
+  image4 = { page.url.host + item?.images[0]?.src} 
 />
     <section style="margin-top: 120px;" class="section" id="product">
         <div class="container">
