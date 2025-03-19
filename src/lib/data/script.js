@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import { products } from './products.js';
 
-// המשתנה שאחראי להגדיר את הקטגוריה הראשית
+// המשתנה שאחראי להגדיר את הקטגוריה הראשית מה שנמצא במערך subjects
 const mainCategory = ["baton"];
 // המשתנה שאחראי להגדיר את הקטגוריות המשניות שלא ישתנו
 const subCategories = ['baton02'];
