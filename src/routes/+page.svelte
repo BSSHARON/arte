@@ -45,9 +45,6 @@
       "אומנות דיגיטלית מודרנית תמונות שונות וייחודית להדפסה. ציור על קנבס ציורי שמן וכלים מבטון בעבודת יד",
     image: "https://www.arte-bs.com/images/left-banner-image.jpg",
   }}
-  facebook={{
-    appId: "1234567890",
-  }}
   jsonLd={{
     "@context": "https://schema.org",
     "@type": "WebSite",
