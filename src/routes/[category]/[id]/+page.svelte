@@ -91,14 +91,16 @@ let { data } = $props();
                             </div>
                             {/if}
 
-                            {#if item?.kind.length > 0}
+                            {#if item?.kind?.length > 0}
                             <div class="kind-select">
-                            <h5 class="quantity-content-h5">בחירת סוג</h5>
-                            <select bind:value={kindIndex} class="quantity-content-select select-arrow-padding">
+                                <h5 class="quantity-content-h5">בחירת סוג</h5>
+                                <select bind:value={kindIndex} class="quantity-content-select select-arrow-padding">
                                     {#each item?.kind as kind, i}
-                                        <option class="quantity-content-option" value={i}>{kind.name}</option>
+                                        {#if item?.sizes[sizeIndex]?.price[i] !== null && item?.sizes[sizeIndex]?.price[i] !== undefined}
+                                            <option class="quantity-content-option" value={i}>{kind.name}</option>
+                                        {/if}
                                     {/each}
-                            </select>
+                                </select>
                             </div>
                             {/if}
                             {#if item?.spacers.length > 0}

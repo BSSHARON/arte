@@ -8,20 +8,92 @@ const mainCategory = ["photos"];
 // המשתנה שאחראי להגדיר את הקטגוריות המשניות שלא ישתנו
 const subCategories = ['photos12','photos09','photos08'];
 // שם השדה שאנו רוצים לשנות
-const fieldName = 'kind';
+const fieldName = 'sizes';
 // הערך החדש שנרצה להכניס
 const newValue = [
     {
-        "name": "הדפסה על קנבס",
-        "quantity": 0
+        "name": "30x45",
+        "quantity": 0,
+        "price": [
+            199,
+            264,
+            264
+        ],
+        "delivery": [
+            0,
+            0,
+            0
+        ]
     },
     {
-        "name": "הדפסה על זכוכית",
-        "quantity": 0
+        "name": "40x60",
+        "quantity": 0,
+        "price": [
+            223,
+            294,
+            294
+        ],
+        "delivery": [
+            0,
+            0,
+            0
+        ]
     },
     {
-        "name": " הדפסה על אלומיניום  ",
-        "quantity": 0
+        "name": "50x70",
+        "quantity": 0,
+        "price": [
+            235,
+            359,
+            359
+        ],
+        "delivery": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "60x90",
+        "quantity": 0,
+        "price": [
+            317,
+            430,
+            430
+        ],
+        "delivery": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "70x100",
+        "quantity": 0,
+        "price": [
+            335,
+            null,
+            null
+        ],
+        "delivery": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "name": "100x150",
+        "quantity": 0,
+        "price": [
+            500,
+            800,
+            800
+        ],
+        "delivery": [
+            0,
+            0,
+            0
+        ]
     }
 ];
 
