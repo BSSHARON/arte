@@ -41,7 +41,7 @@
 <Seo 
 title ={`Arte | אמנות | ${item?.name}`}
 description ={item?.description}
-url ={page.url.hostname + page.url.pathname}
+url ={page.url.pathname}
 keywords="art, אומנות, אמנות, ציורי שמן"
 image1 ={item?.images[0]?.src}
   image2 = {item?.images[0]?.src}

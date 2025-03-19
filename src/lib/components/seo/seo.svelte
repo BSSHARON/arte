@@ -50,9 +50,6 @@
       description,
     image: image1,
   }}
-  facebook={{
-    appId: "1234567890",
-  }}
   jsonLd={{
     "@context": "https://schema.org",
     "@type": "WebSite",
