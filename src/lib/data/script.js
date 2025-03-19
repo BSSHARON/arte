@@ -6,7 +6,7 @@ import { products } from './products.js';
 // המשתנה שאחראי להגדיר את הקטגוריה הראשית מה שנמצא במערך subjects
 const mainCategory = ["photos"];
 // המשתנה שאחראי להגדיר את הקטגוריות המשניות שלא ישתנו
-const subCategories = ['photos12,photos09,photos08'];
+const subCategories = ['photos12','photos09','photos08'];
 // שם השדה שאנו רוצים לשנות
 const fieldName = 'price';
 // הערך החדש שנרצה להכניס
@@ -44,31 +44,47 @@ products.forEach(product => {
         });
     }
 });
-
-// קריאת כל תוכן הקובץ
 fs.readFile('./src/lib/data/products.js', 'utf8', (err, data) => {
     if (err) {
         console.error('שגיאה בקריאת הקובץ:', err);
         return;
     }
 
-    // חיפוש המיקום של המערך בקובץ
-    const startIndex = data.indexOf('export const products =');
-    const endIndex = data.indexOf('];', startIndex) + 1;
-
+    // חיפוש המיקום של תחילת המערך
+    const exportStatement = 'export const products =';
+    const endMarker = 'export const allItems';
+    
+    const startIndex = data.indexOf(exportStatement);
+    const endIndex = data.indexOf(endMarker);
+    
     if (startIndex === -1) {
-        console.error('לא נמצא מערך products בקובץ');
+        console.error('לא ניתן למצוא את תחילת המערך');
+        console.log('Start index:', startIndex);
+        return;
+    }
+    
+    if (endIndex === -1) {
+        console.error('לא ניתן למצוא את סוף המערך');
         return;
     }
 
-    // יצירת התוכן החדש עם שמירה על התוכן הקיים
-    const newContent =
-        data.slice(0, startIndex) +
-        'export const products = ' +
-        JSON.stringify(products, null, 4) +
-        data.slice(endIndex);
+    // חיפוש הסוגר המרובע האחרון לפני export const allItems
+    const contentBeforeAllItems = data.substring(startIndex, endIndex);
+    const lastBracketIndex = startIndex + contentBeforeAllItems.lastIndexOf('];');
+    
+    if (lastBracketIndex === -1) {
+        console.error('לא ניתן למצוא את סוף המערך ];');
+        return;
+    }
 
-    // שמירת השינויים לקובץ
+    // יצירת התוכן החדש
+    const newContent = 
+        data.substring(0, startIndex) +
+        exportStatement + ' ' +
+        JSON.stringify(products, null, 4) +
+        ';\n\n' +
+        data.substring(endIndex);
+
     fs.writeFile('./src/lib/data/products.js', newContent, 'utf8', (err) => {
         if (err) {
             console.error('שגיאה בשמירת הקובץ:', err);
