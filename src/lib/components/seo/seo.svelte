@@ -12,12 +12,12 @@
 <SvelteSeo
   title={title}
   description={description}
-  canonical={"https://www.arte-bs.com/"+url}
+  canonical={"https://www.arte-bs.com"+url}
   keywords={keywords}
   openGraph={{
     title:title,
     description:description,
-    url: "https://www.arte-bs.com/"+url,
+    url: "https://www.arte-bs.com"+url,
     type: "website",
     images: [
       {
@@ -55,6 +55,6 @@
     "@type": "WebSite",
     name: title,
     description:description,
-    url: "https://www.arte-bs.com/"+url,
+    url: "https://www.arte-bs.com"+url,
   }}
 />
