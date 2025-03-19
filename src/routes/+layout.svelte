@@ -16,9 +16,7 @@ if (localStorage.getItem('favorites')) {
 	favorites.favorites = JSON.parse(localStorage.getItem('favorites'));
 }
 });
-import Seo from '$lib/components/seo/seo.svelte';
 </script>
-<Seo />
 <Header />
 <main>
 	{@render children()}
