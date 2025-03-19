@@ -4,13 +4,13 @@ import path from 'path';
 import { products } from './products.js';
 
 // המשתנה שאחראי להגדיר את הקטגוריה הראשית מה שנמצא במערך subjects
-const mainCategory = ["baton"];
+const mainCategory = ["photos"];
 // המשתנה שאחראי להגדיר את הקטגוריות המשניות שלא ישתנו
-const subCategories = ['baton02'];
+const subCategories = ['photos12,photos09,photos08'];
 // שם השדה שאנו רוצים לשנות
 const fieldName = 'price';
 // הערך החדש שנרצה להכניס
-const newValue = 100;
+const newValue = 199;
 
 // פונקציה לבדיקה האם קטגוריה צריכה להיכלל
 function shouldProcessCategory(product) {
