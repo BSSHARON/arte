@@ -1,10 +1,11 @@
 <script>
-	import { products } from '$lib/data/products';
     import { page } from '$app/state';
     import { cart, addToCart, removeFromCart, updateQuantity, updateSizeQuantity } from '$lib/stores/cart.svelte.js';
 	import { goto } from '$app/navigation';
-    let category = products.find(p => p.category === page.params.category);
-    let item = category?.items?.find(i => i.id === page.params.id);
+/** @type {import('./$types').PageProps} */
+let { data } = $props();
+    let item = data.item;
+    let category = data.category;        
     let itemQuantity = $state(1);;
 
     function increment() {
