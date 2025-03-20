@@ -51,6 +51,15 @@ let { data } = $props();
 />
     <section style="margin-top: 120px;" class="section" id="product">
         <div class="container">
+            <div class="back-button">
+                <button title='חזרה' onclick={() => goto(`/${category.category}`)} class="back-btn">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M19 12H5"/>
+                        <polyline points="12 19 5 12 12 5"/>
+                    </svg>
+                    חזרה
+                </button>
+            </div>
             <div class="row">
                 <div class="col-lg-8">
                 <div class="left-images">
@@ -198,4 +207,33 @@ let { data } = $props();
     border-color: #f1c40f;
 
 }
-     </style>
+.back-btn {
+    background: transparent;
+    border: none;
+    color: #2a2a2a;
+    padding: 8px 15px;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.back-btn svg {
+    transform: rotate(180deg); /* Flip the arrow for RTL */
+    width: 20px;
+    height: 20px;
+}
+
+.back-btn:hover {
+    color: #f1c40f;
+    background: transparent;
+}
+.back-button {
+        margin-bottom: 20px;
+        text-align: right;
+    }
+.back-btn:hover svg {
+    stroke: #f1c40f;
+}
+</style>
