@@ -4,6 +4,7 @@
   import { cart, addToCart, removeFromCart } from '$lib/stores/cart.svelte.js';
   import { favorites, addToFavorites, removeFromFavorites } from '$lib/stores/favorites.svelte.js';
 	import { fly, fade } from 'svelte/transition';
+	import { goto } from '$app/navigation';
 
   let categoryData = $state({});
   let items = $state([]);
@@ -18,6 +19,7 @@
       items = currentCategory.items;
     }
   });
+  console.log()
 //                  <li><a  onclick={() => cart.cart.map(i => i.id).includes(item.id) ? removeFromCart(item) : addToCart(item)}><i class:active={cart.cart.map(i => i.id).includes(item.id)} class="fa fa-shopping-cart"></i></a></li>
 
 </script>
@@ -28,6 +30,17 @@
 <!-- ***** Products Area Starts ***** -->
 <section class="section" style="margin-top: 100px;"  id="products"  in:fly="{{ y: 200, duration: 2000 }}" out:fly="{{ duration: 2000, y: 200 }}" >
     <div class="container">
+      {#if categoryData && categoryData.subjects &&  categoryData?.subjects.length > 0}
+      <div class="back-button">
+        <button title='חזרה' onclick={() => goto(`/subject/${categoryData.subjects[0]}`)} class="back-btn">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M19 12H5"/>
+                <polyline points="12 19 5 12 12 5"/>
+            </svg>
+            חזרה
+        </button>
+      </div>
+      {/if}
       <div class="row">
         <div class="col-lg-12">
           <div class="section-heading">
@@ -74,7 +87,38 @@
     .linkhover:hover{
         color: #d6d688 !important;
     }
-    .active{
-        color: #fcdb7a;
-      }
-    </style>
+  
+.active{
+    border-color: #f1c40f;
+
+}
+.back-btn {
+    background: transparent;
+    border: none;
+    color: #2a2a2a;
+    padding: 8px 15px;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.back-btn svg {
+    transform: rotate(180deg); /* Flip the arrow for RTL */
+    width: 20px;
+    height: 20px;
+}
+
+.back-btn:hover {
+    color: #f1c40f;
+    background: transparent;
+}
+.back-button {
+        margin-bottom: 20px;
+        text-align: right;
+    }
+.back-btn:hover svg {
+    stroke: #f1c40f;
+}
+</style>
